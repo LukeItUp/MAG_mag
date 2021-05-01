@@ -313,3 +313,694 @@ JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1619860068382	geckodriver	INFO	Listening on 127.0.0.1:58879
+1619860068394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebIN2mK"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860069788	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:1277): GLib-GObject-CRITICAL **: 11:07:50.474: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:1288): GLib-GObject-CRITICAL **: 11:07:50.535: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860071572	Marionette	INFO	Listening on port 44791
+1619860071641	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:1356): GLib-GObject-CRITICAL **: 11:07:55.225: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619860191911	geckodriver	INFO	Listening on 127.0.0.1:49215
+1619860191919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiqeR1J"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860192401	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:1582): GLib-GObject-CRITICAL **: 11:09:52.938: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:1589): GLib-GObject-CRITICAL **: 11:09:52.947: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860194199	Marionette	INFO	Listening on port 38207
+1619860194257	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:1686): GLib-GObject-CRITICAL **: 11:09:57.531: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 8 failed.
+(error: https://academic.microsoft.com/dist/edp-paper~profile~serp.17b6120f1509159b1e7e.js)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619860669663	geckodriver	INFO	Listening on 127.0.0.1:58653
+1619860669672	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIHtnmD"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860670112	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:1957): GLib-GObject-CRITICAL **: 11:17:50.601: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:1968): GLib-GObject-CRITICAL **: 11:17:50.654: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860671733	Marionette	INFO	Listening on port 41289
+1619860671803	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2054): GLib-GObject-CRITICAL **: 11:17:55.070: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619860676480	Marionette	INFO	Stopped listening on port 41289
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1619860679151	geckodriver	INFO	Listening on 127.0.0.1:39645
+1619860680163	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAQUtrK"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860680634	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:2129): GLib-GObject-CRITICAL **: 11:18:01.311: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:2140): GLib-GObject-CRITICAL **: 11:18:01.365: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860682777	Marionette	INFO	Listening on port 42653
+1619860682807	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2226): GLib-GObject-CRITICAL **: 11:18:06.265: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619860687302	Marionette	INFO	Stopped listening on port 42653
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619860689802	geckodriver	INFO	Listening on 127.0.0.1:42369
+1619860689807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCuR9t2"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860690175	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:2312): GLib-GObject-CRITICAL **: 11:18:10.678: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:2318): GLib-GObject-CRITICAL **: 11:18:10.701: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860691823	Marionette	INFO	Listening on port 36217
+1619860691938	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2414): GLib-GObject-CRITICAL **: 11:18:16.029: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619860696968	Marionette	INFO	Stopped listening on port 36217
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619860699723	geckodriver	INFO	Listening on 127.0.0.1:35945
+1619860699731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesd349M"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860700146	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:2485): GLib-GObject-CRITICAL **: 11:18:20.728: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:2493): GLib-GObject-CRITICAL **: 11:18:20.749: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860701756	Marionette	INFO	Listening on port 44389
+1619860701855	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2568): GLib-GObject-CRITICAL **: 11:18:26.090: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619860706881	Marionette	INFO	Stopped listening on port 44389
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619860709636	geckodriver	INFO	Listening on 127.0.0.1:41105
+1619860709642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBmnHnN"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860710027	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:2646): GLib-GObject-CRITICAL **: 11:18:30.571: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:2652): GLib-GObject-CRITICAL **: 11:18:30.584: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860711491	Marionette	INFO	Listening on port 37277
+1619860711569	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2728): GLib-GObject-CRITICAL **: 11:18:35.941: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619860716591	Marionette	INFO	Stopped listening on port 37277
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1619860719217	geckodriver	INFO	Listening on 127.0.0.1:43787
+1619860719225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXdnjUV"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860719658	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:2836): GLib-GObject-CRITICAL **: 11:18:40.129: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:2848): GLib-GObject-CRITICAL **: 11:18:40.207: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860721647	Marionette	INFO	Listening on port 41517
+1619860721753	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2928): GLib-GObject-CRITICAL **: 11:18:46.068: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619860726780	Marionette	INFO	Stopped listening on port 41517
+1619860729549	geckodriver	INFO	Listening on 127.0.0.1:37667
+1619860729558	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev4kn9P"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860729966	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:3026): GLib-GObject-CRITICAL **: 11:18:50.452: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:3037): GLib-GObject-CRITICAL **: 11:18:50.567: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860731451	Marionette	INFO	Listening on port 37475
+1619860731501	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3126): GLib-GObject-CRITICAL **: 11:18:55.695: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619860736541	Marionette	INFO	Stopped listening on port 37475
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619860739129	geckodriver	INFO	Listening on 127.0.0.1:48285
+1619860739136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ2Mi7j"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860739535	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:3203): GLib-GObject-CRITICAL **: 11:19:00.053: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:3211): GLib-GObject-CRITICAL **: 11:19:00.106: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860741022	Marionette	INFO	Listening on port 39363
+1619860741058	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3287): GLib-GObject-CRITICAL **: 11:19:05.553: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619860746082	Marionette	INFO	Stopped listening on port 39363
+1619860748812	geckodriver	INFO	Listening on 127.0.0.1:53215
+1619860748820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6QeycI"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860749225	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:3378): GLib-GObject-CRITICAL **: 11:19:09.774: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:3384): GLib-GObject-CRITICAL **: 11:19:09.863: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860751065	Marionette	INFO	Listening on port 39099
+1619860751150	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3459): GLib-GObject-CRITICAL **: 11:19:15.598: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619860756188	Marionette	INFO	Stopped listening on port 39099
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619860758859	geckodriver	INFO	Listening on 127.0.0.1:37161
+1619860758869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9JDSiy"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860759418	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:3547): GLib-GObject-CRITICAL **: 11:19:20.066: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:3554): GLib-GObject-CRITICAL **: 11:19:20.108: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860761164	Marionette	INFO	Listening on port 42983
+1619860761196	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3627): GLib-GObject-CRITICAL **: 11:19:25.770: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619860766223	Marionette	INFO	Stopped listening on port 42983
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619860768915	geckodriver	INFO	Listening on 127.0.0.1:47785
+1619860768921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledpEOTe"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860769337	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:3700): GLib-GObject-CRITICAL **: 11:19:29.909: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:3706): GLib-GObject-CRITICAL **: 11:19:29.949: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860770945	Marionette	INFO	Listening on port 44231
+1619860771047	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3792): GLib-GObject-CRITICAL **: 11:19:35.484: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619860776071	Marionette	INFO	Stopped listening on port 44231
+1619860778762	geckodriver	INFO	Listening on 127.0.0.1:52937
+1619860778769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled9ohiJ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860779214	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:3861): GLib-GObject-CRITICAL **: 11:19:39.794: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:3872): GLib-GObject-CRITICAL **: 11:19:39.848: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860781120	Marionette	INFO	Listening on port 41051
+1619860781208	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3949): GLib-GObject-CRITICAL **: 11:19:45.162: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619860786235	Marionette	INFO	Stopped listening on port 41051
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619860788864	geckodriver	INFO	Listening on 127.0.0.1:58143
+1619860788871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePd4YuM"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860789247	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:4044): GLib-GObject-CRITICAL **: 11:19:49.695: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:4055): GLib-GObject-CRITICAL **: 11:19:49.807: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860790929	Marionette	INFO	Listening on port 44723
+1619860791001	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4134): GLib-GObject-CRITICAL **: 11:19:54.909: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619860796066	Marionette	INFO	Stopped listening on port 44723
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  Error: Shutdown, aborting read-only worker requests.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1619860798770	geckodriver	INFO	Listening on 127.0.0.1:45905
+1619860798777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJjTC5I"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860799220	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:4204): GLib-GObject-CRITICAL **: 11:19:59.818: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:4211): GLib-GObject-CRITICAL **: 11:19:59.890: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860800885	Marionette	INFO	Listening on port 36753
+1619860800909	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4302): GLib-GObject-CRITICAL **: 11:20:05.426: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619860805931	Marionette	INFO	Stopped listening on port 36753
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1619860808560	geckodriver	INFO	Listening on 127.0.0.1:46127
+1619860808567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7x4gL6"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860809006	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:4411): GLib-GObject-CRITICAL **: 11:20:09.538: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:4418): GLib-GObject-CRITICAL **: 11:20:09.577: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860810880	Marionette	INFO	Listening on port 39127
+1619860810923	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4490): GLib-GObject-CRITICAL **: 11:20:15.008: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619860815954	Marionette	INFO	Stopped listening on port 39127
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1619860818631	geckodriver	INFO	Listening on 127.0.0.1:58281
+1619860818638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejcNdDM"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860819039	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:4559): GLib-GObject-CRITICAL **: 11:20:19.741: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:4567): GLib-GObject-CRITICAL **: 11:20:19.759: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860821250	Marionette	INFO	Listening on port 39559
+1619860821367	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4657): GLib-GObject-CRITICAL **: 11:20:25.371: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619860826395	Marionette	INFO	Stopped listening on port 39559
+1619860829059	geckodriver	INFO	Listening on 127.0.0.1:54713
+1619860829064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen15vlf"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860829422	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:4735): GLib-GObject-CRITICAL **: 11:20:30.004: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:4746): GLib-GObject-CRITICAL **: 11:20:30.061: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860831429	Marionette	INFO	Listening on port 38003
+1619860831500	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4813): GLib-GObject-CRITICAL **: 11:20:35.467: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619860836537	Marionette	INFO	Stopped listening on port 38003
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  Error: Shutdown, aborting read-only worker requests.
+console.error: services.settings: 
+  main/message-groups Signature failed  Error: Shutdown, aborting read-only worker requests.
+1619860839204	geckodriver	INFO	Listening on 127.0.0.1:40037
+1619860839214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJe2EvR"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860839638	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:4887): GLib-GObject-CRITICAL **: 11:20:40.217: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:4893): GLib-GObject-CRITICAL **: 11:20:40.249: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+1619860905151	geckodriver	INFO	Listening on 127.0.0.1:43821
+1619860905160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEPVGZ5"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860905623	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:5122): GLib-GObject-CRITICAL **: 11:21:46.143: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:5136): GLib-GObject-CRITICAL **: 11:21:46.246: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860907574	Marionette	INFO	Listening on port 35429
+1619860907687	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5199): GLib-GObject-CRITICAL **: 11:21:51.889: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619860912726	Marionette	INFO	Stopped listening on port 35429
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+1619860950000	geckodriver	INFO	Listening on 127.0.0.1:41803
+1619860950009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI9r0OP"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860950422	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:5304): GLib-GObject-CRITICAL **: 11:22:30.956: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:5315): GLib-GObject-CRITICAL **: 11:22:31.009: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860952045	Marionette	INFO	Listening on port 38687
+1619860952128	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5391): GLib-GObject-CRITICAL **: 11:22:37.043: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619860957158	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619860959865	Marionette	INFO	Stopped listening on port 38687
+1619860995037	geckodriver	INFO	Listening on 127.0.0.1:35517
+1619860995046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD6pjJv"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619860995427	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:5491): GLib-GObject-CRITICAL **: 11:23:15.969: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:5497): GLib-GObject-CRITICAL **: 11:23:15.988: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619860997358	Marionette	INFO	Listening on port 45349
+1619860997495	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5569): GLib-GObject-CRITICAL **: 11:23:21.363: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619861007553	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619861010806	Marionette	INFO	Stopped listening on port 45349
+1619861050177	geckodriver	INFO	Listening on 127.0.0.1:38939
+1619861050186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled9EeWB"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+1619861050728	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:5671): GLib-GObject-CRITICAL **: 11:24:11.265: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:5685): GLib-GObject-CRITICAL **: 11:24:11.313: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619861052528	Marionette	INFO	Listening on port 42795
+1619861052614	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5742): GLib-GObject-CRITICAL **: 11:24:16.500: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+1619861111387	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+1619861377010	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619861603704	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619861680376	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619861719376	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619861830136	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619861916301	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619861963474	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619862000794	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619862052462	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619862242698	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619862292692	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619862348778	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+1619862400784	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619862446465	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 0 failed.
+(error: https://academic.microsoft.com/dist/vendors~edp-author~edp-conference~edp-institution~edp-journal~edp-paper~edp-profile~edp-topic~etap-i~6a71126b.ddb7abf67d340b005fd0.js)
+1619862560863	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619862615923	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619862673474	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619862727704	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619862784045	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+1619862910294	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619863088036	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619863151119	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 52 failed.
+(error: https://academic.microsoft.com/dist/52.329eca72f1ace1d116e9.js)
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://academic.microsoft.com/dist/6.32a36e1d4b18aa81d260.js)
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://academic.microsoft.com/dist/6.32a36e1d4b18aa81d260.js)
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://academic.microsoft.com/dist/6.32a36e1d4b18aa81d260.js)
+1619863219749	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 15 failed.
+(error: https://academic.microsoft.com/dist/edp-paper.d527a618ca558c3db576.js)
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1619863749036	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619863786434	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619863827700	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619863860549	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619863901010	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619863936091	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1619863939215	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619864020221	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619864065079	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619864103448	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619864144660	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619864229199	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619864267530	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619864272549	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619864368572	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619864418943	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619864467177	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619864505846	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619864565470	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+1619864614601	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619864727460	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619864797814	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619864860434	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619864921462	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619864982915	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619865049314	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619865113814	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619865169515	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619865176233	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619865239255	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619865313909	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619865381182	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619865445106	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+1619865582849	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619865726838	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619865877255	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619865955668	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619866031884	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619866037019	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619866106214	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619866111276	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+1619866187131	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619866192174	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619866266061	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619866339036	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619866344098	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619866424434	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+1619866687229	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619866692265	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 0 failed.
+(error: https://academic.microsoft.com/dist/vendors~edp-author~edp-conference~edp-institution~edp-journal~edp-paper~edp-profile~edp-topic~etap-i~6a71126b.ddb7abf67d340b005fd0.js)
+1619866776125	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619866781092	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619866786175	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+1619866875153	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619866880210	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619866963762	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619866968722	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619867053458	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619867058460	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619867143570	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619867148654	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://academic.microsoft.com/dist/6.32a36e1d4b18aa81d260.js)
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://academic.microsoft.com/dist/6.32a36e1d4b18aa81d260.js)
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 6 failed.
+(error: https://academic.microsoft.com/dist/6.32a36e1d4b18aa81d260.js)
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 52 failed.
+(error: https://academic.microsoft.com/dist/52.329eca72f1ace1d116e9.js)
+1619867339037	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619867373264	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+1619867863128	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619868163298	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619868191493	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619868230655	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619868267511	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+1619868430365	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619868468840	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619868511130	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619868552092	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619868596765	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+1619868642974	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619868680903	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619868731194	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619868830514	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+1619868881878	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619868930468	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 9 failed.
+(error: https://academic.microsoft.com/dist/edp-paper~etap-institutions.414258853fc992a00e61.js)
+1619868981371	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619869027959	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619869089923	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619869095002	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619869206326	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619869322707	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619869379270	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619869438609	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 8 failed.
+(error: https://academic.microsoft.com/dist/edp-paper~profile~serp.17b6120f1509159b1e7e.js)
+1619869505373	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 9 failed.
+(error: https://academic.microsoft.com/dist/edp-paper~etap-institutions.414258853fc992a00e61.js)
+1619869513150	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619869578977	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619869642614	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619869699288	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619869776739	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619869837138	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619869917465	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619869986428	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+1619870055515	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619870125478	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619870194569	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1619870263193	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619870332303	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619870403080	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+1619870560940	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619870565959	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619870649243	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1619870654267	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.

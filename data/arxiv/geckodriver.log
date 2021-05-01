@@ -1,0 +1,315 @@
+1619858280295	geckodriver	INFO	Listening on 127.0.0.1:58029
+1619858280305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileESXCzD"
+*** You are running in headless mode.
+1619858280941	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:9023): GLib-GObject-CRITICAL **: 10:38:01.434: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:9043): GLib-GObject-CRITICAL **: 10:38:01.497: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:9123): GLib-GObject-CRITICAL **: 10:38:02.607: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619858282628	Marionette	INFO	Listening on port 33021
+1619858282733	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619858307823	geckodriver	INFO	Listening on 127.0.0.1:47343
+1619858307839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT0HxjI"
+*** You are running in headless mode.
+1619858308537	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:9247): GLib-GObject-CRITICAL **: 10:38:28.977: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:9267): GLib-GObject-CRITICAL **: 10:38:29.045: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1619858309935	Marionette	INFO	Listening on port 36587
+1619858309986	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9347): GLib-GObject-CRITICAL **: 10:38:30.002: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619858356265	geckodriver	INFO	Listening on 127.0.0.1:47659
+1619858356274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYG86Yv"
+*** You are running in headless mode.
+1619858356832	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:9482): GLib-GObject-CRITICAL **: 10:39:17.228: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:9504): GLib-GObject-CRITICAL **: 10:39:17.364: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1619858358216	Marionette	INFO	Listening on port 44275
+
+(/usr/lib/firefox/firefox:9581): GLib-GObject-CRITICAL **: 10:39:18.281: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619858358296	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619858384420	geckodriver	INFO	Listening on 127.0.0.1:33515
+1619858384426	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuQQYEr"
+*** You are running in headless mode.
+1619858384933	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:9708): GLib-GObject-CRITICAL **: 10:39:45.335: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:9730): GLib-GObject-CRITICAL **: 10:39:45.464: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1619858386359	Marionette	INFO	Listening on port 38083
+1619858386451	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9809): GLib-GObject-CRITICAL **: 10:39:46.470: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619858412258	geckodriver	INFO	Listening on 127.0.0.1:56495
+1619858412275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1XnN55"
+*** You are running in headless mode.
+1619858412986	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:9934): GLib-GObject-CRITICAL **: 10:40:13.426: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:9956): GLib-GObject-CRITICAL **: 10:40:13.500: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1619858414204	Marionette	INFO	Listening on port 34147
+1619858414352	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10043): GLib-GObject-CRITICAL **: 10:40:14.450: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619858430524	geckodriver	INFO	Listening on 127.0.0.1:35009
+1619858430538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileucNQVi"
+*** You are running in headless mode.
+1619858431300	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:10170): GLib-GObject-CRITICAL **: 10:40:31.793: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:10191): GLib-GObject-CRITICAL **: 10:40:31.868: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1619858432720	Marionette	INFO	Listening on port 39861
+1619858432786	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10277): GLib-GObject-CRITICAL **: 10:40:32.863: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619858501385	geckodriver	INFO	Listening on 127.0.0.1:33023
+1619858501393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuz2UV0"
+*** You are running in headless mode.
+1619858501966	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:10413): GLib-GObject-CRITICAL **: 10:41:42.410: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:10433): GLib-GObject-CRITICAL **: 10:41:42.488: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1619858503292	Marionette	INFO	Listening on port 37161
+1619858503316	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10518): GLib-GObject-CRITICAL **: 10:41:43.466: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619858522502	geckodriver	INFO	Listening on 127.0.0.1:42023
+1619858522507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyvgdPg"
+*** You are running in headless mode.
+1619858523011	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:10623): GLib-GObject-CRITICAL **: 10:42:03.453: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:10643): GLib-GObject-CRITICAL **: 10:42:03.531: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1619858524429	Marionette	INFO	Listening on port 41755
+
+(/usr/lib/firefox/firefox:10721): GLib-GObject-CRITICAL **: 10:42:04.514: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619858524539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619858537094	geckodriver	INFO	Listening on 127.0.0.1:32915
+1619858537101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX3YROo"
+*** You are running in headless mode.
+1619858537637	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:10837): GLib-GObject-CRITICAL **: 10:42:18.097: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:10857): GLib-GObject-CRITICAL **: 10:42:18.167: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1619858538945	Marionette	INFO	Listening on port 42375
+1619858539065	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10935): GLib-GObject-CRITICAL **: 10:42:19.098: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619858547129	geckodriver	INFO	Listening on 127.0.0.1:51089
+1619858547137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6RzvN5"
+*** You are running in headless mode.
+1619858547658	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:11050): GLib-GObject-CRITICAL **: 10:42:28.111: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:11070): GLib-GObject-CRITICAL **: 10:42:28.190: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1619858549084	Marionette	INFO	Listening on port 34925
+
+(/usr/lib/firefox/firefox:11149): GLib-GObject-CRITICAL **: 10:42:29.148: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619858549166	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: main/search-config update being skipped
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619858588499	geckodriver	INFO	Listening on 127.0.0.1:41937
+1619858588507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen9o4XE"
+*** You are running in headless mode.
+1619858589040	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:11297): GLib-GObject-CRITICAL **: 10:43:09.489: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:11317): GLib-GObject-CRITICAL **: 10:43:09.563: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1619858590470	Marionette	INFO	Listening on port 39951
+1619858590562	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11395): GLib-GObject-CRITICAL **: 10:43:10.576: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619858692293	geckodriver	INFO	Listening on 127.0.0.1:56945
+1619858692303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeTemxl"
+*** You are running in headless mode.
+1619858693011	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:11576): GLib-GObject-CRITICAL **: 10:44:53.496: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:11596): GLib-GObject-CRITICAL **: 10:44:53.557: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1619858694484	Marionette	INFO	Listening on port 36791
+1619858694523	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11677): GLib-GObject-CRITICAL **: 10:44:54.546: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: main/search-config update being skipped
+console.info: MINT: main/search-config update being skipped
+console.info: MINT: main/search-config update being skipped
+1619858885391	geckodriver	INFO	Listening on 127.0.0.1:50393
+1619858885399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletmcZ2X"
+*** You are running in headless mode.
+1619858886011	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:11897): GLib-GObject-CRITICAL **: 10:48:06.462: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:11917): GLib-GObject-CRITICAL **: 10:48:06.530: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1619858887332	Marionette	INFO	Listening on port 34103
+1619858887448	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12003): GLib-GObject-CRITICAL **: 10:48:07.519: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619858963817	geckodriver	INFO	Listening on 127.0.0.1:39869
+1619858963826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYAOKtD"
+*** You are running in headless mode.
+1619858964468	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:12524): GLib-GObject-CRITICAL **: 10:49:24.966: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: main/search-config update being skipped
+
+(/usr/lib/firefox/firefox:12544): GLib-GObject-CRITICAL **: 10:49:25.043: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1619858966103	Marionette	INFO	Listening on port 40119
+
+(/usr/lib/firefox/firefox:12623): GLib-GObject-CRITICAL **: 10:49:26.141: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619858966155	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619859087752	geckodriver	INFO	Listening on 127.0.0.1:40291
+1619859087761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyrLwkb"
+*** You are running in headless mode.
+1619859088337	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:12901): GLib-GObject-CRITICAL **: 10:51:28.780: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:12921): GLib-GObject-CRITICAL **: 10:51:28.864: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1619859089914	Marionette	INFO	Listening on port 40349
+
+(/usr/lib/firefox/firefox:13001): GLib-GObject-CRITICAL **: 10:51:29.988: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1619859089988	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 48 failed.
+(error: https://academic.microsoft.com/dist/48.ec950b6288cce510dcdf.js)
+JavaScript error: https://academic.microsoft.com/dist/main.36f76ab644efcd4c6026.build.js, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://academic.microsoft.com/dist/edp-author~edp-conference~edp-institution~edp-journal~edp-profile~edp-serp~edp-topic~serp.edb55bfda3381034ed67.js)
+Exiting due to channel error.
+Exiting due to channel error.
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Exiting due to channel error.
+1619859124206	geckodriver	INFO	Listening on 127.0.0.1:41051
+1619859124212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "user-agent=fri-masters-research" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewezTL5"
+*** You are running in headless mode.
+1619859124747	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:13153): GLib-GObject-CRITICAL **: 10:52:05.197: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:13173): GLib-GObject-CRITICAL **: 10:52:05.314: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1619859126107	Marionette	INFO	Listening on port 46735
+1619859126172	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13251): GLib-GObject-CRITICAL **: 10:52:06.237: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

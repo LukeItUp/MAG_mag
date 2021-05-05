@@ -38,6 +38,18 @@ with open('processed/nodeidx2paperid.csv', 'r') as file:
         except Exception as e:
             continue
 
+year_data = dict()
+print("Reading node_year.csv")
+i = 0
+with open('processed/node_year.csv', 'r') as file:
+    for line in file:
+        try:
+            data = line.strip()
+            year_data[str(i)] = data
+        except Exception as e:
+            continue
+        i += 1
+
 title_data = dict()
 print("Reading titleabs.tsv")
 # get tsv here: https://snap.stanford.edu/ogb/data/misc/ogbn_arxiv/titleabs.tsv.gz
@@ -55,12 +67,14 @@ i = 0
 for node in graph:
     print(f'{i}/{n}')
     paper_id = id_data.pop(node)
+    year = year_data.pop(node)
     try:
         title = title_data.pop(paper_id)
     except Exception as e:
         title = get_paper_title(paper_id)
     graph.nodes[node]['paper_id'] = paper_id
     graph.nodes[node]['title'] = title
+    graph.nodes[node]['year'] = year
     i += 1
 
 nx.write_pajek(graph, '../arxiv_network.net')

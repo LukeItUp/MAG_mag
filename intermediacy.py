@@ -92,6 +92,7 @@ def monte_carlo(graph, probabilites, source, target, samples=100000):
 def f_pow_x_alpha(weights, alpha=2.0):
     print(f'p function: f(x) = x^alpha | alpha: {alpha}')
     for key in weights.keys():
+        print('.', end='')
         weights[key] = weights[key] ** alpha
     return weights
 
@@ -138,8 +139,8 @@ if __name__ == '__main__':
 
     # --------------------- Weight to probability functions ---------------------
     #probabilities = f_pow_x_alpha(weights, alpha=alpha)
-    #probabilities = f_pow_alpha_x(weights, alpha=alpha)
-    probabilities = f_mo(weights, alpha=alpha)
+    probabilities = f_pow_alpha_x(weights, alpha=alpha)
+    #probabilities = f_mo(weights, alpha=alpha)
     # ---------------------------------------------------------------------------
 
     intermediacies = monte_carlo(graph, probabilities, source, target, samples=n_samples)

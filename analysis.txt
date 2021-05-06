@@ -40,8 +40,28 @@ target 0.0
 
 ---------------------------------------
 network: data/clanek.net
-source: 1 | target: 12 | max w value: 1
-p function: f(x) = alpha^x | alpha: 10000000
+source: 1 | target: 12 | max w value: 1000
+p function: f(x) = x^alpha | alpha: 1e-07
+10000000/10000000 samples done
+
+Intermediacies
+source 1.0
+('2', 1.0)
+('3', 1.0)
+('4', 1.0)
+('5', 1.0)
+('6', 1.0)
+('7', 1.0)
+('8', 1.0)
+('9', 1.0)
+('10', 1.0)
+('11', 1.0)
+target 1.0
+
+---------------------------------------
+network: data/clanek.net
+source: 1 | target: 12 | max w value: 1000
+p function: f(x) = x^alpha | alpha: 10000000
 10000000/10000000 samples done
 
 Intermediacies
@@ -77,6 +97,66 @@ target 0.1217162
 ('4', 0.0)
 ('6', 0.0)
 ('8', 0.0)
+
+---------------------------------------
+network: data/clanek.net
+source: 1 | target: 12 | max w value: 1
+p function: f(x) = alpha^x | alpha: 10000000
+10000000/10000000 samples done
+
+Intermediacies
+source 1.0
+('2', 1.0)
+('3', 1.0)
+('4', 1.0)
+('5', 1.0)
+('6', 1.0)
+('7', 1.0)
+('8', 1.0)
+('9', 1.0)
+('10', 1.0)
+('11', 1.0)
+target 1.0
+
+---------------------------------------
+network: data/clanek.net
+source: 1 | target: 12 | max w value: 1000
+p function: f(x) = alpha^x | alpha: 1e-07
+10000000/10000000 samples done
+
+Intermediacies
+source 0.0
+('2', 0.0)
+('3', 0.0)
+('4', 0.0)
+('5', 0.0)
+('6', 0.0)
+('7', 0.0)
+('8', 0.0)
+('9', 0.0)
+('10', 0.0)
+('11', 0.0)
+target 0.0
+
+---------------------------------------
+network: data/clanek.net
+source: 1 | target: 12 | max w value: 1000
+p function: f(x) = alpha^x | alpha: 10000000
+10000000/10000000 samples done
+
+Intermediacies
+source 1.0
+('2', 1.0)
+('3', 1.0)
+('4', 1.0)
+('5', 1.0)
+('6', 1.0)
+('7', 1.0)
+('8', 1.0)
+('9', 1.0)
+('10', 1.0)
+('11', 1.0)
+target 1.0
 
 ---------------------------------------
 network: data/clanek.net
@@ -142,26 +222,6 @@ target 0.0
 ---------------------------------------
 network: data/clanek.net
 source: 1 | target: 12 | max w value: 1000
-p function: f(x) = x / (x + alpha) | alpha: 10000000
-10000000/10000000 samples done
-
-Intermediacies
-source 0.0
-('2', 0.0)
-('3', 0.0)
-('4', 0.0)
-('5', 0.0)
-('6', 0.0)
-('7', 0.0)
-('8', 0.0)
-('9', 0.0)
-('10', 0.0)
-('11', 0.0)
-target 0.0
-
----------------------------------------
-network: data/clanek.net
-source: 1 | target: 12 | max w value: 1000
 p function: f(x) = x / (x + alpha) | alpha: 1e-07
 10000000/10000000 samples done
 
@@ -178,3 +238,23 @@ source 1.0
 ('10', 1.0)
 ('11', 1.0)
 target 1.0
+
+---------------------------------------
+network: data/clanek.net
+source: 1 | target: 12 | max w value: 1000
+p function: f(x) = x / (x + alpha) | alpha: 10000000
+10000000/10000000 samples done
+
+Intermediacies
+source 0.0
+('2', 0.0)
+('3', 0.0)
+('4', 0.0)
+('5', 0.0)
+('6', 0.0)
+('7', 0.0)
+('8', 0.0)
+('9', 0.0)
+('10', 0.0)
+('11', 0.0)
+target 0.0

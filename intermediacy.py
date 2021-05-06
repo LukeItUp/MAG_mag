@@ -117,9 +117,9 @@ graph_path = 'data/clanek.net'
 source = "1"
 target = "12"
 n_samples = 10000000
-alpha = 10000000
+alpha = 0.0000001
 random_weights = True
-w_max = 1
+w_max = 1000
 
 graph = None
 weights = dict()

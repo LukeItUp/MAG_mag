@@ -26,7 +26,7 @@ def get_paper_title(paper_id):
 # ----- main -----
 print("Reading edge list")
 edge_list_path = 'processed/edge.csv'
-graph = nx.read_edgelist(edge_list_path)
+graph = nx.read_edgelist(edge_list_path, create_using=nx.DiGraph)
 
 id_data = dict()
 print("Reading nodeidx2paperid.tsv")
@@ -50,6 +50,18 @@ with open('processed/node_year.csv', 'r') as file:
             continue
         i += 1
 
+label_data = dict()
+print("Reading node-label.csv")
+i = 0
+with open('processed/node-label.csv', 'r') as file:
+    for line in file:
+        try:
+            data = line.strip()
+            label_data[str(i)] = data
+        except Exception as e:
+            continue
+        i += 1
+
 title_data = dict()
 print("Reading titleabs.tsv")
 # get tsv here: https://snap.stanford.edu/ogb/data/misc/ogbn_arxiv/titleabs.tsv.gz
@@ -68,6 +80,7 @@ for node in graph:
     print(f'{i}/{n}')
     paper_id = id_data.pop(node)
     year = year_data.pop(node)
+    label = label_data.pop(node)
     try:
         title = title_data.pop(paper_id)
     except Exception as e:
@@ -75,6 +88,19 @@ for node in graph:
     graph.nodes[node]['paper_id'] = paper_id
     graph.nodes[node]['title'] = title
     graph.nodes[node]['year'] = year
+    graph.nodes[node]['label'] = label
     i += 1
 
-nx.write_pajek(graph, '../arxiv_network.net')
+max_out = 0
+max_in = 0
+for node in graph:
+    out_k = graph.out_degree(node)
+    in_k = graph.in_degree(node)
+    if max_out < out_k:
+        max_out = out_k
+    if max_in < in_k:
+        max_in = in_k
+
+print("max_out_degree:", max_out, "max_in_degree", max_in)
+
+nx.write_pajek(graph, '../arxiv_network-2.net')

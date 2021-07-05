@@ -1,0 +1,16 @@
+arxiv_network.net
+
+iz clanek.net
+40398 21409 0.0 0.0 ellipse paper_id 2248369874 title "which type of citation analysis generates the most accurate taxonomy of scientific and technical knowledge" year 2017 label 38
+100709 16508 0.0 0.0 ellipse paper_id 2897249806 title "from louvain to leiden guaranteeing well connected communities" year 2019 label 26
+106154 98890 0.0 0.0 ellipse paper_id 2951889839 title "accuracy of citation data in web of science and scopus" year 2019 label 38
+7120 151774 0.0 0.0 ellipse paper_id 2950850592 title "a new methodology for constructing a publication level classification system of science" year 2012 label 38
+5077 113340 0.0 0.0 ellipse paper_id 2950504508 title "field normalized citation impact indicators and the choice of an appropriate counting method" year 2015 label 38
+
+
+
+other:
+102593 27102 0.0 0.0 ellipse paper_id 2900042101 title "community detection and growth potential prediction from patent citation networks" year 2018 label 31
+17855 212 0.0 0.0 ellipse paper_id 2165228812 title "labelrank a stabilized label propagation algorithm for community detection in networks" year 2013 label 26
+46300 101855 0.0 0.0 ellipse paper_id 1504647324 title "z score based modularity for community detection in networks" year 2016 label 26
+14508 140407 0.0 0.0 ellipse paper_id 2091202730 title "detect overlapping and hierarchical community structure in networks" year 2009 label 3

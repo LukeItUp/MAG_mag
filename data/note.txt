@@ -7,10 +7,27 @@ iz clanek.net
 7120 151774 0.0 0.0 ellipse paper_id 2950850592 title "a new methodology for constructing a publication level classification system of science" year 2012 label 38
 5077 113340 0.0 0.0 ellipse paper_id 2950504508 title "field normalized citation impact indicators and the choice of an appropriate counting method" year 2015 label 38
 
+Zanimivi:
+40663 32003 0.0 0.0 ellipse paper_id 2254214908 title "fast extraction of the backbone of projected bipartite networks to aid community detection" year 2016 label 26
+40688 56036 0.0 0.0 ellipse paper_id 2254415892 title "role based label propagation algorithm for community detection" year 2016 label 26
+41086 56041 0.0 0.0 ellipse paper_id 2258271596 title "nearest neighbor search in complex network for community detection" year 2015 label 26
+41611 71876 0.0 0.0 ellipse paper_id 2263392086 title "centrality measures for networks with community structure" year 2016 label 26
+
+generalized louvain method for community detection in large networks <————
+
+What:
+{'id': '21431', 'x': 0.0, 'y': 0.0, 'shape': 'ellipse', 'paper_id': '2087610700', 'title': 'clustering memes in social media', 'year': '2013', 'label': '26', 'seen': True}
 
 
-other:
-102593 27102 0.0 0.0 ellipse paper_id 2900042101 title "community detection and growth potential prediction from patent citation networks" year 2018 label 31
-17855 212 0.0 0.0 ellipse paper_id 2165228812 title "labelrank a stabilized label propagation algorithm for community detection in networks" year 2013 label 26
-46300 101855 0.0 0.0 ellipse paper_id 1504647324 title "z score based modularity for community detection in networks" year 2016 label 26
-14508 140407 0.0 0.0 ellipse paper_id 2091202730 title "detect overlapping and hierarchical community structure in networks" year 2009 label 3
+Sestanek
+SOURCE: 9141 85715 0.0 0.0 ellipse paper_id 2952338048 title "four degrees of separation" year 2011 label 26
+TARGET: ?
+
+100709 16508 0.0 0.0 ellipse paper_id 2897249806 title "from louvain to leiden guaranteeing well connected communities" year 2019 label 26
+1030 80881 0.0 0.0 ellipse paper_id 2033403400 title "objective criteria for the evaluation of clustering methods" year 1971 label 26
+153033 79356 0.0 0.0 ellipse paper_id 2982165638 title "a framework for second order eigenvector centralities and clustering coefficients" year 2019 label 26
+
+
+TESTIRAJ RAZLIČNE LASTNOSTI VSAKO POSEBAJ IN NAREDI KORELACIJE
+CACHIRANJE IN POTEM SE PREVERI KAKŠNA JE POHITRITEV Z NJIM
+

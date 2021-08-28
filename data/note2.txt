@@ -1,0 +1,114 @@
+arxiv_network.net
+
+iz clanek.net
+40398 21409 0.0 0.0 ellipse paper_id 2248369874 title "which type of citation analysis generates the most accurate taxonomy of scientific and technical knowledge" year 2017 label 38
+100709 16508 0.0 0.0 ellipse paper_id 2897249806 title "from louvain to leiden guaranteeing well connected communities" year 2019 label 26
+106154 98890 0.0 0.0 ellipse paper_id 2951889839 title "accuracy of citation data in web of science and scopus" year 2019 label 38
+7120 151774 0.0 0.0 ellipse paper_id 2950850592 title "a new methodology for constructing a publication level classification system of science" year 2012 label 38
+5077 113340 0.0 0.0 ellipse paper_id 2950504508 title "field normalized citation impact indicators and the choice of an appropriate counting method" year 2015 label 38
+
+
+biggest network:
+S: 40398 21409 0.0 0.0 ellipse paper_id 2248369874 title "which type of citation analysis generates the most accurate taxonomy of scientific and technical knowledge" year 2017 label 38
+T: 167111 117739 0.0 0.0 ellipse paper_id 3008959503 title "gender disparities in international research collaboration a large scale bibliometric study of 25 000 university professors" year 2020 label 38
+
+
+
+out:
+40398 21409 0.0 0.0 ellipse paper_id 2248369874 title "which type of citation analysis generates the most accurate taxonomy of scientific and technical knowledge" year 2017 label 38
+158497 104363 0.0 0.0 ellipse paper_id 2994874130 title "practical method to reclassify web of science articles into unique subject categories and broad disciplines" year 2020 label 38
+
+158497 0.0 0.0 ellipse paper_id  2994874130 title practical method to reclassify web of science articles into unique subject categories and broad disciplines year  2020 label  38
+100709 0.0 0.0 ellipse paper_id  2897249806 title from louvain to leiden guaranteeing well connected communities year  2019 label  26
+78375 0.0 0.0 ellipse paper_id  2912176745 title a principled methodology for comparing relatedness measures for clustering publications year  2019 label  38
+78374 0.0 0.0 ellipse paper_id  2776545717 title granularity of algorithmically constructed publication level classifications of research publications identification of topics year  2018 label  38
+85961 0.0 0.0 ellipse paper_id  2794902280 title algorithmically generated subject categories based on citation relations an empirical micro study using papers on overall water splitting year  2018 label  38
+78377 0.0 0.0 ellipse paper_id  2952036027 title generating clustered journal maps an automated system for hierarchical classification year  2016 label  38
+86231 0.0 0.0 ellipse paper_id  2951756087 title mapping patent classifications portfolio and statistical analysis and the comparison of strengths and weaknesses year  2017 label  38
+86230 0.0 0.0 ellipse paper_id  2950140372 title betweenness and diversity in journal citation networks as measures of interdisciplinarity a tribute to eugene garfield year  2017 label  38
+59586 0.0 0.0 ellipse paper_id  2951944421 title citation based clustering of publications using citnetexplorer and vosviewer year  2017 label  38
+69933 0.0 0.0 ellipse paper_id  2747133643 title visualizing the context of citations referencing papers published by eugene garfield a new type of keyword co occurrence analysis year  2018 label  38
+59584 0.0 0.0 ellipse paper_id  2592059976 title memetic search for overlapping topics based on a local evaluation of link communities year  2017 label  26
+59359 0.0 0.0 ellipse paper_id  2594498940 title contextualization of topics browsing through the universe of bibliographic information year  2017 label  38
+59585 0.0 0.0 ellipse paper_id  2592745293 title mutual information based labelling and comparing clusters year  2017 label  31
+59358 0.0 0.0 ellipse paper_id  2590145195 title clustering articles based on semantic similarity year  2017 label  38
+40399 0.0 0.0 ellipse paper_id  2949355343 title large scale analysis of the accuracy of the journal classification systems of web of science and scopus year  2015 label  38
+65527 0.0 0.0 ellipse paper_id  2624722713 title specialization versus diversification in research activities the extent intensity and relatedness of field diversification by individual scientists year  2017 label  38
+89463 0.0 0.0 ellipse paper_id  2884078607 title diversification versus specialization in scientific research which strategy pays off year  2019 label  38
+89462 0.0 0.0 ellipse paper_id  2799753020 title the effect of multidisciplinary collaborations on research diversification year  2018 label  38
+72494 0.0 0.0 ellipse paper_id  2757381698 title the effects of gender age and academic rank on research diversification year  2018 label  38
+51680 0.0 0.0 ellipse paper_id  2785598616 title field normalization of scientometric indicators year  2018 label  38
+51679 0.0 0.0 ellipse paper_id  2487443737 title the memory of science inflation myopia and the knowledge network year  2016 label  38
+38840 0.0 0.0 ellipse paper_id  2952533362 title a review of the literature on citation impact indicators year  2015 label  38
+114456 0.0 0.0 ellipse paper_id  2924000892 title like for like bibliometric substitutes for peer review advantages and limits of indicators calculated from the ep index year  2019 label  38
+101912 0.0 0.0 ellipse paper_id  2899179637 title direct citations between citing publications year  2018 label  38
+94863 0.0 0.0 ellipse paper_id  2883709920 title heuristics as conceptual lens for understanding and studying the usage of bibliometrics in research evaluation year  2019 label  38
+92193 0.0 0.0 ellipse paper_id  2806963674 title creativity in science and the link to cited references is the creative potential of papers reflected in their cited references year  2018 label  38
+85149 0.0 0.0 ellipse paper_id  2793174271 title dimensions a competitor to scopus and the web of science year  2018 label  38
+92202 0.0 0.0 ellipse paper_id  2806980402 title cascading citation expansion year  2018 label  38
+80641 0.0 0.0 ellipse paper_id  2951373178 title smart girls versus sleeping beauties in the sciences the identification of instant and delayed recognition by using the citation angle year  2016 label  38
+77194 0.0 0.0 ellipse paper_id  2771466031 title research assessment by percentile based double rank analysis year  2018 label  38
+83452 0.0 0.0 ellipse paper_id  2788866021 title technological research in the eu is less efficient than the world average eu research policy risks europeans future year  2018 label  38
+73639 0.0 0.0 ellipse paper_id  2949515008 title the structural role of the core literature in history year  2017 label  38
+66044 0.0 0.0 ellipse paper_id  2654802362 title can the journal impact factor be used as a criterion for the selection of junior researchers a large scale empirical study based on researcherid data year  2017 label  38
+61359 0.0 0.0 ellipse paper_id  2605124925 title the coverage of microsoft academic analyzing the publication output of a university year  2017 label  38
+94865 0.0 0.0 ellipse paper_id  2949292402 title peer review and citation data in predicting university rankings a large scale analysis year  2018 label  38
+94864 0.0 0.0 ellipse paper_id  2886446017 title systematic analysis of agreement between metrics and peer review in the uk ref year  2019 label  38
+80782 0.0 0.0 ellipse paper_id  2784936649 title can microsoft academic assess the early citation impact of in press articles a multi discipline exploratory analysis year  2018 label  38
+78793 0.0 0.0 ellipse paper_id  2779231960 title core elements in the process of citing publications conceptual overview of the literature year  2018 label  38
+91842 0.0 0.0 ellipse paper_id  2806133181 title revisiting the scientometric conceptualization of impact and its measurement year  2018 label  38
+105380 0.0 0.0 ellipse paper_id  2903560887 title the collaboration behavior of top scientists year  2019 label  38
+91843 0.0 0.0 ellipse paper_id  2902016156 title predicting publication long term impact through a combination of early citations and journal impact factor year  2019 label  38
+76011 0.0 0.0 ellipse paper_id  2768506257 title microsoft academic automatic document searches accuracy for journal articles and suitability for citation analysis year  2018 label  38
+74656 0.0 0.0 ellipse paper_id  2766265189 title microsoft academic a multidisciplinary comparison of citation counts with scopus and mendeley for 29 journals year  2017 label  38
+73636 0.0 0.0 ellipse paper_id  2763175323 title the number of linked references of publications in microsoft academic in comparison with the web of science year  2018 label  38
+60018 0.0 0.0 ellipse paper_id  2593634162 title use of the journal impact factor for assessing individual articles need not be wrong year  2017 label  38
+82517 0.0 0.0 ellipse paper_id  2787686503 title the journal impact factor a brief history critique and discussion of adverse effects year  2018 label  38
+81852 0.0 0.0 ellipse paper_id  2786666488 title could scientists use altmetric com scores to predict longer term citation counts year  2018 label  38
+60593 0.0 0.0 ellipse paper_id  2599441961 title the accuracy of confidence intervals for field normalised indicators year  2017 label  38
+96034 0.0 0.0 ellipse paper_id  2950619306 title coverage of highly cited documents in google scholar web of science and scopus a multidisciplinary comparison year  2018 label  38
+96033 0.0 0.0 ellipse paper_id  2886599162 title google scholar web of science and scopus a systematic comparison of citations in 252 subject categories year  2018 label  38
+57271 0.0 0.0 ellipse paper_id  2565824534 title citation success index an intuitive pair wise journal comparison metric year  2016 label  38
+56428 0.0 0.0 ellipse paper_id  2951490732 title constructing bibliometric networks a comparison between full and fractional counting year  2016 label  38
+94927 0.0 0.0 ellipse paper_id  2883870164 title missing author address information in web of science an explorative study year  2018 label  38
+86165 0.0 0.0 ellipse paper_id  2951499795 title full and fractional counting in bibliometric networks year  2016 label  38
+53943 0.0 0.0 ellipse paper_id  2521984931 title patterns of authors contribution in scientific manuscripts year  2017 label  38
+51101 0.0 0.0 ellipse paper_id  2473644846 title citation score normalized by cited references csncr the introduction of a new citation impact indicator year  2016 label  38
+47071 0.0 0.0 ellipse paper_id  2343574746 title the elephant in the room the problem of quantifying productivity in evaluative scientometrics year  2016 label  38
+5077 0.0 0.0 ellipse paper_id  2950504508 title field normalized citation impact indicators and the choice of an appropriate counting method year  2015 label  38
+94012 0.0 0.0 ellipse paper_id  2811376168 title social media metrics for new research evaluation year  2018 label  38
+56427 0.0 0.0 ellipse paper_id  2951277081 title the normalization of co authorship networks in the bibliometric evaluation the government stimulation programs of china and korea year  2016 label  38
+41057 0.0 0.0 ellipse paper_id  2257913253 title excellence networks in science a web based application based on bayesian multilevel logistic regression bmlr for the identification of institutions collaborating successfully year  2015 label  38
+124571 0.0 0.0 ellipse paper_id  2951228035 title is collaboration among scientists related to the citation impact of papers because their quality increases with collaboration an analysis based on data from f1000prime and normalized citation scores year  2016 label  38
+71548 0.0 0.0 ellipse paper_id  2753967937 title the geography of references in elite articles which countries contribute to the archives of knowledge year  2018 label  38
+37039 0.0 0.0 ellipse paper_id  2952208446 title more precise methods for national research citation impact comparisons year  2015 label  38
+56821 0.0 0.0 ellipse paper_id  2560495985 title three practical field normalised alternative indicator formulae for research evaluation year  2017 label  38
+77832 0.0 0.0 ellipse paper_id  2773932649 title normalization of zero inflated data an empirical analysis of a new indicator family and its use with altmetrics data year  2017 label  38
+87404 0.0 0.0 ellipse paper_id  2797204405 title do altmetrics correlate with the quality of papers a large scale empirical study based on f1000prime data year  2018 label  38
+112307 0.0 0.0 ellipse paper_id  2918895389 title open data to evaluate academic researchers an experiment with the italian scientific habilitation year  2019 label  38
+107549 0.0 0.0 ellipse paper_id  2908251744 title do altmetrics work for assessing research quality year  2019 label  38
+55191 0.0 0.0 ellipse paper_id  2537125864 title conceptual difficulties in the use of statistical inference in citation analysis year  2016 label  38
+47033 0.0 0.0 ellipse paper_id  2343336610 title not dead just resting the practical value of per publication citation indicators year  2016 label  38
+47021 0.0 0.0 ellipse paper_id  2343204342 title a farewell to the mncs and like size independent indicators year  2016 label  38
+59353 0.0 0.0 ellipse paper_id  2590079785 title an investigation on the skewness patterns and fractal nature of research productivity distributions at field and discipline level year  2017 label  38
+53723 0.0 0.0 ellipse paper_id  2520172304 title a comparison of university performance scores and ranks by mncs and fss year  2016 label  38
+57410 0.0 0.0 ellipse paper_id  2567443255 title does your surname affect the citability of your publications year  2017 label  38
+47474 0.0 0.0 ellipse paper_id  2484990195 title from rankings to funnel plots the question of accounting for uncertainty when assessing university research performance year  2016 label  38
+47066 0.0 0.0 ellipse paper_id  2343542095 title efficiency of research performance and the glass researcher year  2016 label  38
+46529 0.0 0.0 ellipse paper_id  2339441818 title are there too many uncited articles zero inflated variants of the discretised lognormal and hooked power law distributions year  2016 label  38
+39315 0.0 0.0 ellipse paper_id  2230582863 title the discretised lognormal and hooked power law distributions for complete citation data best options for modelling and regression year  2016 label  38
+79069 0.0 0.0 ellipse paper_id  2781044009 title on the relationships between bibliographic characteristics of scientific documents and citation and mendeley readership counts a large scale analysis of web of science publications year  2018 label  38
+51270 0.0 0.0 ellipse paper_id  2476481115 title citation count distributions for large monodisciplinary journals year  2016 label  38
+46530 0.0 0.0 ellipse paper_id  2952338125 title are the discretised lognormal and hooked power law distributions plausible for citation data year  2016 label  38
+37461 0.0 0.0 ellipse paper_id  2193275474 title the precision of the arithmetic mean geometric mean and percentiles for citation data an experimental simulation modelling approach year  2016 label  38
+37038 0.0 0.0 ellipse paper_id  2179102784 title national disciplinary and temporal variations in the extent to which articles with more authors have more impact evidence from a geometric field normalised citation indicator year  2016 label  38
+35082 0.0 0.0 ellipse paper_id  2142637246 title national research impact indicators from mendeley readers year  2015 label  38
+5074 0.0 0.0 ellipse paper_id  1209585085 title the relationship between the number of authors of a publication its citations and the impact factor of the publishing journal evidence from italy year  2015 label  38
+
+
+
+other:
+102593 27102 0.0 0.0 ellipse paper_id 2900042101 title "community detection and growth potential prediction from patent citation networks" year 2018 label 31
+17855 212 0.0 0.0 ellipse paper_id 2165228812 title "labelrank a stabilized label propagation algorithm for community detection in networks" year 2013 label 26
+46300 101855 0.0 0.0 ellipse paper_id 1504647324 title "z score based modularity for community detection in networks" year 2016 label 26
+14508 140407 0.0 0.0 ellipse paper_id 2091202730 title "detect overlapping and hierarchical community structure in networks" year 2009 label 3

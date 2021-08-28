@@ -1,0 +1,1075 @@
+4 47283 0.0 0.0 ellipse paper_id 2949364901 title "a tutorial on spectral clustering" year 2007 label 34
+9 158460 0.0 0.0 ellipse paper_id 2951443864 title "robust principal component analysis" year 2009 label 28
+58 16921 0.0 0.0 ellipse paper_id 2952296444 title "subspace pursuit for compressive sensing signal reconstruction" year 2008 label 0
+70 24696 0.0 0.0 ellipse paper_id 2950046390 title "non negative sparse coding" year 2002 label 13
+114 27473 0.0 0.0 ellipse paper_id 2952362487 title "frustratingly easy domain adaptation" year 2009 label 24
+140 82151 0.0 0.0 ellipse paper_id 1730631237 title "a tractable approach to finding closest truncated commute time neighbors in large graphs" year 2012 label 26
+182 72575 0.0 0.0 ellipse paper_id 2951553275 title "minimum cost distributed source coding over a network" year 2007 label 28
+291 148333 0.0 0.0 ellipse paper_id 25483125 title "roget s thesaurus and semantic similarity" year 2012 label 30
+292 7857 0.0 0.0 ellipse paper_id 2102515914 title "combining independent modules to solve multiple choice synonym and analogy problems" year 2003 label 30
+293 88415 0.0 0.0 ellipse paper_id 2952904369 title "not as easy as it seems automating the construction of lexical chains using roget s thesaurus" year 2012 label 30
+313 63374 0.0 0.0 ellipse paper_id 2952462564 title "mean field theory for sigmoid belief networks" year 1996 label 10
+321 93963 0.0 0.0 ellipse paper_id 27104378 title "normalizing the measurement of citation performance principles for comparing sets of documents" year 2011 label 38
+322 145699 0.0 0.0 ellipse paper_id 1782003150 title "open access does not increase citations for research articles from the astrophysical journal" year 2007 label 38
+323 20050 0.0 0.0 ellipse paper_id 2117989685 title "simple arithmetic versus intuitive understanding the case of the impact factor" year 2011 label 38
+324 29295 0.0 0.0 ellipse paper_id 2142616568 title "normalization at the field level fractional counting of citations" year 2010 label 38
+325 65191 0.0 0.0 ellipse paper_id 2154121109 title "remaining problems with the new crown indicator mncs of the cwts" year 2010 label 38
+326 119882 0.0 0.0 ellipse paper_id 2950141047 title "a meta evaluation of scientific research proposals different ways of comparing rejected to awarded applications" year 2009 label 3
+327 135820 0.0 0.0 ellipse paper_id 2950489763 title "rivals for the crown reply to opthof and leydesdorff" year 2010 label 38
+328 22060 0.0 0.0 ellipse paper_id 2950603649 title "towards a new crown indicator some theoretical considerations" year 2010 label 38
+329 40775 0.0 0.0 ellipse paper_id 2952025683 title "how fractional counting affects the impact factor normalization in terms of differences in citation potentials among fields of science" year 2010 label 38
+330 31391 0.0 0.0 ellipse paper_id 2952026116 title "caveats for the journal and field normalizations in the cwts leiden evaluations of research performance" year 2010 label 38
+331 148014 0.0 0.0 ellipse paper_id 2952565628 title "towards a new crown indicator an empirical analysis" year 2010 label 38
+332 85755 0.0 0.0 ellipse paper_id 2952940732 title "measuring contextual citation impact of scientific journals" year 2009 label 38
+366 16001 0.0 0.0 ellipse paper_id 2045134120 title "fast construction of nets in low dimensional metrics and their applications" year 2006 label 34
+367 114620 0.0 0.0 ellipse paper_id 2949607463 title "near linear work parallel sdd solvers low diameter decomposition and low stretch subgraphs" year 2011 label 34
+377 71821 0.0 0.0 ellipse paper_id 2120708938 title "domain adaptation for statistical classifiers" year 2006 label 24
+378 16065 0.0 0.0 ellipse paper_id 2162888803 title "a model of inductive bias learning" year 2000 label 10
+382 59683 0.0 0.0 ellipse paper_id 3003420881 title "learning internal representations" year 2019 label 24
+392 44649 0.0 0.0 ellipse paper_id 2950146533 title "learning bayesian networks the combination of knowledge and statistical data" year 2013 label 10
+413 119204 0.0 0.0 ellipse paper_id 2105197197 title "a knowledge compilation map" year 2002 label 10
+417 52776 0.0 0.0 ellipse paper_id 2951496501 title "approximability of sparse integer programs" year 2009 label 34
+418 92570 0.0 0.0 ellipse paper_id 2999164769 title "on k column sparse packing programs" year 2009 label 34
+462 146548 0.0 0.0 ellipse paper_id 2949959192 title "exact matrix completion via convex optimization" year 2008 label 28
+521 43331 0.0 0.0 ellipse paper_id 2950203359 title "a comparison of lauritzen spiegelhalter hugin and shenoy shafer architectures for computing marginals of probability distributions" year 2013 label 10
+574 152187 0.0 0.0 ellipse paper_id 1512888666 title "on the role of mmse estimation in approaching the information theoretic limits of linear gaussian channels shannon meets wiener" year 2004 label 28
+594 4856 0.0 0.0 ellipse paper_id 2951753283 title "a tractable inference algorithm for diagnosing multiple diseases" year 2013 label 10
+604 75120 0.0 0.0 ellipse paper_id 2949524199 title "exploiting diversity in natural language processing combining parsers" year 2000 label 30
+680 80242 0.0 0.0 ellipse paper_id 2949114735 title "uncovering social network sybils in the wild" year 2011 label 26
+689 155046 0.0 0.0 ellipse paper_id 2171468534 title "twitter mood predicts the stock market" year 2011 label 7
+690 42039 0.0 0.0 ellipse paper_id 2951088220 title "loopy belief propagation for approximate inference an empirical study" year 2013 label 10
+705 31330 0.0 0.0 ellipse paper_id 2951342368 title "finding sparse cuts locally using evolving sets" year 2008 label 34
+706 23538 0.0 0.0 ellipse paper_id 2952395520 title "a local clustering algorithm for massive graphs and its application to nearly linear time graph partitioning" year 2008 label 34
+716 14677 0.0 0.0 ellipse paper_id 2166163936 title "recovering low rank matrices from few coefficients in any basis" year 2011 label 28
+721 13954 0.0 0.0 ellipse paper_id 2949947345 title "the power of convex relaxation near optimal matrix completion" year 2009 label 28
+732 92364 0.0 0.0 ellipse paper_id 2952677519 title "learning bayesian network structure from massive datasets the sparse candidate algorithm" year 2013 label 24
+743 108039 0.0 0.0 ellipse paper_id 2950024299 title "near optimal column based matrix reconstruction" year 2011 label 34
+824 129836 0.0 0.0 ellipse paper_id 2158035250 title "the stength of weak cooperation a case study on flickr" year 2008 label 3
+885 55907 0.0 0.0 ellipse paper_id 1937101755 title "what stops social epidemics" year 2011 label 26
+888 92275 0.0 0.0 ellipse paper_id 2951447818 title "predicting the popularity of online content" year 2008 label 3
+939 149656 0.0 0.0 ellipse paper_id 1483387558 title "matrix coherence and the nystrom method" year 2014 label 10
+969 96348 0.0 0.0 ellipse paper_id 2953209903 title "composition attacks and auxiliary information in data privacy" year 2008 label 37
+992 100088 0.0 0.0 ellipse paper_id 2949825570 title "randomly spread cdma asymptotics via statistical physics" year 2005 label 28
+1002 79646 0.0 0.0 ellipse paper_id 2110693578 title "lexrank graph based lexical centrality as salience in text summarization" year 2004 label 30
+1010 46025 0.0 0.0 ellipse paper_id 2951011752 title "calibrating data to sensitivity in private data analysis" year 2012 label 4
+1011 67291 0.0 0.0 ellipse paper_id 2951660154 title "a learning theory approach to non interactive database privacy" year 2011 label 34
+1030 80881 0.0 0.0 ellipse paper_id 2033403400 title "objective criteria for the evaluation of clustering methods" year 1971 label 26
+1048 138895 0.0 0.0 ellipse paper_id 99485931 title "learning to learn" year 1998 label 24
+1059 124505 0.0 0.0 ellipse paper_id 2140668275 title "exploring networks with traceroute like probes theory and simulations" year 2006 label 8
+1060 91505 0.0 0.0 ellipse paper_id 2148440454 title "what is the real size of a sampled network the case of the internet" year 2007 label 8
+1061 147939 0.0 0.0 ellipse paper_id 2951395983 title "describing and simulating internet routes" year 2004 label 8
+1087 119218 0.0 0.0 ellipse paper_id 2125680629 title "model based compressive sensing" year 2010 label 28
+1105 155667 0.0 0.0 ellipse paper_id 2950063699 title "correlated action effects in decision theoretic regression" year 2013 label 10
+1107 161140 0.0 0.0 ellipse paper_id 2952096052 title "spudd stochastic planning using decision diagrams" year 2013 label 10
+1108 130662 0.0 0.0 ellipse paper_id 2952544286 title "hierarchical solution of markov decision processes using macro actions" year 2013 label 10
+1141 163769 0.0 0.0 ellipse paper_id 2952539829 title "algorithms and hardness for subspace approximation" year 2009 label 34
+1196 131864 0.0 0.0 ellipse paper_id 2950332743 title "empirical analysis of predictive algorithms for collaborative filtering" year 2013 label 31
+1197 63338 0.0 0.0 ellipse paper_id 2951939698 title "content based book recommending using learning for text categorization" year 1999 label 38
+1199 39561 0.0 0.0 ellipse paper_id 2953297433 title "thresholded covering algorithms for robust and max min optimization" year 2009 label 34
+1216 25319 0.0 0.0 ellipse paper_id 2118020653 title "machine learning in automated text categorization" year 2002 label 31
+1224 43285 0.0 0.0 ellipse paper_id 2949600092 title "search based structured prediction" year 2009 label 24
+1230 108572 0.0 0.0 ellipse paper_id 1900909751 title "beyond concern understanding net users attitudes about online privacy" year 1999 label 3
+1253 23935 0.0 0.0 ellipse paper_id 1848264314 title "distributed compressive sensing" year 2009 label 28
+1270 51401 0.0 0.0 ellipse paper_id 2951278869 title "thumbs up sentiment classification using machine learning techniques" year 2002 label 30
+1280 63249 0.0 0.0 ellipse paper_id 2950342317 title "greedy facility location algorithms analyzed using dual fitting with factor revealing lp" year 2002 label 34
+1304 43288 0.0 0.0 ellipse paper_id 2949643739 title "learning to resolve natural language ambiguities a unified approach" year 1998 label 30
+1305 23379 0.0 0.0 ellipse paper_id 2949995692 title "the use of classifiers in sequential inference" year 2001 label 24
+1308 40755 0.0 0.0 ellipse paper_id 2951797318 title "a winnow based approach to context sensitive spelling correction" year 1998 label 24
+1327 3910 0.0 0.0 ellipse paper_id 1511699776 title "a stream based mathematical model for distributed information processing systems the syslab system model" year 1997 label 23
+1527 138398 0.0 0.0 ellipse paper_id 2949254039 title "community structure in large networks natural cluster sizes and the absence of large well defined clusters" year 2008 label 34
+1540 85721 0.0 0.0 ellipse paper_id 2952485636 title "reinforcement learning a survey" year 1996 label 10
+1606 60722 0.0 0.0 ellipse paper_id 2952148308 title "expectation propogation for the generative aspect model" year 2012 label 24
+1608 115102 0.0 0.0 ellipse paper_id 3004036899 title "a tutorial on learning with bayesian networks" year 2020 label 24
+1629 69228 0.0 0.0 ellipse paper_id 2169472615 title "iterative hard thresholding for compressed sensing" year 2008 label 28
+1724 4740 0.0 0.0 ellipse paper_id 2949924912 title "a sparse johnson lindenstrauss transform" year 2010 label 34
+1792 92164 0.0 0.0 ellipse paper_id 2949834189 title "matrix completion from a few entries" year 2009 label 24
+1814 73928 0.0 0.0 ellipse paper_id 2951217737 title "non negative matrix factorization with sparseness constraints" year 2004 label 24
+1815 11390 0.0 0.0 ellipse paper_id 2953062473 title "probabilistic latent semantic analysis" year 2013 label 24
+1919 84345 0.0 0.0 ellipse paper_id 2952347589 title "uncovering the temporal dynamics of diffusion networks" year 2011 label 26
+1949 138634 0.0 0.0 ellipse paper_id 2952716509 title "matrix completion with noise" year 2009 label 28
+2031 119139 0.0 0.0 ellipse paper_id 1971087125 title "how well developed are altmetrics a cross disciplinary analysis of the presence of alternative metrics in scientific publications" year 2014 label 38
+2041 163667 0.0 0.0 ellipse paper_id 2951069074 title "rate region of the quadratic gaussian two encoder source coding problem" year 2005 label 28
+2101 142589 0.0 0.0 ellipse paper_id 2952204811 title "optimal moebius transformations for information visualization and meshing" year 2001 label 20
+2163 92336 0.0 0.0 ellipse paper_id 2952400139 title "the bayesian structural em algorithm" year 2013 label 24
+2188 108538 0.0 0.0 ellipse paper_id 1662133657 title "from frequency to meaning vector space models of semantics" year 2010 label 30
+2204 11233 0.0 0.0 ellipse paper_id 2950887465 title "user level sentiment analysis incorporating social networks" year 2011 label 30
+2228 91449 0.0 0.0 ellipse paper_id 1930403392 title "evaluating research from informed peer review to bibliometrics" year 2011 label 38
+2230 144398 0.0 0.0 ellipse paper_id 2027890477 title "caveats for using statistical significance tests in research assessments" year 2013 label 38
+2232 34566 0.0 0.0 ellipse paper_id 2068169498 title "individual research performance a proposal for comparing apples to oranges" year 2013 label 38
+2233 26617 0.0 0.0 ellipse paper_id 2076473563 title "a unified approach to mapping and clustering of bibliometric networks" year 2010 label 38
+2264 83024 0.0 0.0 ellipse paper_id 2952066970 title "matrix completion from noisy entries" year 2009 label 24
+2306 25181 0.0 0.0 ellipse paper_id 1581059035 title "reliability and comparability of peer review results" year 2013 label 38
+2315 85495 0.0 0.0 ellipse paper_id 2949378043 title "on the complexity of nonnegative matrix factorization" year 2007 label 0
+2318 92214 0.0 0.0 ellipse paper_id 2950527763 title "computing a nonnegative matrix factorization provably" year 2011 label 34
+2413 147978 0.0 0.0 ellipse paper_id 2952078973 title "combining geometry and combinatorics a unified approach to sparse signal recovery" year 2008 label 39
+2509 164845 0.0 0.0 ellipse paper_id 2949112927 title "submodular maximization by simulated annealing" year 2010 label 34
+2511 51479 0.0 0.0 ellipse paper_id 2952402597 title "constrained non monotone submodular maximization offline and secretary algorithms" year 2010 label 34
+2517 126527 0.0 0.0 ellipse paper_id 2950431878 title "a unified framework for approximating and clustering data" year 2011 label 24
+2524 11786 0.0 0.0 ellipse paper_id 1977713568 title "overlapping community detection in networks the state of the art and comparative study" year 2013 label 26
+2525 206 0.0 0.0 ellipse paper_id 2157527521 title "a classification for community discovery methods in complex networks" year 2011 label 26
+2539 40667 0.0 0.0 ellipse paper_id 2950665404 title "agnostic learning of monomials by halfspaces is hard" year 2010 label 9
+2633 112033 0.0 0.0 ellipse paper_id 2950462606 title "pegasus a policy search method for large mdps and pomdps" year 2013 label 10
+2637 46585 0.0 0.0 ellipse paper_id 1893161742 title "the anatomy of the facebook social graph" year 2011 label 26
+2673 97593 0.0 0.0 ellipse paper_id 2951977174 title "betweenness centrality as a driver of preferential attachment in the evolution of research collaboration networks" year 2011 label 26
+2707 19417 0.0 0.0 ellipse paper_id 2949998441 title "thumbs up or thumbs down semantic orientation applied to unsupervised classification of reviews" year 2002 label 24
+2724 35890 0.0 0.0 ellipse paper_id 2027794266 title "usage history of scientific literature nature metrics and metrics of nature publications" year 2014 label 38
+2756 26019 0.0 0.0 ellipse paper_id 2950160365 title "mutual information and minimum mean square error in gaussian channels" year 2004 label 28
+2813 7880 0.0 0.0 ellipse paper_id 2137213923 title "discriminative probabilistic models for relational data" year 2012 label 24
+2817 108189 0.0 0.0 ellipse paper_id 2952696519 title "supervised random walks predicting and recommending links in social networks" year 2010 label 26
+2887 123065 0.0 0.0 ellipse paper_id 1910043916 title "mechanisms for multi unit auctions" year 2010 label 36
+2892 20920 0.0 0.0 ellipse paper_id 2953058253 title "submodular approximation sampling based algorithms and lower bounds" year 2008 label 34
+2967 4696 0.0 0.0 ellipse paper_id 2949130492 title "pagerank for ranking authors in co citation networks" year 2010 label 38
+2971 1022 0.0 0.0 ellipse paper_id 2952517855 title "causality in bayesian belief networks" year 2013 label 10
+3116 78242 0.0 0.0 ellipse paper_id 1676999057 title "an o m algorithm for cores decomposition of networks" year 2003 label 34
+3223 61146 0.0 0.0 ellipse paper_id 1966279025 title "a heuristic approach to author name disambiguation in bibliometrics databases for large scale research assessments" year 2011 label 38
+3224 31875 0.0 0.0 ellipse paper_id 1966795941 title "measuring institutional research productivity for the life sciences the importance of accounting for the order of authors in the byline" year 2013 label 38
+3225 128430 0.0 0.0 ellipse paper_id 1987352748 title "the dispersion of research performance within and between universities as a potential indicator of the competitive intensity in higher education systems" year 2012 label 38
+3226 54588 0.0 0.0 ellipse paper_id 2006605121 title "the importance of accounting for the number of co authors and their order when assessing research performance at the individual level in the life sciences" year 2013 label 38
+3227 129769 0.0 0.0 ellipse paper_id 2034993557 title "how do you define and measure research productivity" year 2014 label 38
+3228 158990 0.0 0.0 ellipse paper_id 2035125304 title "national research assessment exercises a measure of the distortion of performance rankings when labor input is treated as uniform" year 2010 label 38
+3229 159004 0.0 0.0 ellipse paper_id 2060532203 title "revisiting the scaling of citations for research assessment" year 2012 label 38
+3230 107321 0.0 0.0 ellipse paper_id 2075293457 title "the dangers of performance based research funding in non competitive higher education systems" year 2011 label 38
+3231 126564 0.0 0.0 ellipse paper_id 2950859969 title "the impact of unproductive and top researchers on overall university research performance" year 2018 label 38
+3264 50082 0.0 0.0 ellipse paper_id 2951748980 title "a differential approach to inference in bayesian networks" year 2013 label 10
+3338 119981 0.0 0.0 ellipse paper_id 2951563668 title "measures of distributional similarity" year 2000 label 30
+3342 26191 0.0 0.0 ellipse paper_id 2952968023 title "pagerank standing on the shoulders of giants" year 2010 label 31
+3345 58124 0.0 0.0 ellipse paper_id 2953133476 title "feature hashing for large scale multitask learning" year 2009 label 10
+3361 79102 0.0 0.0 ellipse paper_id 2951124819 title "an extremal inequality motivated by multiterminal information theoretic problems" year 2006 label 28
+3385 60651 0.0 0.0 ellipse paper_id 2950903507 title "applying centrality measures to impact analysis a coauthorship network analysis" year 2010 label 38
+3404 9137 0.0 0.0 ellipse paper_id 1752870744 title "information contagion an empirical study of the spread of news on digg and twitter social networks" year 2010 label 3
+3406 159678 0.0 0.0 ellipse paper_id 2949957935 title "finding deceptive opinion spam by any stretch of the imagination" year 2011 label 30
+3407 122490 0.0 0.0 ellipse paper_id 2950601786 title "analysis of social voting patterns on digg" year 2008 label 3
+3496 61920 0.0 0.0 ellipse paper_id 2950361137 title "learning bayesian networks with local structure" year 2013 label 10
+3509 43321 0.0 0.0 ellipse paper_id 2950117399 title "using a model of social dynamics to predict popularity of news" year 2010 label 3
+3513 131861 0.0 0.0 ellipse paper_id 2950257525 title "google scholar metrics evolution an analysis according to languages" year 2013 label 38
+3651 73976 0.0 0.0 ellipse paper_id 2951927428 title "guaranteed rank minimization via singular value projection" year 2009 label 24
+3694 112572 0.0 0.0 ellipse paper_id 1982147025 title "beating randomized response on incoherent matrices" year 2012 label 34
+3695 79121 0.0 0.0 ellipse paper_id 2951448804 title "universally utility maximizing privacy mechanisms" year 2008 label 37
+3697 124372 0.0 0.0 ellipse paper_id 1610773532 title "topology and geometry of online social networks" year 2008 label 3
+3781 31345 0.0 0.0 ellipse paper_id 2951466312 title "vector gaussian multiple description with individual and central receivers" year 2005 label 28
+3856 138663 0.0 0.0 ellipse paper_id 2953136443 title "dimes let the internet measure itself" year 2005 label 8
+3893 94089 0.0 0.0 ellipse paper_id 1986828568 title "do altmetrics point to the broader impact of research an overview of benefits and disadvantages of altmetrics" year 2014 label 38
+3894 98146 0.0 0.0 ellipse paper_id 2168201538 title "a principal component analysis of 39 scientific impact measures" year 2009 label 38
+3995 167755 0.0 0.0 ellipse paper_id 2952776411 title "nearly linear time algorithms for graph partitioning graph sparsification and solving linear systems" year 2003 label 34
+4045 141141 0.0 0.0 ellipse paper_id 2950540689 title "approximating the exponential the lanczos method and an tilde o m time spectral algorithm for balanced separator" year 2011 label 34
+4046 112083 0.0 0.0 ellipse paper_id 2951298040 title "sequential and parallel algorithms for mixed packing and covering" year 2002 label 34
+4143 85646 0.0 0.0 ellipse paper_id 2951333348 title "automatic wrappers for large scale web extraction" year 2011 label 37
+4145 165089 0.0 0.0 ellipse paper_id 2952682863 title "iterative constructions and private data release" year 2011 label 34
+4150 35335 0.0 0.0 ellipse paper_id 2950755820 title "nearly linear time algorithms for preconditioning and solving symmetric diagonally dominant linear systems" year 2006 label 0
+4151 38039 0.0 0.0 ellipse paper_id 2951226306 title "towards an sdp based approach to spectral methods a nearly linear time algorithm for graph partitioning and decomposition" year 2010 label 34
+4153 68679 0.0 0.0 ellipse paper_id 2952346244 title "solving elliptic finite element systems in near linear time with support preconditioners" year 2004 label 0
+4161 45265 0.0 0.0 ellipse paper_id 2054097025 title "tripartite graph clustering for dynamic sentiment analysis on social media" year 2014 label 26
+4179 101992 0.0 0.0 ellipse paper_id 2039358761 title "allocative efficiency in public research funding can bibliometrics help" year 2009 label 38
+4180 4045 0.0 0.0 ellipse paper_id 2069342081 title "the vqr italy s second national research assessment methodological failures and ranking distortions" year 2015 label 38
+4183 137048 0.0 0.0 ellipse paper_id 2949070807 title "listing all maximal cliques in sparse graphs in near optimal time" year 2010 label 34
+4219 21374 0.0 0.0 ellipse paper_id 2159336657 title "how the scientific community reacts to newly submitted preprints article downloads twitter mentions and citations" year 2012 label 26
+4251 21300 0.0 0.0 ellipse paper_id 1966777587 title "low rank matrix valued chernoff bounds and approximate matrix multiplication" year 2010 label 34
+4254 39318 0.0 0.0 ellipse paper_id 2949706918 title "twice ramanujan sparsifiers" year 2008 label 34
+4260 129352 0.0 0.0 ellipse paper_id 2952822878 title "graph sparsification by effective resistances" year 2008 label 34
+4262 169115 0.0 0.0 ellipse paper_id 2953380034 title "subgraph sparsification and nearly optimal ultrasparsifiers" year 2009 label 39
+4271 60773 0.0 0.0 ellipse paper_id 2953073767 title "scientific paper summarization using citation summary networks" year 2008 label 31
+4320 17411 0.0 0.0 ellipse paper_id 2070242399 title "a review of theory and practice in scientometrics" year 2015 label 38
+4396 57110 0.0 0.0 ellipse paper_id 1540894599 title "measuring password strength an empirical analysis" year 2009 label 4
+4417 101499 0.0 0.0 ellipse paper_id 2951810887 title "a simpler approach to matrix completion" year 2009 label 28
+4433 86025 0.0 0.0 ellipse paper_id 1519117689 title "beyond citations scholars visibility on the social web" year 2012 label 38
+4434 160175 0.0 0.0 ellipse paper_id 1553564559 title "altmetrics in the wild using social media to explore scholarly impact" year 2012 label 38
+4435 62481 0.0 0.0 ellipse paper_id 2010112142 title "tracing scientist s research trends realtimely" year 2013 label 38
+4436 133317 0.0 0.0 ellipse paper_id 2951895523 title "scientific citations in wikipedia" year 2007 label 38
+4437 97708 0.0 0.0 ellipse paper_id 2963866139 title "how does market concern derived from the internet affect oil prices" year 2013 label 3
+4441 133787 0.0 0.0 ellipse paper_id 1972675431 title "efficient and principled method for detecting communities in networks" year 2011 label 26
+4447 65189 0.0 0.0 ellipse paper_id 2150256170 title "social structure of facebook networks" year 2012 label 26
+4469 123933 0.0 0.0 ellipse paper_id 2951560945 title "bayesian compressive sensing via belief propagation" year 2008 label 28
+4565 154875 0.0 0.0 ellipse paper_id 1527463082 title "search in power law networks" year 2001 label 8
+4569 100236 0.0 0.0 ellipse paper_id 2952034061 title "map complexity results and approximation methods" year 2012 label 10
+4572 132526 0.0 0.0 ellipse paper_id 2126351352 title "happiness is assortative in online social networks" year 2011 label 26
+4608 138382 0.0 0.0 ellipse paper_id 2949093975 title "layered label propagation a multiresolution coordinate free ordering for compressing social networks" year 2010 label 34
+4725 129278 0.0 0.0 ellipse paper_id 2951803119 title "listing all maximal cliques in large sparse real world graphs" year 2011 label 34
+4803 122587 0.0 0.0 ellipse paper_id 2951868394 title "centrality metric for dynamic networks" year 2010 label 3
+4936 149847 0.0 0.0 ellipse paper_id 2159675343 title "de anonymizing social networks" year 2009 label 4
+4937 114656 0.0 0.0 ellipse paper_id 2950051737 title "how unique and traceable are usernames" year 2011 label 4
+5002 54006 0.0 0.0 ellipse paper_id 2950343740 title "on the geometry of differential privacy" year 2009 label 9
+5004 75381 0.0 0.0 ellipse paper_id 2953305753 title "differentially private data analysis of social networks via restricted sensitivity" year 2012 label 4
+5019 147852 0.0 0.0 ellipse paper_id 2949950485 title "social networks that matter twitter under the microscope" year 2008 label 3
+5025 43478 0.0 0.0 ellipse paper_id 2952019152 title "mining the web for synonyms pmi ir versus lsa on toefl" year 2002 label 24
+5052 61954 0.0 0.0 ellipse paper_id 2950879740 title "get out the vote determining support or opposition from congressional floor debate transcripts" year 2006 label 30
+5074 10361 0.0 0.0 ellipse paper_id 1209585085 title "the relationship between the number of authors of a publication its citations and the impact factor of the publishing journal evidence from italy" year 2015 label 38
+5075 73064 0.0 0.0 ellipse paper_id 1978273326 title "assessing the varying level of impact measurement accuracy as a function of the citation window length" year 2011 label 38
+5076 57226 0.0 0.0 ellipse paper_id 2091001169 title "the collaboration behaviors of scientists in italy a field level analysis" year 2013 label 38
+5077 113340 0.0 0.0 ellipse paper_id 2950504508 title "field normalized citation impact indicators and the choice of an appropriate counting method" year 2015 label 38
+5096 129366 0.0 0.0 ellipse paper_id 2953065339 title "learning gaussian networks" year 2013 label 10
+5097 60776 0.0 0.0 ellipse paper_id 2953096976 title "the topological fusion of bayes nets" year 2013 label 10
+5099 124340 0.0 0.0 ellipse paper_id 1506517477 title "the sjr indicator a new indicator of journals scientific prestige" year 2009 label 38
+5100 75735 0.0 0.0 ellipse paper_id 1990367385 title "impact maturity times and citation time windows the 2 year maximum journal impact factor" year 2013 label 38
+5101 139016 0.0 0.0 ellipse paper_id 2008031367 title "comparing journals from different fields of science and social science through a jcr subject categories normalized impact factor" year 2013 label 38
+5102 113982 0.0 0.0 ellipse paper_id 2124531072 title "central indexes to the citation distribution a complement to the h index" year 2011 label 38
+5103 106708 0.0 0.0 ellipse paper_id 2950280776 title "source normalized indicators of citation impact an overview of different approaches and an empirical comparison" year 2012 label 38
+5104 38162 0.0 0.0 ellipse paper_id 2953069994 title "journal topic citation potential and between field comparisons the topic normalized impact factor" year 2014 label 38
+5153 84380 0.0 0.0 ellipse paper_id 2952808755 title "the leiden ranking 2011 2012 data collection indicators and interpretation" year 2012 label 38
+5180 161639 0.0 0.0 ellipse paper_id 2087876208 title "on the calculation of percentile based bibliometric indicators" year 2013 label 38
+5181 3504 0.0 0.0 ellipse paper_id 2950766609 title "the use of percentiles and percentile rank classes in the analysis of bibliometric data opportunities and limits" year 2012 label 38
+5182 76634 0.0 0.0 ellipse paper_id 2953015842 title "which percentile based approach should be preferred for calculating normalized citation impact values an empirical comparison of five approaches including a newly developed citation rank approach p100" year 2013 label 38
+5185 157579 0.0 0.0 ellipse paper_id 1671965234 title "social turing tests crowdsourcing sybil detection" year 2012 label 26
+5246 108208 0.0 0.0 ellipse paper_id 2953064347 title "evidence absorption and propagation through evidence reversals" year 2013 label 10
+5263 53301 0.0 0.0 ellipse paper_id 2106754160 title "eugene garfield and algorithmic historiography co words co authors and journal names" year 2010 label 38
+5264 139845 0.0 0.0 ellipse paper_id 2951517996 title "citnetexplorer a new software tool for analyzing and visualizing citation networks" year 2014 label 38
+5289 38093 0.0 0.0 ellipse paper_id 2952051872 title "dynamical classes of collective attention in twitter" year 2011 label 26
+5298 90841 0.0 0.0 ellipse paper_id 2949335702 title "smoothed analysis of algorithms why the simplex algorithm usually takes polynomial time" year 2001 label 34
+5321 147909 0.0 0.0 ellipse paper_id 2950974218 title "defining and evaluating network communities based on ground truth" year 2012 label 26
+5362 68485 0.0 0.0 ellipse paper_id 2950090310 title "learning algorithms for keyphrase extraction" year 2002 label 24
+5403 71306 0.0 0.0 ellipse paper_id 2951961140 title "induction of selective bayesian classifiers" year 2013 label 24
+5510 57972 0.0 0.0 ellipse paper_id 2950903179 title "an experimental comparison of naive bayesian and keyword based anti spam filtering with personal e mail messages" year 2000 label 30
+5540 12598 0.0 0.0 ellipse paper_id 2949743736 title "low density lattice codes" year 2007 label 28
+5583 29879 0.0 0.0 ellipse paper_id 2949422910 title "uniqueness of low rank matrix completion by rigidity theory" year 2009 label 24
+5585 60664 0.0 0.0 ellipse paper_id 2951150271 title "learning low rank matrices from o n entries" year 2008 label 34
+5593 57140 0.0 0.0 ellipse paper_id 1654211971 title "mapping the gnutella network properties of large scale peer to peer systems and implications for system design" year 2002 label 5
+5594 9252 0.0 0.0 ellipse paper_id 2128269848 title "the slashdot zoo mining a social network with negative edges" year 2009 label 26
+5602 70330 0.0 0.0 ellipse paper_id 1482782741 title "theory and practice of triangle problems in very large sparse power law graphs" year 2006 label 34
+5603 164096 0.0 0.0 ellipse paper_id 1568395653 title "measuring fundamental properties of real world complex networks" year 2006 label 8
+5686 69938 0.0 0.0 ellipse paper_id 2951126601 title "a simple combinatorial algorithm for solving sdd systems in nearly linear time" year 2013 label 34
+5700 85496 0.0 0.0 ellipse paper_id 2949380545 title "a sentimental education sentiment analysis using subjectivity summarization based on minimum cuts" year 2004 label 30
+5758 42452 0.0 0.0 ellipse paper_id 1484258308 title "extended dynamic subgraph statistics using h index parameterized data structures" year 2012 label 34
+5759 127080 0.0 0.0 ellipse paper_id 2000979164 title "the h index of a graph and its application to dynamic subgraph statistics" year 2012 label 34
+5760 162368 0.0 0.0 ellipse paper_id 2950670108 title "subgraph isomorphism in planar graphs and related problems" year 1999 label 34
+5849 105938 0.0 0.0 ellipse paper_id 2008211892 title "accurately modeling the internet topology" year 2004 label 8
+5850 38604 0.0 0.0 ellipse paper_id 2139905147 title "the internet as level topology three data sources and one definitive metric" year 2006 label 8
+5851 18763 0.0 0.0 ellipse paper_id 2155353872 title "the rich club phenomenon in the internet topology" year 2004 label 8
+5877 148527 0.0 0.0 ellipse paper_id 2130726349 title "social information processing in news aggregation" year 2007 label 3
+5894 153637 0.0 0.0 ellipse paper_id 2029321550 title "a method for using belief networks as influence diagrams" year 2013 label 10
+5910 157220 0.0 0.0 ellipse paper_id 2953006714 title "collaborative filtering by personality diagnosis a hybrid memory and model based approach" year 2013 label 31
+5993 56744 0.0 0.0 ellipse paper_id 2951881270 title "on the sample complexity of learning bayesian networks" year 2013 label 24
+6034 26002 0.0 0.0 ellipse paper_id 2949838042 title "from influence diagrams to junction trees" year 2013 label 10
+6115 15341 0.0 0.0 ellipse paper_id 2949369817 title "an impossibility result for truthful combinatorial auctions with submodular valuations" year 2010 label 36
+6117 116176 0.0 0.0 ellipse paper_id 2951984267 title "a deterministic truthful ptas for scheduling related machines" year 2009 label 36
+6118 165112 0.0 0.0 ellipse paper_id 2953139329 title "from convex optimization to randomized mechanisms toward optimal combinatorial auctions" year 2011 label 36
+6143 22214 0.0 0.0 ellipse paper_id 2952923145 title "general principles of learning based multi agent systems" year 1999 label 11
+6152 142988 0.0 0.0 ellipse paper_id 1679867247 title "understanding the characteristics of internet short video sharing youtube as a case study" year 2007 label 8
+6167 155757 0.0 0.0 ellipse paper_id 2951466104 title "learning bayesian networks a unification for discrete and gaussian domains" year 2013 label 10
+6274 59745 0.0 0.0 ellipse paper_id 1489827011 title "a note on concentration of submodular functions" year 2010 label 39
+6275 48948 0.0 0.0 ellipse paper_id 2962711478 title "combinatorial auctions with decreasing marginal utilities" year 2006 label 36
+6285 18068 0.0 0.0 ellipse paper_id 2949632490 title "communication complexity lower bounds by polynomials" year 1999 label 9
+6313 71131 0.0 0.0 ellipse paper_id 2949453732 title "battling the internet water army detection of hidden paid posters" year 2011 label 26
+6314 85597 0.0 0.0 ellipse paper_id 2950593226 title "trends in social media persistence and decay" year 2011 label 3
+6315 80472 0.0 0.0 ellipse paper_id 2952777860 title "influence and passivity in social media" year 2010 label 3
+6367 77684 0.0 0.0 ellipse paper_id 2949128669 title "approximating map using local search" year 2013 label 10
+6368 97626 0.0 0.0 ellipse paper_id 2952458224 title "optimal junction trees" year 2013 label 10
+6455 48888 0.0 0.0 ellipse paper_id 2952883787 title "bayesian query focused summarization" year 2009 label 30
+6526 60795 0.0 0.0 ellipse paper_id 2953360229 title "on coding for reliable communication over packet networks" year 2005 label 28
+6538 113793 0.0 0.0 ellipse paper_id 1492511362 title "field normalized impact factors a comparison of rescaling versus fractionally counted ifs" year 2012 label 38
+6539 130973 0.0 0.0 ellipse paper_id 1525001852 title "which cities produce excellent papers worldwide more than can be expected a new mapping approach using google maps based on statistical significance testing" year 2011 label 38
+6540 78302 0.0 0.0 ellipse paper_id 1986219263 title "impact factor outdated artefact or stepping stone to journal certification" year 2012 label 38
+6541 2121 0.0 0.0 ellipse paper_id 2949196191 title "the weakening relationship between the impact factor and papers citations in the digital age" year 2012 label 38
+6542 60563 0.0 0.0 ellipse paper_id 2949573713 title "fractional counting of citations in research evaluation a cross and interdisciplinary assessment of the tsinghua university in beijing" year 2011 label 38
+6543 77742 0.0 0.0 ellipse paper_id 2950141746 title "classification and powerlaws the logarithmic transformation" year 2009 label 31
+6544 11206 0.0 0.0 ellipse paper_id 2950404077 title "alternatives to the journal impact factor i3 and the top 10 or top 25 of the most highly cited papers" year 2012 label 38
+6545 141150 0.0 0.0 ellipse paper_id 2950626348 title "edited volumes monographs and book chapters in the book citation index bkci and science citation index sci sosci a hci" year 2012 label 38
+6546 123869 0.0 0.0 ellipse paper_id 2950827508 title "how to evaluate universities in terms of their relative citation impacts fractional counting of citations and the normalization of differences among disciplines" year 2010 label 38
+6547 106747 0.0 0.0 ellipse paper_id 2950875672 title "universality of citation distributions revisited" year 2011 label 38
+6548 100213 0.0 0.0 ellipse paper_id 2951659458 title "testing differences statistically with the leiden ranking" year 2011 label 3
+6549 163765 0.0 0.0 ellipse paper_id 2952506357 title "how can journal impact factors be normalized across fields of science an assessment in terms of percentile ranks and fractional counts" year 2012 label 38
+6550 163855 0.0 0.0 ellipse paper_id 2964158109 title "how journal rankings can suppress interdisciplinary research a comparison between innovation studies and business management" year 2011 label 38
+6552 41309 0.0 0.0 ellipse paper_id 2171266829 title "minimum cost multicast over coded packet networks" year 2006 label 28
+6645 5371 0.0 0.0 ellipse paper_id 2102720960 title "folks in folksonomies social link prediction from shared metadata" year 2010 label 3
+6646 15530 0.0 0.0 ellipse paper_id 2951938759 title "empirical comparison of algorithms for network community detection" year 2010 label 34
+6687 138447 0.0 0.0 ellipse paper_id 2949790037 title "using stochastic models to describe and predict social dynamics of web users" year 2010 label 3
+6688 117483 0.0 0.0 ellipse paper_id 2952455632 title "web analytics for security informatics" year 2012 label 26
+6689 23572 0.0 0.0 ellipse paper_id 2952951337 title "early warning analysis for social diffusion events" year 2012 label 26
+6745 35861 0.0 0.0 ellipse paper_id 1964521983 title "traveling trends social butterflies or frequent fliers" year 2013 label 26
+6748 39949 0.0 0.0 ellipse paper_id 2028993035 title "the geospatial characteristics of a social movement communication network" year 2013 label 3
+6752 75778 0.0 0.0 ellipse paper_id 2109584946 title "a large scale community structure analysis in facebook" year 2012 label 26
+6755 2836 0.0 0.0 ellipse paper_id 2165066692 title "the digital evolution of occupy wall street" year 2013 label 3
+6830 67129 0.0 0.0 ellipse paper_id 2949225341 title "mapping uspto patent data using overlays to google maps" year 2011 label 3
+6831 139707 0.0 0.0 ellipse paper_id 2949493113 title "interactive overlays of journals and the measurement of interdisciplinarity on the basis of aggregated journal journal citations" year 2013 label 38
+6832 137160 0.0 0.0 ellipse paper_id 2950955693 title "the detection of hot regions in the geography of science a visualization approach by using density maps" year 2011 label 38
+6833 48793 0.0 0.0 ellipse paper_id 2951576319 title "patents as instruments for exploring innovation dynamics geographic and technological perspectives on photovoltaic cells" year 2014 label 3
+6834 150561 0.0 0.0 ellipse paper_id 2951889570 title "mapping the geography of science distribution patterns and networks of relations among cities and institutes" year 2010 label 38
+6836 155874 0.0 0.0 ellipse paper_id 2953237954 title "science overlay maps a new tool for research policy and library management" year 2009 label 38
+6897 90817 0.0 0.0 ellipse paper_id 2949083013 title "multiparty communication complexity of disjointness" year 2008 label 9
+6931 116089 0.0 0.0 ellipse paper_id 2950756102 title "indicators of the interdisciplinarity of journals diversity centrality and citations" year 2010 label 38
+6981 59747 0.0 0.0 ellipse paper_id 1497671620 title "bounding the sensitivity of polynomial threshold functions" year 2009 label 9
+6982 4064 0.0 0.0 ellipse paper_id 2114477570 title "the pattern matrix method journal version" year 2009 label 9
+6983 94873 0.0 0.0 ellipse paper_id 2950566631 title "pseudorandom generators for polynomial threshold functions" year 2009 label 9
+6984 9975 0.0 0.0 ellipse paper_id 2951206707 title "average sensitivity and noise sensitivity of polynomial threshold functions" year 2009 label 9
+6985 71266 0.0 0.0 ellipse paper_id 2951475295 title "a regularity lemma and low weight approximators for low degree polynomial threshold functions" year 2009 label 9
+6986 23482 0.0 0.0 ellipse paper_id 2951585216 title "bounded independence fools halfspaces" year 2009 label 9
+6988 59443 0.0 0.0 ellipse paper_id 2952550924 title "on the np completeness of some graph cluster measures" year 2005 label 9
+7005 88906 0.0 0.0 ellipse paper_id 2140147750 title "collaborative beamforming for distributed wireless ad hoc sensor networks" year 2005 label 28
+7007 160167 0.0 0.0 ellipse paper_id 1542957328 title "efficient triangle counting in large graphs via degree based vertex partitioning" year 2012 label 34
+7008 100113 0.0 0.0 ellipse paper_id 2950248117 title "colorful triangle counting and a mapreduce implementation" year 2011 label 34
+7086 149826 0.0 0.0 ellipse paper_id 2125566184 title "design and analysis of nonbinary ldpc codes for arbitrary discrete memoryless channels" year 2006 label 28
+7120 151774 0.0 0.0 ellipse paper_id 2950850592 title "a new methodology for constructing a publication level classification system of science" year 2012 label 38
+7138 31438 0.0 0.0 ellipse paper_id 2952630020 title "algorithmic linear dimension reduction in the l_1 norm for sparse vectors" year 2006 label 34
+7146 4831 0.0 0.0 ellipse paper_id 2951353692 title "lattices for distributed source coding jointly gaussian sources and reconstruction of a linear function" year 2007 label 28
+7200 35276 0.0 0.0 ellipse paper_id 2949934932 title "set an algorithm for consistent matrix completion" year 2009 label 28
+7244 108114 0.0 0.0 ellipse paper_id 2951295913 title "optimal solutions for multi unit combinatorial auctions branch and bound heuristics" year 2002 label 36
+7270 123868 0.0 0.0 ellipse paper_id 2950824039 title "the latent relation mapping engine algorithm and experiments" year 2008 label 30
+7292 89828 0.0 0.0 ellipse paper_id 2953199306 title "random worlds and maximum entropy" year 1994 label 10
+7333 158328 0.0 0.0 ellipse paper_id 2949692233 title "a bayesian approach to learning causal networks" year 2013 label 10
+7354 30391 0.0 0.0 ellipse paper_id 1501354784 title "universal emergence of pagerank" year 2011 label 31
+7355 3990 0.0 0.0 ellipse paper_id 1901386071 title "towards physical laws for software architecture" year 2010 label 23
+7374 100604 0.0 0.0 ellipse paper_id 1625545731 title "e prints and journal articles in astronomy a productive co existence" year 2007 label 38
+7375 71778 0.0 0.0 ellipse paper_id 2044550240 title "the convergence of digital libraries and the peer review process" year 2006 label 38
+7376 62512 0.0 0.0 ellipse paper_id 2100117397 title "does the arxiv lead to higher citations and reduced publisher downloads for mathematics articles" year 2007 label 38
+7478 86130 0.0 0.0 ellipse paper_id 2048185449 title "self selected or mandated open access increases citation impact for higher quality research" year 2010 label 3
+7539 147880 0.0 0.0 ellipse paper_id 2950461372 title "the traveling salesman problem for cubic graphs" year 2003 label 34
+7632 148435 0.0 0.0 ellipse paper_id 1869910836 title "learning valuation functions" year 2011 label 36
+7679 1468 0.0 0.0 ellipse paper_id 2042789015 title "the k server dual and loose competitiveness for paging" year 1994 label 34
+7680 69149 0.0 0.0 ellipse paper_id 2054033098 title "competitive paging algorithms" year 1991 label 34
+7720 132366 0.0 0.0 ellipse paper_id 1505807419 title "coresets for k means and k median clustering and their applications" year 2018 label 20
+7721 52644 0.0 0.0 ellipse paper_id 2949725025 title "optimal time bounds for approximate clustering" year 2012 label 34
+7747 65198 0.0 0.0 ellipse paper_id 2160955698 title "learning analogies and semantic relations" year 2003 label 24
+7749 71251 0.0 0.0 ellipse paper_id 2951319051 title "measuring praise and criticism inference of semantic orientation from association" year 2003 label 30
+7751 74067 0.0 0.0 ellipse paper_id 2953129863 title "corpus based learning of analogies and semantic relations" year 2005 label 24
+7813 12581 0.0 0.0 ellipse paper_id 2949506740 title "fast approximation algorithms for cut based problems in undirected graphs" year 2010 label 34
+7814 125139 0.0 0.0 ellipse paper_id 2949556662 title "a nearly mlogn time solver for sdd linear systems" year 2011 label 34
+7819 31426 0.0 0.0 ellipse paper_id 2952550543 title "minimum cuts in near linear time" year 1998 label 34
+7854 101441 0.0 0.0 ellipse paper_id 2950841806 title "causal discovery from a mixture of experimental and observational data" year 2013 label 10
+7925 155813 0.0 0.0 ellipse paper_id 2952337362 title "relative error cur matrix decompositions" year 2007 label 34
+7927 121757 0.0 0.0 ellipse paper_id 2024163392 title "human dynamics revealed through web analytics" year 2008 label 6
+7928 213 0.0 0.0 ellipse paper_id 2165925342 title "topical interests and the mitigation of search engine bias" year 2006 label 3
+7932 23392 0.0 0.0 ellipse paper_id 2950211712 title "a computational scheme for reasoning in dynamic probabilistic networks" year 2013 label 10
+8024 40812 0.0 0.0 ellipse paper_id 2952489188 title "conditional hardness for approximate coloring" year 2005 label 9
+8048 7722 0.0 0.0 ellipse paper_id 1509295006 title "updating probabilities in multiply connected belief networks" year 2013 label 10
+8049 123828 0.0 0.0 ellipse paper_id 2950274231 title "a constraint propagation approach to probabilistic reasoning" year 2013 label 10
+8151 106763 0.0 0.0 ellipse paper_id 2951121243 title "d separation from theorems to algorithms" year 2013 label 10
+8184 111163 0.0 0.0 ellipse paper_id 1576629314 title "the structure of collaborative tagging systems" year 2005 label 38
+8200 93505 0.0 0.0 ellipse paper_id 2949791182 title "similarity based models of word cooccurrence probabilities" year 1998 label 30
+8240 13891 0.0 0.0 ellipse paper_id 2949224863 title "decision making using probabilistic inference methods" year 2013 label 10
+8312 161168 0.0 0.0 ellipse paper_id 2952456051 title "reasoning about beliefs and actions under computational resource constraints" year 2013 label 10
+8315 134672 0.0 0.0 ellipse paper_id 2952525394 title "theory refinement on bayesian networks" year 2013 label 10
+8488 109276 0.0 0.0 ellipse paper_id 2949169239 title "the author topic model for authors and documents" year 2012 label 31
+8499 64503 0.0 0.0 ellipse paper_id 2949758198 title "what can we learn privately" year 2008 label 24
+8646 40565 0.0 0.0 ellipse paper_id 2949098898 title "what does a conditional knowledge base entail" year 2002 label 10
+8648 109295 0.0 0.0 ellipse paper_id 2949320653 title "nonmonotonic reasoning preferential models and cumulative logics" year 2002 label 10
+8650 108076 0.0 0.0 ellipse paper_id 2950700966 title "a general non probabilistic theory of inductive reasoning" year 2013 label 10
+8653 84279 0.0 0.0 ellipse paper_id 2951280667 title "a framework for high accuracy privacy preserving mining" year 2004 label 37
+8676 71171 0.0 0.0 ellipse paper_id 2950047626 title "ahugin a system creating adaptive causal probabilistic networks" year 2013 label 10
+8680 32730 0.0 0.0 ellipse paper_id 2952086772 title "graphical models for preference and utility" year 2013 label 10
+8744 10493 0.0 0.0 ellipse paper_id 2027795955 title "real time discovery of dense clusters in highly dynamic graphs identifying real world events in highly dynamic environments" year 2012 label 37
+8764 134993 0.0 0.0 ellipse paper_id 1518600598 title "a matrix hyperbolic cosine algorithm and applications" year 2012 label 34
+8765 55921 0.0 0.0 ellipse paper_id 1984492644 title "a note on element wise matrix sparsification via a matrix valued bernstein inequality" year 2011 label 34
+8766 53933 0.0 0.0 ellipse paper_id 2949246525 title "spectral sparsification of graphs" year 2008 label 34
+8767 56660 0.0 0.0 ellipse paper_id 2950751115 title "randomized rounding without solving the linear program" year 2002 label 34
+8830 78256 0.0 0.0 ellipse paper_id 1755884204 title "submodular functions are noise stable" year 2011 label 24
+8831 117264 0.0 0.0 ellipse paper_id 2949333025 title "privately releasing conjunctions and the statistical query barrier" year 2010 label 34
+8832 103957 0.0 0.0 ellipse paper_id 2949558329 title "is submodularity testable" year 2010 label 34
+8833 23432 0.0 0.0 ellipse paper_id 2950757635 title "testing coverage functions" year 2012 label 34
+8925 149670 0.0 0.0 ellipse paper_id 1520681473 title "stochastic simulation of bayesian belief networks" year 2013 label 10
+8926 142378 0.0 0.0 ellipse paper_id 2949097872 title "intelligent probabilistic inference" year 2013 label 10
+8942 90861 0.0 0.0 ellipse paper_id 2949610674 title "on the power of randomization in algorithmic mechanism design" year 2009 label 36
+8944 126633 0.0 0.0 ellipse paper_id 2952004946 title "budget feasible mechanisms" year 2010 label 36
+9057 18145 0.0 0.0 ellipse paper_id 2950697801 title "bundling equilibrium in combinatorial auctions" year 2002 label 36
+9058 162418 0.0 0.0 ellipse paper_id 2951542914 title "truth revelation in approximately efficient combinatorial auctions" year 2002 label 36
+9063 163716 0.0 0.0 ellipse paper_id 2951702474 title "optimal bounds for sign representing the intersection of two halfspaces by polynomials" year 2009 label 9
+9131 144315 0.0 0.0 ellipse paper_id 1659833910 title "semantic similarity in a taxonomy an information based measure and its application to problems of ambiguity in natural language" year 1999 label 10
+9136 4001 0.0 0.0 ellipse paper_id 1966119405 title "generalized louvain method for community detection in large networks" year 2011 label 26
+9138 123141 0.0 0.0 ellipse paper_id 2136656254 title "a novel measure of edge centrality in social networks" year 2012 label 26
+9139 53319 0.0 0.0 ellipse paper_id 2143286114 title "crawling facebook for social network analysis purposes" year 2011 label 26
+9140 159745 0.0 0.0 ellipse paper_id 2950951960 title "towards unbiased bfs sampling" year 2011 label 26
+9141 85715 0.0 0.0 ellipse paper_id 2952338048 title "four degrees of separation" year 2011 label 26
+9172 15616 0.0 0.0 ellipse paper_id 2953366437 title "the communication of meaning and the structuration of expectations giddens structuration theory and luhmann s self organization" year 2009 label 3
+9188 49283 0.0 0.0 ellipse paper_id 2029373408 title "efficient modularity optimization by multistep greedy algorithm and vertex mover refinement" year 2008 label 34
+9193 83374 0.0 0.0 ellipse paper_id 1551228660 title "active collaborative filtering" year 2012 label 31
+9264 63241 0.0 0.0 ellipse paper_id 2950187908 title "on line file caching" year 2002 label 34
+9350 41918 0.0 0.0 ellipse paper_id 2949567784 title "inferring networks of diffusion and influence" year 2010 label 34
+9381 62370 0.0 0.0 ellipse paper_id 1526888200 title "toward understanding friendship in online social networks" year 2009 label 3
+9382 87402 0.0 0.0 ellipse paper_id 1641403162 title "rhythms of social interaction messaging within a massive online network" year 2007 label 3
+9397 16036 0.0 0.0 ellipse paper_id 2130412786 title "scientific impact quantity and quality analysis of two sources of bibliographic data" year 2005 label 31
+9406 31399 0.0 0.0 ellipse paper_id 2952186591 title "seeing stars exploiting class relationships for sentiment categorization with respect to rating scales" year 2005 label 30
+9445 110754 0.0 0.0 ellipse paper_id 2950977420 title "action networks a framework for reasoning about actions and change under uncertainty" year 2013 label 10
+9476 76576 0.0 0.0 ellipse paper_id 2951803246 title "a transformational characterization of equivalent bayesian network structures" year 2013 label 10
+9504 39900 0.0 0.0 ellipse paper_id 1829360078 title "variational probabilistic inference and the qmr dt network" year 1999 label 10
+9606 132052 0.0 0.0 ellipse paper_id 2952706885 title "probabilistic models for unified collaborative and content based recommendation in sparse data environments" year 2013 label 31
+9637 103212 0.0 0.0 ellipse paper_id 1649669796 title "manipulating google scholar citations and google scholar metrics simple easy and tempting" year 2012 label 38
+9638 115331 0.0 0.0 ellipse paper_id 2086951786 title "ranking journals could google scholar metrics be an alternative to journal citation reports and scimago journal rank" year 2013 label 38
+9678 96221 0.0 0.0 ellipse paper_id 2950958145 title "an improved approximation algorithm for the column subset selection problem" year 2008 label 34
+9756 25251 0.0 0.0 ellipse paper_id 1929461063 title "people are strange when you re a stranger impact and influence of bots on social networks" year 2014 label 26
+9769 128318 0.0 0.0 ellipse paper_id 1569670089 title "collaborative tagging and semiotic dynamics" year 2006 label 3
+9782 99288 0.0 0.0 ellipse paper_id 1532728967 title "analysis of generalized impact factor and indices of journals" year 2010 label 38
+9783 6150 0.0 0.0 ellipse paper_id 2952379099 title "weighted indices for evaluating the quality of research with multiple authorship" year 2010 label 31
+9812 46709 0.0 0.0 ellipse paper_id 2161021627 title "coding schemes for line networks" year 2005 label 28
+9844 106004 0.0 0.0 ellipse paper_id 2140192812 title "finding community structure in mega scale social networks" year 2007 label 3
+9895 19545 0.0 0.0 ellipse paper_id 2952011814 title "advances in domain independent linear text segmentation" year 2000 label 30
+9925 100569 0.0 0.0 ellipse paper_id 1534806717 title "interpretations of the web of data" year 2009 label 10
+9926 103309 0.0 0.0 ellipse paper_id 2079618253 title "grammar based random walkers in semantic networks" year 2008 label 10
+9927 142553 0.0 0.0 ellipse paper_id 2951748052 title "towards usage based impact metrics first results from the mesur project" year 2008 label 38
+10030 164205 0.0 0.0 ellipse paper_id 2061504687 title "decision theoretic planning structural assumptions and computational leverage" year 1999 label 10
+10058 103176 0.0 0.0 ellipse paper_id 1536601806 title "distribution specific agnostic boosting" year 2009 label 24
+10059 109412 0.0 0.0 ellipse paper_id 2951119348 title "a complete characterization of statistical query learning with applications to evolvability" year 2010 label 9
+10079 11349 0.0 0.0 ellipse paper_id 2952477323 title "algorithms for secretary problems on graphs and hypergraphs" year 2008 label 34
+10084 18623 0.0 0.0 ellipse paper_id 1657740035 title "a note on preconditioning by low stretch spanning trees" year 2009 label 0
+10085 155741 0.0 0.0 ellipse paper_id 2951257790 title "nearly tight low stretch spanning trees" year 2008 label 34
+10116 140412 0.0 0.0 ellipse paper_id 2106299112 title "faster parametric shortest path and minimum balance algorithms" year 2015 label 34
+10158 46677 0.0 0.0 ellipse paper_id 2120474184 title "extraction of keyphrases from text evaluation of four algorithms" year 1997 label 24
+10160 166942 0.0 0.0 ellipse paper_id 2169602691 title "learning to extract keyphrases from text" year 1999 label 24
+10199 133380 0.0 0.0 ellipse paper_id 2953142849 title "monadic datalog and the expressive power of languages for web information extraction" year 2002 label 37
+10206 131857 0.0 0.0 ellipse paper_id 2950200454 title "optimal point placement for mesh smoothing" year 1999 label 20
+10230 10523 0.0 0.0 ellipse paper_id 2100256240 title "systematic topology analysis and generation using degree correlations" year 2006 label 8
+10240 163821 0.0 0.0 ellipse paper_id 2953285682 title "centroid based summarization of multiple documents sentence extraction utility based evaluation and user studies" year 2000 label 30
+10242 3606 0.0 0.0 ellipse paper_id 2952618957 title "the computational complexity of probabilistic planning" year 1998 label 10
+10250 146678 0.0 0.0 ellipse paper_id 2952130252 title "noise tolerant learning the parity problem and the statistical query model" year 2000 label 24
+10253 152218 0.0 0.0 ellipse paper_id 1655940443 title "examples counterexamples and enumeration results for foldings and unfoldings between polygons and polytopes" year 2000 label 20
+10254 61858 0.0 0.0 ellipse paper_id 2949344526 title "enumerating foldings and unfoldings between polygons and polytopes" year 2001 label 20
+10256 153036 0.0 0.0 ellipse paper_id 2950016820 title "electrical flows laplacian systems and faster approximation of maximum flow in undirected graphs" year 2010 label 34
+10265 155028 0.0 0.0 ellipse paper_id 2139883426 title "eigenfactor does the principle of repeated improvement result in better journal impact estimates than raw citation counts" year 2008 label 38
+10266 139732 0.0 0.0 ellipse paper_id 2949852447 title "toward alternative metrics of journal impact a comparison of download and citation data" year 2005 label 38
+10268 145686 0.0 0.0 ellipse paper_id 1658689411 title "a social network for societal scale decision making systems" year 2004 label 3
+10271 154425 0.0 0.0 ellipse paper_id 2951146278 title "complexity limitations on quantum computation" year 1998 label 9
+10276 68711 0.0 0.0 ellipse paper_id 2952965167 title "rent lease or buy randomized algorithms for multislope ski rental" year 2008 label 34
+10299 85535 0.0 0.0 ellipse paper_id 2949868416 title "walking on a graph with a magnifying glass stratified sampling via weighted random walks" year 2011 label 26
+10300 15411 0.0 0.0 ellipse paper_id 2950364025 title "estimating and sampling graphs with multidimensional random walks" year 2010 label 34
+10301 12717 0.0 0.0 ellipse paper_id 2951323253 title "multigraph sampling of online social networks" year 2010 label 8
+10324 85507 0.0 0.0 ellipse paper_id 2949494830 title "robust distributed source coding" year 2006 label 28
+10367 125115 0.0 0.0 ellipse paper_id 2949125694 title "preference based graphic models for collaborative filtering" year 2012 label 31
+10368 41939 0.0 0.0 ellipse paper_id 2949746048 title "multi domain collaborative filtering" year 2012 label 31
+10373 80252 0.0 0.0 ellipse paper_id 2949212323 title "optimal column based low rank matrix reconstruction" year 2011 label 34
+10378 169027 0.0 0.0 ellipse paper_id 2951962013 title "efficient volume sampling for row column subset selection" year 2010 label 34
+10392 24010 0.0 0.0 ellipse paper_id 2094649542 title "citations versus journal impact factor as proxy of quality could the latter ever be preferable" year 2010 label 38
+10393 87095 0.0 0.0 ellipse paper_id 2953055063 title "do altmetrics correlate with citations extensive comparison of altmetric indicators with citations from a multidisciplinary perspective" year 2014 label 38
+10447 58433 0.0 0.0 ellipse paper_id 1542217987 title "polynomial threshold functions structure approximation and pseudorandomness" year 2009 label 9
+10448 137222 0.0 0.0 ellipse paper_id 2952038943 title "bounded independence fools degree 2 threshold functions" year 2009 label 9
+10484 54494 0.0 0.0 ellipse paper_id 1542807197 title "text mining and visualization using vosviewer" year 2011 label 38
+10485 149383 0.0 0.0 ellipse paper_id 2953107155 title "a comparison of two techniques for bibliometric mapping multidimensional scaling and vos" year 2010 label 38
+10489 68629 0.0 0.0 ellipse paper_id 2951691640 title "interactive privacy via the median mechanism" year 2009 label 4
+10498 14652 0.0 0.0 ellipse paper_id 2136348949 title "mach fast randomized tensor decompositions" year 2009 label 34
+10499 38610 0.0 0.0 ellipse paper_id 2148524147 title "approximate triangle counting" year 2009 label 34
+10511 143095 0.0 0.0 ellipse paper_id 2100974526 title "truthy mapping the spread of astroturf in microblog streams" year 2011 label 26
+10599 115213 0.0 0.0 ellipse paper_id 1618148629 title "approaching optimality for solving sdd systems" year 2010 label 34
+10602 146612 0.0 0.0 ellipse paper_id 2950922508 title "faster least squares approximation" year 2007 label 34
+10603 55487 0.0 0.0 ellipse paper_id 2952318043 title "smoothed analysis of the condition numbers and growth factors of matrices" year 2003 label 0
+10623 19496 0.0 0.0 ellipse paper_id 2951252143 title "differentially private combinatorial optimization" year 2009 label 34
+10712 30425 0.0 0.0 ellipse paper_id 1631403443 title "links tell us about lexical and semantic web content" year 2001 label 31
+10725 158579 0.0 0.0 ellipse paper_id 2953186933 title "collaborative filtering in a non uniform world learning with the weighted trace norm" year 2010 label 24
+10742 75238 0.0 0.0 ellipse paper_id 2951217001 title "publish or patent bibliometric evidence for empirical trade offs in national funding strategies" year 2011 label 38
+10744 11749 0.0 0.0 ellipse paper_id 1836722981 title "general purpose computing on a semantic network substrate" year 2010 label 10
+10776 123760 0.0 0.0 ellipse paper_id 2949071206 title "active learning with statistical models" year 1996 label 10
+10833 167542 0.0 0.0 ellipse paper_id 2949521043 title "traffic driven model of the world wide web graph" year 2004 label 8
+10842 35815 0.0 0.0 ellipse paper_id 1714001321 title "almost everywhere algorithmic stability and generalization error" year 2012 label 24
+10880 13953 0.0 0.0 ellipse paper_id 2949946462 title "generalized entropy power inequalities and monotonicity properties of information" year 2006 label 28
+10935 69217 0.0 0.0 ellipse paper_id 2152608246 title "analyzing user behavior across social sharing environments" year 2013 label 26
+10979 142438 0.0 0.0 ellipse paper_id 2949905447 title "incremental pruning a simple fast exact method for partially observable markov decision processes" year 2013 label 10
+10981 75335 0.0 0.0 ellipse paper_id 2952548830 title "a model approximation scheme for planning in partially observable stochastic domains" year 1997 label 10
+11033 44003 0.0 0.0 ellipse paper_id 2142646165 title "learning to order things" year 1999 label 24
+11121 14510 0.0 0.0 ellipse paper_id 1551449546 title "empirical evaluation of four tensor decomposition algorithms" year 2007 label 24
+11122 138536 0.0 0.0 ellipse paper_id 2951193962 title "similarity of semantic relations" year 2006 label 30
+11169 72674 0.0 0.0 ellipse paper_id 2952829960 title "model based diagnosis using structured system descriptions" year 1998 label 10
+11174 154445 0.0 0.0 ellipse paper_id 2951434447 title "global conditioning for probabilistic inference in belief networks" year 2013 label 10
+11190 166373 0.0 0.0 ellipse paper_id 2951918546 title "social dynamics of digg" year 2012 label 3
+11235 78983 0.0 0.0 ellipse paper_id 2949552919 title "on the logic of causal models" year 2013 label 10
+11236 80425 0.0 0.0 ellipse paper_id 2952114617 title "causal networks semantics and expressiveness" year 2013 label 10
+11250 106656 0.0 0.0 ellipse paper_id 2949454902 title "network information flow with correlated sources" year 2005 label 28
+11255 161117 0.0 0.0 ellipse paper_id 2951762979 title "distributed source coding of correlated gaussian remote sources" year 2009 label 28
+11305 143017 0.0 0.0 ellipse paper_id 1837843568 title "the rise of social bots" year 2016 label 26
+11317 2138 0.0 0.0 ellipse paper_id 2949465329 title "trainable methods for surface natural language generation" year 2000 label 30
+11382 167622 0.0 0.0 ellipse paper_id 2951016966 title "sampling algorithms and coresets for lp regression" year 2007 label 34
+11412 102646 0.0 0.0 ellipse paper_id 2949328284 title "co authorship networks in the digital library research community" year 2005 label 38
+11455 87106 0.0 0.0 ellipse paper_id 2953163485 title "approximation resistant predicates from pairwise independence" year 2008 label 9
+11489 94793 0.0 0.0 ellipse paper_id 2949402393 title "faster generation of random spanning trees" year 2009 label 34
+11514 152314 0.0 0.0 ellipse paper_id 2056421554 title "is there currently a scientific revolution in scientometrics" year 2013 label 38
+11515 20036 0.0 0.0 ellipse paper_id 2088858100 title "tweets vs mendeley readers how do these two social media metrics differ" year 2014 label 38
+11516 83545 0.0 0.0 ellipse paper_id 2152380229 title "the role of twitter in the life cycle of a scientific publication" year 2013 label 38
+11517 164856 0.0 0.0 ellipse paper_id 2949258821 title "coverage and adoption of altmetrics sources in the bibliometric community" year 2013 label 38
+11518 4739 0.0 0.0 ellipse paper_id 2949922876 title "how to evaluate individual researchers working in the natural and life sciences meaningfully a proposal of methods based on percentiles of citations" year 2013 label 38
+11519 73929 0.0 0.0 ellipse paper_id 2951252757 title "how to calculate the practical significance of citation impact differences an empirical example from evaluative institutional bibliometrics using adjusted predictions and marginal effects" year 2013 label 38
+11577 138648 0.0 0.0 ellipse paper_id 2953006511 title "nonnegative matrix factorization via rank one downdate" year 2008 label 31
+11599 2251 0.0 0.0 ellipse paper_id 2951450270 title "ununfoldable polyhedra with convex faces" year 1999 label 20
+11661 1368 0.0 0.0 ellipse paper_id 1559665635 title "the structure and dynamics of co citation clusters a multiple perspective co citation analysis" year 2010 label 3
+11662 16066 0.0 0.0 ellipse paper_id 2163199784 title "similarity measures author cocitation analysis and information theory" year 2009 label 31
+11663 162411 0.0 0.0 ellipse paper_id 2951458207 title "towards an explanatory and computational theory of scientific discovery" year 2009 label 12
+11703 143942 0.0 0.0 ellipse paper_id 2952541005 title "hybrid processing of beliefs and constraints" year 2013 label 10
+11716 86038 0.0 0.0 ellipse paper_id 1560221996 title "privacy in search logs" year 2009 label 37
+11717 51873 0.0 0.0 ellipse paper_id 1933583770 title "anonymizing unstructured data" year 2008 label 37
+11718 49987 0.0 0.0 ellipse paper_id 2949990249 title "worst case background knowledge for privacy preserving data publishing" year 2007 label 37
+11795 153653 0.0 0.0 ellipse paper_id 2095405086 title "extended formulations for polygons" year 2012 label 39
+11864 47930 0.0 0.0 ellipse paper_id 2043056692 title "further results on coding for reliable communication over packet networks" year 2005 label 28
+11895 21997 0.0 0.0 ellipse paper_id 2949773717 title "on the complexity of solving markov decision problems" year 2013 label 10
+11997 106825 0.0 0.0 ellipse paper_id 2952047755 title "a market oriented programming environment and its application to distributed multicommodity flow problems" year 1993 label 10
+12050 21220 0.0 0.0 ellipse paper_id 1564124243 title "support graph preconditioners for 2 dimensional trusses" year 2007 label 0
+12051 56617 0.0 0.0 ellipse paper_id 2950128268 title "lower stretch spanning trees" year 2004 label 34
+12115 151018 0.0 0.0 ellipse paper_id 2052129459 title "impact vitality an indicator based on citing publications in search of excellent scientists" year 2009 label 38
+12201 131802 0.0 0.0 ellipse paper_id 2949444750 title "small maximal independent sets and faster exact graph coloring" year 2000 label 34
+12203 2376 0.0 0.0 ellipse paper_id 2953374640 title "3 coloring in time o 1 3289 n" year 2000 label 34
+12212 135988 0.0 0.0 ellipse paper_id 2953182116 title "learning as search optimization approximate large margin methods for structured prediction" year 2009 label 24
+12214 70349 0.0 0.0 ellipse paper_id 1578746725 title "algorithms for probabilistically constrained models of risk averse stochastic optimization with black box distributions" year 2008 label 34
+12251 96115 0.0 0.0 ellipse paper_id 2949437261 title "context specific independence in bayesian networks" year 2013 label 10
+12290 146661 0.0 0.0 ellipse paper_id 2951918391 title "fast approximation of centrality" year 2000 label 34
+12367 76451 0.0 0.0 ellipse paper_id 2950038108 title "a truthful randomized mechanism for combinatorial public projects via convex optimization" year 2011 label 36
+12369 125173 0.0 0.0 ellipse paper_id 2950236988 title "simulation approaches to general probabilistic inference on belief networks" year 2013 label 10
+12435 36815 0.0 0.0 ellipse paper_id 2952839569 title "fast computation of empirically tight bounds for the diameter of massive graphs" year 2009 label 34
+12558 48854 0.0 0.0 ellipse paper_id 2952418015 title "integrating planning and execution in stochastic domains" year 2013 label 10
+12614 71168 0.0 0.0 ellipse paper_id 2950000072 title "causal inference and causal explanation with background knowledge" year 2013 label 10
+12650 164097 0.0 0.0 ellipse paper_id 1573308170 title "predicting influential users in online social networks" year 2010 label 3
+12720 38517 0.0 0.0 ellipse paper_id 1884542822 title "the recovery of causal poly trees from statistical data" year 2013 label 10
+12754 1372 0.0 0.0 ellipse paper_id 1574837706 title "towards a formalization of the unified modeling language" year 1997 label 23
+12755 11697 0.0 0.0 ellipse paper_id 1591124131 title "automata describing object behavior" year 1996 label 23
+12756 97413 0.0 0.0 ellipse paper_id 2949497562 title "state based service description" year 2014 label 23
+12759 122624 0.0 0.0 ellipse paper_id 2952521925 title "learning finite state controllers for partially observable environments" year 2013 label 10
+12795 69060 0.0 0.0 ellipse paper_id 1651399179 title "dependent randomized rounding for matroid polytopes and applications" year 2009 label 34
+12825 72990 0.0 0.0 ellipse paper_id 1576224528 title "fractal weyl law for linux kernel architecture" year 2011 label 7
+12826 92783 0.0 0.0 ellipse paper_id 1991653062 title "spectral properties of the google matrix of the world wide web and other directed networks" year 2010 label 31
+12827 168214 0.0 0.0 ellipse paper_id 2044823868 title "delocalization transition for the google matrix" year 2009 label 31
+12828 69148 0.0 0.0 ellipse paper_id 2046458451 title "google matrix dynamical attractors and ulam networks" year 2010 label 31
+12829 67884 0.0 0.0 ellipse paper_id 2170500260 title "google matrix and ulam networks of intermittency maps" year 2010 label 31
+12897 145787 0.0 0.0 ellipse paper_id 2058465497 title "novelty and collective attention" year 2007 label 3
+13002 142965 0.0 0.0 ellipse paper_id 1578588790 title "efficient differentially private point estimators" year 2008 label 4
+13007 162281 0.0 0.0 ellipse paper_id 2949466589 title "how to improve the prediction based on citation impact percentiles for years shortly after the publication date" year 2013 label 38
+13023 8766 0.0 0.0 ellipse paper_id 2953150912 title "crowdsourcing attention and productivity" year 2008 label 3
+13078 147024 0.0 0.0 ellipse paper_id 1579901013 title "practical issues in constructing a bayes belief network" year 2013 label 10
+13079 8549 0.0 0.0 ellipse paper_id 2949947648 title "david influence diagram processing system for the macintosh" year 2013 label 10
+13107 100215 0.0 0.0 ellipse paper_id 2951695240 title "budget optimization in search based advertising auctions" year 2006 label 34
+13172 93580 0.0 0.0 ellipse paper_id 2950838594 title "boosting the accuracy of differentially private histograms through consistency" year 2009 label 37
+13173 165024 0.0 0.0 ellipse paper_id 2951713802 title "lower bounds in differential privacy" year 2011 label 4
+13187 23462 0.0 0.0 ellipse paper_id 2951212559 title "solving pomdps by searching in policy space" year 2013 label 10
+13247 132389 0.0 0.0 ellipse paper_id 1582181883 title "avoiding braess paradox through collective intelligence" year 2013 label 5
+13248 119243 0.0 0.0 ellipse paper_id 2171234133 title "an introduction to collective intelligence" year 1999 label 24
+13249 41977 0.0 0.0 ellipse paper_id 2950270580 title "using collective intelligence to route internet traffic" year 1999 label 24
+13251 163688 0.0 0.0 ellipse paper_id 2951303218 title "the lumiere project bayesian user modeling for inferring the goals and needs of software users" year 2013 label 10
+13269 95337 0.0 0.0 ellipse paper_id 1582493912 title "use of astronomical literature a report on usage patterns" year 2009 label 38
+13270 10513 0.0 0.0 ellipse paper_id 2073788864 title "worldwide use and impact of the nasa astrophysics data system digital library" year 2005 label 38
+13282 21999 0.0 0.0 ellipse paper_id 2949796585 title "optimal multi paragraph text segmentation by dynamic programming" year 1998 label 30
+13283 81777 0.0 0.0 ellipse paper_id 2952754766 title "linear segmentation and segment significance" year 1998 label 30
+13301 151692 0.0 0.0 ellipse paper_id 2949795730 title "probabilistic evaluation of sequential plans from causal models with hidden variables" year 2013 label 10
+13303 27514 0.0 0.0 ellipse paper_id 2953025313 title "testing identifiability of causal effects" year 2013 label 10
+13326 2786 0.0 0.0 ellipse paper_id 2068844935 title "universality of scholarly impact metrics" year 2013 label 38
+13327 80356 0.0 0.0 ellipse paper_id 2950640221 title "turning the tables in citation analysis one more time principles for comparing sets of documents" year 2011 label 38
+13332 95349 0.0 0.0 ellipse paper_id 1631579042 title "ranking forestry journals using the h index" year 2008 label 38
+13333 133198 0.0 0.0 ellipse paper_id 2950232304 title "the inconsistency of the h index" year 2011 label 38
+13355 26666 0.0 0.0 ellipse paper_id 2154784369 title "social decision making with multi relational networks and grammar based particle swarms" year 2007 label 3
+13474 150903 0.0 0.0 ellipse paper_id 1536944281 title "guaranteed minimum rank approximation from linear observations by nuclear norm minimization with an ellipsoidal constraint" year 2009 label 28
+13590 10515 0.0 0.0 ellipse paper_id 2087400986 title "cwts crown indicator measures citation impact of a research group s publication oeuvre" year 2010 label 38
+13597 23323 0.0 0.0 ellipse paper_id 2949113657 title "display of information for time critical decision making" year 2013 label 10
+13599 46191 0.0 0.0 ellipse paper_id 2952968092 title "a bayesian approach to learning bayesian networks with local structure" year 2013 label 24
+13695 11359 0.0 0.0 ellipse paper_id 2952611703 title "approximate graph coloring by semidefinite programming" year 1998 label 34
+13712 54059 0.0 0.0 ellipse paper_id 2951162589 title "asymptotic model selection for directed networks with hidden variables" year 2013 label 24
+13839 74366 0.0 0.0 ellipse paper_id 1590627328 title "on the bias of bfs" year 2010 label 39
+13840 13264 0.0 0.0 ellipse paper_id 2121525148 title "a walk in facebook uniform sampling of users in online social networks" year 2009 label 26
+13914 45173 0.0 0.0 ellipse paper_id 1591783110 title "do we need higher order probabilities and if so what do they mean" year 2013 label 10
+13915 38500 0.0 0.0 ellipse paper_id 1756257775 title "a perspective on confidence and its use in focusing attention during knowledge acquisition" year 2013 label 10
+13933 108521 0.0 0.0 ellipse paper_id 1591959187 title "a dual polynomial for or" year 2008 label 9
+14031 29983 0.0 0.0 ellipse paper_id 2951051665 title "differential privacy via wavelet transforms" year 2009 label 37
+14188 88934 0.0 0.0 ellipse paper_id 2169187320 title "the bibliometric properties of article readership information" year 2005 label 38
+14189 10096 0.0 0.0 ellipse paper_id 2953010605 title "effect of e printing on citation rates in astronomy and physics" year 2006 label 38
+14262 43894 0.0 0.0 ellipse paper_id 1669186301 title "polynomial time approximation schemes for knapsack and related counting problems using branching programs" year 2010 label 34
+14264 23453 0.0 0.0 ellipse paper_id 2951094206 title "a deterministic polynomial time approximation scheme for counting knapsack solutions" year 2010 label 34
+14287 98731 0.0 0.0 ellipse paper_id 2949281135 title "quasiconvex analysis of backtracking algorithms" year 2003 label 34
+14438 100180 0.0 0.0 ellipse paper_id 2951160153 title "expanders via random spanning trees" year 2008 label 39
+14482 17296 0.0 0.0 ellipse paper_id 1600444840 title "resequencing a method for conforming to conventions for sharing credits among multiple authors" year 2011 label 38
+14483 83403 0.0 0.0 ellipse paper_id 1669554214 title "generalized linear weights for sharing credits among multiple authors" year 2010 label 38
+14496 82130 0.0 0.0 ellipse paper_id 1629520119 title "birds of a feather does user homophily impact information diffusion in social media" year 2010 label 3
+14508 140407 0.0 0.0 ellipse paper_id 2091202730 title "detect overlapping and hierarchical community structure in networks" year 2009 label 3
+14511 114786 0.0 0.0 ellipse paper_id 2951993312 title "towards linear time overlapping community detection in social networks" year 2012 label 26
+14512 97976 0.0 0.0 ellipse paper_id 1600782690 title "entropy based classification of retweeting activity on twitter" year 2011 label 26
+14533 121669 0.0 0.0 ellipse paper_id 1600978165 title "analyzing the facebook friendship graph" year 2010 label 26
+14534 113980 0.0 0.0 ellipse paper_id 2124157324 title "automatic wrapper adaptation by tree edit distance matching" year 2011 label 10
+14535 69213 0.0 0.0 ellipse paper_id 2148317291 title "web data extraction applications and techniques" year 2014 label 31
+14553 146469 0.0 0.0 ellipse paper_id 2949064044 title "on the convexity of latent social network inference" year 2010 label 26
+14610 106660 0.0 0.0 ellipse paper_id 2949485285 title "the johnson lindenstrauss transform itself preserves differential privacy" year 2012 label 34
+14623 146652 0.0 0.0 ellipse paper_id 2951653009 title "operations for learning with graphical models" year 1994 label 10
+14770 63273 0.0 0.0 ellipse paper_id 2950851108 title "faster approximation schemes for fractional multicommodity flow problems via dynamic graph algorithms" year 2010 label 34
+14790 113262 0.0 0.0 ellipse paper_id 2949346966 title "stochastic models for budget optimization in search based advertising" year 2006 label 34
+14791 7441 0.0 0.0 ellipse paper_id 2952791418 title "bidding to the top vcg and equilibria of position based auctions" year 2006 label 36
+14797 43898 0.0 0.0 ellipse paper_id 1680465494 title "the silent fading of an academic search engine the case of microsoft academic search" year 2014 label 38
+14805 5257 0.0 0.0 ellipse paper_id 1604775856 title "an infeasibility result for the multiterminal source coding problem" year 2005 label 28
+14843 158884 0.0 0.0 ellipse paper_id 1605113654 title "effective resistances statistical leverage and applications to linear equation solving" year 2010 label 0
+14883 7357 0.0 0.0 ellipse paper_id 2951437402 title "cached sufficient statistics for efficient machine learning with large datasets" year 1998 label 10
+14887 30420 0.0 0.0 ellipse paper_id 1605870080 title "using rdf to model the structure and process of systems" year 2007 label 10
+14912 23324 0.0 0.0 ellipse paper_id 2949153764 title "sensitivity analysis for probability assessments in bayesian networks" year 2013 label 10
+14913 137087 0.0 0.0 ellipse paper_id 2949689372 title "making sensitivity analysis computationally efficient" year 2013 label 10
+14915 162340 0.0 0.0 ellipse paper_id 2950300916 title "analysing sensitivity data from probabilistic networks" year 2013 label 10
+14916 43470 0.0 0.0 ellipse paper_id 2951929728 title "when do numbers really matter" year 2002 label 10
+14997 19457 0.0 0.0 ellipse paper_id 2950561909 title "life above threshold from list decoding to area theorem and mse" year 2004 label 28
+15003 8715 0.0 0.0 ellipse paper_id 2952334821 title "fooling functions of halfspaces under product distributions" year 2010 label 9
+15035 116538 0.0 0.0 ellipse paper_id 1648669613 title "an mse based ttransfer chart to analyze iterative decoding schemes" year 2005 label 28
+15079 7755 0.0 0.0 ellipse paper_id 1609746247 title "robust principal component analysis exact recovery of corrupted low rank matrices" year 2009 label 28
+15080 145088 0.0 0.0 ellipse paper_id 2949214562 title "communication lower bounds using dual polynomials" year 2008 label 9
+15182 140409 0.0 0.0 ellipse paper_id 2101742030 title "fast complex network clustering algorithm using agents" year 2009 label 26
+15234 12813 0.0 0.0 ellipse paper_id 2952991312 title "from statistical knowledge bases to degrees of belief" year 2003 label 10
+15284 116243 0.0 0.0 ellipse paper_id 2952996388 title "faster approximate multicommodity flow using quadratically coupled flows" year 2012 label 34
+15444 107361 0.0 0.0 ellipse paper_id 2147268943 title "density evolution for asymmetric memoryless channels" year 2005 label 28
+15511 75672 0.0 0.0 ellipse paper_id 1662723021 title "google web apis an instrument for webometric analyses" year 2005 label 31
+15512 119228 0.0 0.0 ellipse paper_id 2137725064 title "the effect of use and access on citations" year 2005 label 38
+15514 61909 0.0 0.0 ellipse paper_id 2950234938 title "faster approximate lossy generalized flow via interior point algorithms" year 2008 label 34
+15558 163677 0.0 0.0 ellipse paper_id 2951214231 title "discovering author impact a pagerank perspective" year 2010 label 38
+15721 31882 0.0 0.0 ellipse paper_id 1976432206 title "approximation algorithms for covering packing integer programs" year 2005 label 34
+15725 11383 0.0 0.0 ellipse paper_id 2953017720 title "stochastic constraint programming" year 2009 label 10
+15734 13884 0.0 0.0 ellipse paper_id 2949151970 title "symmetry and approximability of submodular maximization problems" year 2011 label 34
+15748 23601 0.0 0.0 ellipse paper_id 2953351249 title "social browsing on flickr" year 2006 label 6
+15774 66393 0.0 0.0 ellipse paper_id 1623241718 title "shannon meets wiener ii on mmse estimation in successive decoding schemes" year 2004 label 28
+15796 126699 0.0 0.0 ellipse paper_id 2953023521 title "from conditional oughts to qualitative decision theory" year 2013 label 10
+15862 140293 0.0 0.0 ellipse paper_id 1642893802 title "myads arxiv a tailor made open access virtual journal" year 2006 label 38
+15929 88152 0.0 0.0 ellipse paper_id 2949221082 title "efficient algorithms for large scale topology discovery" year 2004 label 8
+15939 57194 0.0 0.0 ellipse paper_id 1979397185 title "simple strategies for large zero sum games with applications to complexity theory" year 1994 label 9
+15940 53948 0.0 0.0 ellipse paper_id 2949396974 title "randomized approximation schemes for cuts and flows in capacitated graphs" year 2002 label 34
+16018 40714 0.0 0.0 ellipse paper_id 2951269435 title "tweeting biomedicine an analysis of tweets and citations in the biomedical literature" year 2013 label 38
+16134 141764 0.0 0.0 ellipse paper_id 2168887002 title "bias in the journal impact factor" year 2009 label 38
+16135 19464 0.0 0.0 ellipse paper_id 2950724715 title "on the robustness of the h index" year 2007 label 38
+16219 69234 0.0 0.0 ellipse paper_id 2175289308 title "the canonical distortion measure for vector quantization and function approximation" year 1997 label 24
+16271 101902 0.0 0.0 ellipse paper_id 1639316992 title "low rank matrix factorization with attributes" year 2006 label 24
+16344 57136 0.0 0.0 ellipse paper_id 1635909395 title "k core decomposition a tool for the visualization of large scale networks" year 2005 label 8
+16370 112161 0.0 0.0 ellipse paper_id 2952709891 title "distribution of pagerank mass among principle components of the web" year 2007 label 8
+16406 33129 0.0 0.0 ellipse paper_id 1637052413 title "on the tractable counting of theory models and its application to belief revision and truth maintenance" year 2000 label 10
+16417 75269 0.0 0.0 ellipse paper_id 2951688905 title "feedback loops of attention in peer production" year 2009 label 3
+16443 163698 0.0 0.0 ellipse paper_id 2951455981 title "multiagent control of self reconfigurable robots" year 2000 label 27
+16449 18998 0.0 0.0 ellipse paper_id 2762051376 title "setting parameters by example" year 2003 label 34
+16457 96629 0.0 0.0 ellipse paper_id 1515582328 title "narses a scalable flow based network simulator" year 2002 label 29
+16461 72596 0.0 0.0 ellipse paper_id 2951838794 title "learning bayesian nets that perform well" year 2013 label 10
+16580 55380 0.0 0.0 ellipse paper_id 2950784724 title "an adaptive mechanism for accurate query answering under differential privacy" year 2012 label 37
+16608 82136 0.0 0.0 ellipse paper_id 1642458096 title "submodular functions learnability structure and optimization" year 2010 label 34
+16727 11279 0.0 0.0 ellipse paper_id 2951602953 title "coloring k colorable graphs using relatively small palettes" year 2001 label 34
+16768 94855 0.0 0.0 ellipse paper_id 2950288690 title "can scientific journals be classified in terms of aggregated journal journal citation relations using the journal citation reports" year 2009 label 38
+16792 85537 0.0 0.0 ellipse paper_id 2949893412 title "a generalization of the noisy or model" year 2013 label 10
+16793 89606 0.0 0.0 ellipse paper_id 2949922215 title "parameter adjustment in bayes networks the generalized noisy or gate" year 2013 label 10
+16794 24816 0.0 0.0 ellipse paper_id 2951806221 title "elicitation of probabilities for belief networks combining qualitative and quantitative information" year 2013 label 10
+16802 31800 0.0 0.0 ellipse paper_id 1646184777 title "on extrinsic information of good codes operating over discrete memoryless channels" year 2005 label 28
+16884 103210 0.0 0.0 ellipse paper_id 1648022366 title "leveraging social network infrastructure to improve peer to peer overlay performance results from orkut" year 2005 label 8
+16885 162387 0.0 0.0 ellipse paper_id 2950945875 title "preserving peer replicas by rate limited sampled voting" year 2003 label 5
+16918 49223 0.0 0.0 ellipse paper_id 1648725739 title "efficient batch query answering under differential privacy" year 2011 label 37
+16981 34622 0.0 0.0 ellipse paper_id 2161067498 title "multiple description quantization via gram schmidt orthogonalization" year 2006 label 28
+17008 130979 0.0 0.0 ellipse paper_id 1541747286 title "approximating spanning trees with low crossing number" year 2009 label 20
+17091 169053 0.0 0.0 ellipse paper_id 2952408444 title "lecture notes on evasiveness of graph properties" year 2002 label 9
+17277 159702 0.0 0.0 ellipse paper_id 2950294158 title "index assignment for multichannel communication under failure" year 2000 label 34
+17294 60648 0.0 0.0 ellipse paper_id 2950884216 title "a simple and practical algorithm for differentially private data release" year 2010 label 34
+17322 153060 0.0 0.0 ellipse paper_id 2950328781 title "on the relation between kappa calculus and probabilistic reasoning" year 2013 label 10
+17346 111216 0.0 0.0 ellipse paper_id 1845379789 title "structure and overlaps of communities in networks" year 2012 label 26
+17373 66083 0.0 0.0 ellipse paper_id 2953272406 title "bounds for small error and zero error quantum algorithms" year 1999 label 9
+17430 59811 0.0 0.0 ellipse paper_id 1790295154 title "bounded conditioning flexible inference for decisions under scarce resources" year 2013 label 10
+17451 84241 0.0 0.0 ellipse paper_id 2950632837 title "measuring semantic similarity by latent relational analysis" year 2005 label 24
+17452 77816 0.0 0.0 ellipse paper_id 2951317363 title "a uniform approach to analogies synonyms antonyms and associations" year 2008 label 30
+17540 154507 0.0 0.0 ellipse paper_id 2952299822 title "boosting applied to word sense disambiguation" year 2000 label 30
+17604 5351 0.0 0.0 ellipse paper_id 2042847482 title "exposing multi relational networks to single relational network analysis algorithms" year 2010 label 39
+17606 38606 0.0 0.0 ellipse paper_id 2140504256 title "a practical ontology for the large scale modeling of scholarly artifacts and their usage" year 2007 label 38
+17607 36643 0.0 0.0 ellipse paper_id 2950255060 title "a multi relational network to support the scholarly communication process" year 2006 label 38
+17636 47301 0.0 0.0 ellipse paper_id 2949623047 title "exploiting context when learning to classify" year 2002 label 24
+17744 84410 0.0 0.0 ellipse paper_id 2953284642 title "linear time algorithms for finding a dominating set of fixed size in degenerated graphs" year 2008 label 34
+17745 110892 0.0 0.0 ellipse paper_id 2953028625 title "citation analysis with medical subject headings mesh using the web of knowledge a new routine" year 2012 label 38
+17765 120417 0.0 0.0 ellipse paper_id 1668671407 title "citation analysis cannot legitimate the strategic selection of excellence" year 2011 label 38
+17813 149740 0.0 0.0 ellipse paper_id 1827792418 title "between conjecture and memento shaping a collective emotional perception of the future" year 2008 label 30
+17814 63823 0.0 0.0 ellipse paper_id 2124330039 title "negative emotions boost user activity at bbc forum" year 2011 label 6
+17887 142607 0.0 0.0 ellipse paper_id 2952450321 title "serf and turf crowdturfing for fun and profit" year 2011 label 26
+17959 13154 0.0 0.0 ellipse paper_id 1659555498 title "regression depth and center points" year 2000 label 20
+17983 116014 0.0 0.0 ellipse paper_id 2949432560 title "dynamic network models for forecasting" year 2013 label 10
+17986 18136 0.0 0.0 ellipse paper_id 2950536514 title "stochastic simulation algorithms for dynamic probabilistic networks" year 2013 label 10
+17987 168982 0.0 0.0 ellipse paper_id 2951210180 title "incremental probabilistic inference" year 2013 label 10
+18004 103179 0.0 0.0 ellipse paper_id 1545019110 title "on sensing capacity of sensor networks for the class of linear observation fixed snr models" year 2007 label 28
+18032 123917 0.0 0.0 ellipse paper_id 2951351472 title "author choice open access publishing in the biological and medical literature a citation analysis" year 2008 label 38
+18033 132014 0.0 0.0 ellipse paper_id 2952228433 title "ten year cross disciplinary comparison of the growth of open access and how it increases research citation impact" year 2006 label 38
+18046 169080 0.0 0.0 ellipse paper_id 2952910379 title "supervised grammar induction using training data with limited constituent information" year 1999 label 30
+18047 8770 0.0 0.0 ellipse paper_id 2953196668 title "bootstrapping syntax and recursion using alignment based learning" year 2001 label 24
+18049 28823 0.0 0.0 ellipse paper_id 2952706152 title "weighted citation an indicator of an article s prestige" year 2010 label 38
+18074 31280 0.0 0.0 ellipse paper_id 2950530224 title "finding consensus in speech recognition word error minimization and other applications of confusion networks" year 2000 label 30
+18158 47862 0.0 0.0 ellipse paper_id 1678983130 title "emotional reactions and the pulse of public opinion measuring the impact of political events on the sentiment of online discussions" year 2010 label 3
+18159 123103 0.0 0.0 ellipse paper_id 2064178288 title "measuring the happiness of large scale written expression songs blogs and presidents" year 2010 label 26
+18194 88161 0.0 0.0 ellipse paper_id 2949340759 title "learning policies with external memory" year 2001 label 24
+18213 139872 0.0 0.0 ellipse paper_id 2951850763 title "the google scholar experiment how to index false papers and manipulate bibliometric indicators" year 2013 label 38
+18221 117268 0.0 0.0 ellipse paper_id 2949386080 title "shuffling a stacked deck the case for partially randomized ranking of search engine results" year 2005 label 31
+18394 145819 0.0 0.0 ellipse paper_id 2130527052 title "computationally feasible vcg mechanisms" year 2007 label 36
+18481 62367 0.0 0.0 ellipse paper_id 1521587694 title "heuristic search as evidential reasoning" year 2013 label 10
+18513 62550 0.0 0.0 ellipse paper_id 2162095731 title "unsupervised learning of semantic orientation from a hundred billion word corpus" year 2002 label 24
+18522 146564 0.0 0.0 ellipse paper_id 2950142016 title "the university industry knowledge relationship analyzing patents and the science base of technologies" year 2009 label 38
+18523 47364 0.0 0.0 ellipse paper_id 2950756950 title "interactive overlay maps for us patent uspto data based on international patent classifications ipc" year 2012 label 38
+18582 7872 0.0 0.0 ellipse paper_id 2124587771 title "stochastic models of user contributory web sites" year 2009 label 3
+18790 119876 0.0 0.0 ellipse paper_id 2949990147 title "a new multilayered pcp and the hardness of hypergraph vertex cover" year 2003 label 9
+18826 138556 0.0 0.0 ellipse paper_id 2951520722 title "collaborative ensemble learning combining collaborative and content based information filtering via hierarchical bayes" year 2012 label 24
+18926 68544 0.0 0.0 ellipse paper_id 2950769787 title "the intersection of two halfspaces has high threshold degree" year 2009 label 9
+18964 151671 0.0 0.0 ellipse paper_id 2949465411 title "visualization of the citation impact environments of scientific journals an online mapping exercise" year 2009 label 38
+18965 36634 0.0 0.0 ellipse paper_id 2950146322 title "co occurrence matrices and their applications in information science extending aca to the web environment" year 2009 label 31
+19029 39996 0.0 0.0 ellipse paper_id 2146784403 title "redundancy in systems which entertain a model of themselves interaction information and the self organization of anticipation" year 2010 label 31
+19030 59285 0.0 0.0 ellipse paper_id 2950069066 title "the dynamics of exchanges and references among scientific texts and the autopoiesis of discursive knowledge" year 2009 label 3
+19031 22092 0.0 0.0 ellipse paper_id 2951102491 title "structuration by intellectual organization the configuration of knowledge in relations among structural components in networks of science" year 2010 label 38
+19090 70373 0.0 0.0 ellipse paper_id 1727602370 title "truthfulness via proxies" year 2010 label 36
+19144 54531 0.0 0.0 ellipse paper_id 1731234515 title "the management of context sensitive features a review of strategies" year 2002 label 24
+19145 71183 0.0 0.0 ellipse paper_id 2950284428 title "contextual normalization applied to aircraft gas turbine engine diagnosis" year 2002 label 24
+19175 77885 0.0 0.0 ellipse paper_id 2952359350 title "interdisciplinarity at the journal and specialty level the changing knowledge bases of the journal cognitive science" year 2012 label 38
+19326 68448 0.0 0.0 ellipse paper_id 2949559848 title "improved algorithms for 3 coloring 3 edge coloring and constraint satisfaction" year 2000 label 34
+19357 4712 0.0 0.0 ellipse paper_id 2949366754 title "aggregated journal journal citation relations in scopus and web of science matched and compared in terms of networks maps and interactive overlays" year 2014 label 38
+19535 14645 0.0 0.0 ellipse paper_id 2118059508 title "community detection using a neighborhood strength driven label propagation algorithm" year 2011 label 26
+19789 89715 0.0 0.0 ellipse paper_id 2951567279 title "information inequalities for joint distributions with interpretations and applications" year 2008 label 28
+19810 149226 0.0 0.0 ellipse paper_id 2950906300 title "information transfer in social media" year 2011 label 26
+19978 121144 0.0 0.0 ellipse paper_id 2949157637 title "chain graphs for learning" year 2013 label 10
+19980 67255 0.0 0.0 ellipse paper_id 2951096347 title "advances in probabilistic reasoning" year 2013 label 10
+20072 58032 0.0 0.0 ellipse paper_id 2951710018 title "k medians facility location and the chernoff wald bound" year 2002 label 34
+20129 148416 0.0 0.0 ellipse paper_id 1767272795 title "the journal coverage of web of science and scopus a comparative analysis" year 2016 label 38
+20130 70047 0.0 0.0 ellipse paper_id 2952984634 title "comparing bibliometric statistics obtained from the web of science and scopus" year 2009 label 31
+20285 38503 0.0 0.0 ellipse paper_id 1771532742 title "linking to data effect on citation rates in astronomy" year 2011 label 38
+20286 31843 0.0 0.0 ellipse paper_id 1827904085 title "finding your literature match a recommender system" year 2011 label 38
+20362 36845 0.0 0.0 ellipse paper_id 2953244660 title "embedding metrics into ultrametrics and graphs into spanning trees with constant average distortion" year 2006 label 39
+20418 102053 0.0 0.0 ellipse paper_id 2165029889 title "parameterized centrality metric for network analysis" year 2011 label 26
+20482 1048 0.0 0.0 ellipse paper_id 2952981920 title "scopus s source normalized impact per paper snip versus a journal impact factor based on fractional counting of citations" year 2010 label 38
+20500 158969 0.0 0.0 ellipse paper_id 1987608644 title "inefficiency in selecting products for submission to national research assessment exercises" year 2014 label 38
+20501 119145 0.0 0.0 ellipse paper_id 1992834492 title "are the authors of highly cited articles also the most productive ones" year 2014 label 38
+20502 83479 0.0 0.0 ellipse paper_id 2026398709 title "research productivity are higher academic ranks more productive than lower ones" year 2011 label 38
+20503 26608 0.0 0.0 ellipse paper_id 2049146676 title "what is the appropriate length of the publication period over which to assess research performance" year 2012 label 38
+20504 119194 0.0 0.0 ellipse paper_id 2093689166 title "revisiting size effects in higher education research productivity" year 2012 label 38
+20505 116006 0.0 0.0 ellipse paper_id 2949326005 title "mapping excellence in national research systems the case of italy" year 2018 label 38
+20506 130704 0.0 0.0 ellipse paper_id 2953124476 title "a sensitivity analysis of researchers productivity rankings to the time of citation observation" year 2018 label 38
+20548 118685 0.0 0.0 ellipse paper_id 2951731426 title "social networks and social information filtering on digg" year 2006 label 6
+20593 67364 0.0 0.0 ellipse paper_id 2952456996 title "accounting for the uncertainty in the evaluation of percentile ranks" year 2012 label 38
+20594 43525 0.0 0.0 ellipse paper_id 2952668482 title "percentile ranks and the integrated impact indicator i3" year 2011 label 3
+20595 67415 0.0 0.0 ellipse paper_id 2953093490 title "the citation based indicator and combined impact indicator new options for measuring impact" year 2012 label 38
+20606 152303 0.0 0.0 ellipse paper_id 2030707410 title "positional effects on citation and readership in arxiv" year 2009 label 38
+20610 129296 0.0 0.0 ellipse paper_id 2952022770 title "private data release via learning thresholds" year 2011 label 9
+20695 80892 0.0 0.0 ellipse paper_id 2063103323 title "partition based field normalization an approach to highly specialized publication records" year 2012 label 38
+20703 141318 0.0 0.0 ellipse paper_id 2953339050 title "localized partial evaluation of belief networks" year 2013 label 10
+20775 76462 0.0 0.0 ellipse paper_id 2950163377 title "multiscale approach for the network compression friendly ordering" year 2010 label 34
+20889 86119 0.0 0.0 ellipse paper_id 2010078744 title "profile popularity in a business oriented online social network" year 2010 label 3
+21051 125754 0.0 0.0 ellipse paper_id 1959255040 title "note on sampling without replacing from a finite collection of matrices" year 2010 label 28
+21151 54567 0.0 0.0 ellipse paper_id 1965070737 title "two dimensional ranking of wikipedia articles" year 2010 label 31
+21152 38571 0.0 0.0 ellipse paper_id 2065589403 title "information metrics imetrics a research specialty with a socio cognitive identity" year 2013 label 38
+21153 68438 0.0 0.0 ellipse paper_id 2949395060 title "the operationalization of fields as wos subject categories wcs in evaluative bibliometrics the cases of library and information science and science technology studies" year 2014 label 38
+21154 139874 0.0 0.0 ellipse paper_id 2951865001 title "a recursive field normalized bibliometric performance indicator an application to the field of library and information science" year 2011 label 38
+21155 75343 0.0 0.0 ellipse paper_id 2952693640 title "a further step forward in measuring journals scientific prestige the sjr2 indicator" year 2012 label 38
+21178 40690 0.0 0.0 ellipse paper_id 2951033335 title "adaptive simulated annealing a near optimal connection between sampling and counting" year 2006 label 34
+21180 25249 0.0 0.0 ellipse paper_id 1914025996 title "how to create an innovation accelerator" year 2011 label 38
+21273 94046 0.0 0.0 ellipse paper_id 1798398164 title "a tensor based method for missing traffic data completion" year 2013 label 0
+21324 37899 0.0 0.0 ellipse paper_id 2949162786 title "flexible decomposition algorithms for weakly coupled markov decision problems" year 2013 label 10
+21349 87547 0.0 0.0 ellipse paper_id 2157533417 title "slpa uncovering overlapping communities in social networks via a speaker listener interaction dynamic process" year 2011 label 26
+21407 124324 0.0 0.0 ellipse paper_id 113996647 title "measuring science irresistible temptations easy shortcuts and dangerous consequences" year 2018 label 38
+21410 56723 0.0 0.0 ellipse paper_id 2951544595 title "mapping excellence in the geography of science an approach based on scopus data" year 2011 label 38
+21431 129794 0.0 0.0 ellipse paper_id 2087610700 title "clustering memes in social media" year 2013 label 26
+21608 100063 0.0 0.0 ellipse paper_id 2949436439 title "big macs and eigenfactor scores don t let correlation coefficients fool you" year 2009 label 38
+21747 62506 0.0 0.0 ellipse paper_id 2081505326 title "bloggers behavior and emergent communities in blog space" year 2010 label 3
+21995 27972 0.0 0.0 ellipse paper_id 2142149702 title "exploring scientists working timetable do scientists often work overtime" year 2012 label 38
+22041 130554 0.0 0.0 ellipse paper_id 2950902318 title "every decision tree has an influential variable" year 2005 label 9
+22056 34505 0.0 0.0 ellipse paper_id 1823081643 title "innovation in scholarly communication vision and projects from high energy physics" year 2008 label 38
+22057 166891 0.0 0.0 ellipse paper_id 2107291774 title "first results from the parse insight project hep survey on data preservation re use and open access" year 2009 label 38
+22169 47799 0.0 0.0 ellipse paper_id 1489278194 title "advice from the oracle really intelligent information retrieval" year 1993 label 10
+22223 11140 0.0 0.0 ellipse paper_id 2949319094 title "search based methods to bound diagnostic probabilities in very large belief nets" year 2013 label 10
+22224 43348 0.0 0.0 ellipse paper_id 2950401381 title "reformulating inference problems through selective conditioning" year 2013 label 10
+22455 37335 0.0 0.0 ellipse paper_id 2263846226 title "botornot a system to evaluate social bots" year 2016 label 26
+22456 79731 0.0 0.0 ellipse paper_id 2278635123 title "the darpa twitter bot challenge" year 2016 label 26
+22457 64455 0.0 0.0 ellipse paper_id 2949072505 title "dissecting a social botnet growth content and influence in twitter" year 2016 label 3
+22458 109314 0.0 0.0 ellipse paper_id 2949724487 title "reverse engineering socialbot infiltration strategies in twitter" year 2014 label 26
+22493 76441 0.0 0.0 ellipse paper_id 2949874185 title "decision theoretic foundations for causal reasoning" year 1995 label 10
+22662 61947 0.0 0.0 ellipse paper_id 2950781913 title "a noisy channel model for document compression" year 2009 label 30
+22694 61925 0.0 0.0 ellipse paper_id 2950434967 title "on the testable implications of causal models with hidden variables" year 2012 label 10
+22715 112568 0.0 0.0 ellipse paper_id 1962291245 title "on the number of iterations for dantzig wolfe optimization and packing covering approximation algorithms" year 1999 label 34
+23201 134642 0.0 0.0 ellipse paper_id 2952102859 title "a large scale exploration of effective global features for a joint entity detection and tracking model" year 2009 label 30
+23234 149162 0.0 0.0 ellipse paper_id 2949999946 title "exploiting causal independence in bayesian network inference" year 1996 label 10
+23299 146490 0.0 0.0 ellipse paper_id 2949361370 title "the mutual information of university industry government relations an indicator of the triple helix dynamics" year 2009 label 3
+23321 54083 0.0 0.0 ellipse paper_id 2951507089 title "a framework for quantitative analysis of cascades on networks" year 2010 label 26
+23334 57218 0.0 0.0 ellipse paper_id 2072048647 title "pagerank of integers" year 2012 label 31
+23371 98937 0.0 0.0 ellipse paper_id 2952497128 title "on the relationship between the structural and socioacademic communities of a coauthorship network" year 2008 label 38
+23445 45220 0.0 0.0 ellipse paper_id 1870337627 title "inequality constraints in causal models with hidden variables" year 2012 label 10
+23446 57873 0.0 0.0 ellipse paper_id 2949325555 title "quantifier elimination for statistical problems" year 2013 label 10
+23447 127843 0.0 0.0 ellipse paper_id 2950795488 title "instrumentality tests revisited" year 2013 label 10
+23448 90975 0.0 0.0 ellipse paper_id 2951302732 title "on the testability of causal models with latent and instrumental variables" year 2013 label 10
+23449 84330 0.0 0.0 ellipse paper_id 2952102737 title "graphical models and exponential families" year 2013 label 24
+23450 11388 0.0 0.0 ellipse paper_id 2953046061 title "counterfactual probabilities computational methods bounds and applications" year 2013 label 10
+23464 148067 0.0 0.0 ellipse paper_id 2953351841 title "a characterization of the dirichlet distribution with application to learning bayesian networks" year 2013 label 10
+23574 79226 0.0 0.0 ellipse paper_id 2953009364 title "the role of handbooks in knowledge creation and diffusion a case of science and technology studies" year 2014 label 38
+23644 92752 0.0 0.0 ellipse paper_id 1877846107 title "a sequence of relaxations constraining hidden variable models" year 2011 label 10
+23645 46001 0.0 0.0 ellipse paper_id 2950582331 title "polynomial constraints in causal bayesian networks" year 2012 label 10
+23681 109527 0.0 0.0 ellipse paper_id 2953005219 title "k independent gaussians fool polynomial threshold functions" year 2010 label 9
+24026 22015 0.0 0.0 ellipse paper_id 2949990864 title "improved approximation of linear threshold functions" year 2009 label 9
+24040 111248 0.0 0.0 ellipse paper_id 1986777559 title "modeling the adoption of innovations in the presence of geographic and media influences" year 2012 label 26
+24098 85605 0.0 0.0 ellipse paper_id 2950720108 title "hyperanf approximating the neighbourhood function of very large graphs on a budget" year 2010 label 34
+24101 133312 0.0 0.0 ellipse paper_id 2951805518 title "mapping semantic networks to undirected networks" year 2008 label 34
+24203 11212 0.0 0.0 ellipse paper_id 2950508876 title "hardness results for agnostically learning low degree polynomial threshold functions" year 2010 label 24
+24531 25245 0.0 0.0 ellipse paper_id 1904294951 title "arboricity h index and dynamic algorithms" year 2012 label 34
+24905 41234 0.0 0.0 ellipse paper_id 1987765704 title "from social data mining to forecasting socio economic crises" year 2011 label 3
+24906 108615 0.0 0.0 ellipse paper_id 2092740170 title "from social simulation to integrative system design" year 2011 label 3
+24907 84885 0.0 0.0 ellipse paper_id 2155042001 title "accelerating the pace of discovery by changing the peer review algorithm" year 2009 label 38
+24908 67882 0.0 0.0 ellipse paper_id 2168954448 title "visual conceptualizations and models of science" year 2009 label 38
+24909 20933 0.0 0.0 ellipse paper_id 2953243615 title "citing and reading behaviours in high energy physics how a community stopped worrying about journals and learned to love repositories" year 2009 label 38
+24910 72723 0.0 0.0 ellipse paper_id 2953386293 title "maps on the basis of the arts humanities citation index the journals leonardo and art journal versus digital humanities as a topic" year 2009 label 38
+25020 104562 0.0 0.0 ellipse paper_id 1917531491 title "arxiv e prints and the journal of record an analysis of roles and relationships" year 2014 label 38
+25021 13227 0.0 0.0 ellipse paper_id 2021136583 title "last but not least additional positional effects on citation and readership in arxiv" year 2010 label 38
+25022 19576 0.0 0.0 ellipse paper_id 2952362201 title "scholarly communication and the continuum of electronic publishing" year 1999 label 3
+25283 20073 0.0 0.0 ellipse paper_id 2162808198 title "a model of internet topology using k shell decomposition" year 2007 label 8
+25417 49295 0.0 0.0 ellipse paper_id 2076689885 title "link creation and profile alignment in the anobii social network" year 2010 label 3
+25453 46632 0.0 0.0 ellipse paper_id 2050010356 title "the measurement of italian universities research productivity by a non parametric bibliometric methodology" year 2008 label 38
+25454 66519 0.0 0.0 ellipse paper_id 2081359365 title "national scale research performance assessment at the individual level" year 2011 label 38
+25455 102040 0.0 0.0 ellipse paper_id 2144010635 title "peer review research assessment a sensitivity analysis of performance rankings to the share of research product evaluated" year 2010 label 38
+25624 57210 0.0 0.0 ellipse paper_id 2030756174 title "national peer review research assessment exercises for the hard sciences can be a complete waste of money the italian case" year 2013 label 38
+25625 53286 0.0 0.0 ellipse paper_id 2083714175 title "distributions for cited articles from individual subjects and years" year 2014 label 38
+25626 28612 0.0 0.0 ellipse paper_id 2949446260 title "the validation of advanced bibliometric indicators through peer assessments a comparative study using data from incites and f1000" year 2012 label 38
+25628 93727 0.0 0.0 ellipse paper_id 2953361422 title "the first italian research assessment exercise a bibliometric perspective" year 2009 label 3
+25725 18042 0.0 0.0 ellipse paper_id 2949271686 title "relaxation based coarsening and multiscale graph organization" year 2010 label 34
+25780 20918 0.0 0.0 ellipse paper_id 2953044852 title "an algorithm for deciding if a set of observed independencies has a causal explanation" year 2013 label 10
+25791 108640 0.0 0.0 ellipse paper_id 2134713486 title "user participation in social media digg study" year 2007 label 3
+25862 9177 0.0 0.0 ellipse paper_id 1942505030 title "neighborhoods are good communities" year 2011 label 26
+25863 55968 0.0 0.0 ellipse paper_id 2102523324 title "fast matrix computations for pairwise and columnwise commute times and katz scores" year 2012 label 26
+25954 79208 0.0 0.0 ellipse paper_id 2952853891 title "growth rates of modern science a bibliometric analysis based on the number of publications and cited references" year 2014 label 38
+26052 91454 0.0 0.0 ellipse paper_id 1947903197 title "ideal a software package for analysis of influence diagrams" year 2013 label 10
+26053 122524 0.0 0.0 ellipse paper_id 2951021243 title "interval influence diagrams" year 2013 label 10
+26054 40749 0.0 0.0 ellipse paper_id 2951732132 title "plan recognition in stories and in life" year 2013 label 10
+26209 13920 0.0 0.0 ellipse paper_id 2949479820 title "assessing scientific research performance and impact with single indices" year 2008 label 31
+26210 63397 0.0 0.0 ellipse paper_id 2952783853 title "a systematic empirical comparison of different approaches for normalizing citation impact indicators" year 2013 label 38
+26348 47906 0.0 0.0 ellipse paper_id 1983161454 title "exploring scientists working timetable a global survey" year 2013 label 38
+26349 82231 0.0 0.0 ellipse paper_id 2049863276 title "how far does scientific community look back" year 2014 label 38
+26429 96257 0.0 0.0 ellipse paper_id 2951587231 title "dynamic construction of belief networks" year 2013 label 10
+26636 153612 0.0 0.0 ellipse paper_id 1964080888 title "a markov random walk under constraint for discovering overlapping communities in complex networks" year 2011 label 26
+26652 12727 0.0 0.0 ellipse paper_id 2951486828 title "applying weighted pagerank to author citation networks" year 2011 label 38
+26654 57251 0.0 0.0 ellipse paper_id 2125832781 title "inferring as relationships dead end or lively beginning" year 2005 label 8
+26681 123008 0.0 0.0 ellipse paper_id 1618035937 title "simulating network influence algorithms using particle swarms pagerank and pagerank priors" year 2006 label 34
+26683 5356 0.0 0.0 ellipse paper_id 2058919853 title "mapping the bid behavior of conference referees" year 2007 label 38
+26752 37896 0.0 0.0 ellipse paper_id 2949131380 title "separating the articles of authors with the same name" year 2006 label 38
+26781 78322 0.0 0.0 ellipse paper_id 2054537087 title "research collaboration and productivity is there correlation" year 2009 label 38
+26783 63790 0.0 0.0 ellipse paper_id 2075991632 title "gender differences in research collaboration" year 2013 label 38
+26793 142456 0.0 0.0 ellipse paper_id 2950161165 title "testing the trade off between productivity and quality in research activities" year 2018 label 38
+26894 51965 0.0 0.0 ellipse paper_id 2152361179 title "citation analysis may severely underestimate the impact of clinical research as compared to basic research" year 2013 label 38
+27032 79195 0.0 0.0 ellipse paper_id 2952566881 title "severe language effect in university rankings particularly germany and france are wronged in citation based rankings" year 2010 label 38
+27033 12792 0.0 0.0 ellipse paper_id 2952583135 title "earlier web usage statistics as predictors of later citation impact" year 2005 label 31
+27180 67270 0.0 0.0 ellipse paper_id 2951295741 title "usage impact factor the effects of sample characteristics on usage based impact metrics" year 2006 label 38
+27296 91461 0.0 0.0 ellipse paper_id 1976144862 title "grammar based geodesics in semantic networks" year 2010 label 34
+27308 46223 0.0 0.0 ellipse paper_id 2953390777 title "an extension of the lovasz local lemma and its applications to integer programming" year 2003 label 34
+27356 151012 0.0 0.0 ellipse paper_id 2039363502 title "comparison of a citation based indicator and peer review for absolute and specific measures of research group excellence" year 2013 label 38
+27397 34556 0.0 0.0 ellipse paper_id 2043594299 title "google matrix of twitter" year 2012 label 26
+27398 66553 0.0 0.0 ellipse paper_id 2137695220 title "toward two dimensional search engines" year 2012 label 31
+27469 139972 0.0 0.0 ellipse paper_id 2953369829 title "learning to paraphrase an unsupervised approach using multiple sequence alignment" year 2003 label 30
+27515 63758 0.0 0.0 ellipse paper_id 1980255024 title "multivariate regression depth" year 2002 label 20
+27531 29218 0.0 0.0 ellipse paper_id 1980646795 title "international collaboration clusters in africa" year 2014 label 38
+27532 106663 0.0 0.0 ellipse paper_id 2949528350 title "international collaboration in science the global map and the network" year 2013 label 38
+27974 81640 0.0 0.0 ellipse paper_id 2950851885 title "vertex unfoldings of simplicial manifolds" year 2001 label 20
+28080 92799 0.0 0.0 ellipse paper_id 2043913671 title "a field standardized application of dea to national scale research assessment of universities" year 2011 label 38
+28081 57224 0.0 0.0 ellipse paper_id 2087374082 title "the contribution of star scientists to overall sex differences in research productivity" year 2009 label 38
+28082 128480 0.0 0.0 ellipse paper_id 2114187424 title "the relationship between scientists research performance and the degree of internationalization of their research" year 2011 label 38
+28235 110030 0.0 0.0 ellipse paper_id 2160202225 title "plagiarism detection in arxiv" year 2006 label 37
+28287 83478 0.0 0.0 ellipse paper_id 2025874591 title "better algorithms for unfair metrical task systems and applications" year 2003 label 34
+28295 139012 0.0 0.0 ellipse paper_id 1997449688 title "identifying interdisciplinarity through the disciplinary classification of coauthors of scientific publications" year 2012 label 38
+28296 47916 0.0 0.0 ellipse paper_id 2012506063 title "university industry collaboration in italy a bibliometric examination" year 2009 label 38
+28297 103290 0.0 0.0 ellipse paper_id 2023273205 title "university industry research collaboration a model to assess university capability" year 2011 label 38
+28400 37192 0.0 0.0 ellipse paper_id 1999636793 title "regression for citation data an evaluation of different methods" year 2014 label 38
+28401 87535 0.0 0.0 ellipse paper_id 2136864958 title "national research assessment exercises a comparison of peer review and bibliometrics rankings" year 2011 label 38
+28415 105935 0.0 0.0 ellipse paper_id 1999876112 title "a national scale cross time analysis of university research performance" year 2011 label 38
+28420 125298 0.0 0.0 ellipse paper_id 2952033050 title "a comparison of techniques for sampling web pages" year 2009 label 34
+28606 32581 0.0 0.0 ellipse paper_id 2949764055 title "the gaussian many help one distributed source coding problem" year 2008 label 28
+28664 4069 0.0 0.0 ellipse paper_id 2120573220 title "modeling and mathematical analysis of swarms of microscopic robots" year 2005 label 11
+28683 168201 0.0 0.0 ellipse paper_id 2005499496 title "partisan asymmetries in online political activity" year 2012 label 26
+28779 46618 0.0 0.0 ellipse paper_id 2007840228 title "ramsey type theorems for metric spaces with applications to online problems" year 2006 label 34
+28784 168957 0.0 0.0 ellipse paper_id 2950735408 title "the relation between eigenfactor audience factor and influence weight" year 2010 label 38
+28792 104612 0.0 0.0 ellipse paper_id 2068486759 title "redundancy and robustness of as level internet topology and its models" year 2004 label 8
+28815 9193 0.0 0.0 ellipse paper_id 2008879500 title "confluent layered drawings" year 2007 label 20
+28816 92124 0.0 0.0 ellipse paper_id 2949312057 title "confluent drawings visualizing non planar diagrams in a planar way" year 2002 label 20
+28834 98082 0.0 0.0 ellipse paper_id 2012636016 title "how important is choice of the scaling factor in standardizing citations" year 2012 label 38
+28958 116595 0.0 0.0 ellipse paper_id 1991886201 title "the alignment of public research supply and industry demand for effective technology transfer the case of italy" year 2009 label 38
+28970 112535 0.0 0.0 ellipse paper_id 1787605394 title "rescaling citations of publications in physics" year 2011 label 38
+28971 145202 0.0 0.0 ellipse paper_id 2951296232 title "an evaluation of impacts in nanoscience nanotechnology steps towards standards for citation analysis" year 2011 label 38
+29232 109950 0.0 0.0 ellipse paper_id 2018855525 title "identifying research fields within business and management a journal cross citation analysis" year 2015 label 38
+29233 167765 0.0 0.0 ellipse paper_id 2952903585 title "some modifications to the snip journal impact indicator" year 2012 label 38
+29277 154972 0.0 0.0 ellipse paper_id 2019743873 title "cores of cooperative games in information theory" year 2008 label 28
+29278 88194 0.0 0.0 ellipse paper_id 2949845072 title "coalition games with cooperative transmission a cure for the curse of boundary nodes in selfish packet forwarding wireless networks" year 2007 label 28
+29312 166848 0.0 0.0 ellipse paper_id 2020528597 title "assessing national strengths and weaknesses in research fields" year 2014 label 38
+29313 168983 0.0 0.0 ellipse paper_id 2951223193 title "what is the effect of country specific characteristics on the research performance of scientific institutions using multi level statistical models to rank and map universities and research focused institutions worldwide" year 2014 label 38
+29367 168244 0.0 0.0 ellipse paper_id 2121173360 title "successive wyner ziv coding scheme and its application to the quadratic gaussian ceo problem" year 2008 label 28
+29421 118661 0.0 0.0 ellipse paper_id 2951359830 title "knowledge engineering for large belief networks" year 2013 label 10
+29472 82218 0.0 0.0 ellipse paper_id 2025248999 title "the role of information asymmetry in the market for university industry research collaboration" year 2011 label 38
+29613 71777 0.0 0.0 ellipse paper_id 2041791085 title "the technology transfer of the italian public research system the case of the national research council of italy" year 2006 label 38
+29637 39994 0.0 0.0 ellipse paper_id 2145046628 title "ejournal interface can influence usage statistics implications for libraries publishers and project counter" year 2006 label 31
+29643 18044 0.0 0.0 ellipse paper_id 2949275773 title "on the correlation between bibliometric indicators and peer review reply to opthof and leydesdorff" year 2011 label 38
+29644 143770 0.0 0.0 ellipse paper_id 2949649308 title "the european union china and the united states in the top 1 and top 10 layers of most frequently cited publications competition and collaborations" year 2014 label 38
+29736 51961 0.0 0.0 ellipse paper_id 2141859565 title "optimizing histogram queries under differential privacy" year 2009 label 37
+29823 69048 0.0 0.0 ellipse paper_id 1628722668 title "community detection in complex networks using agents" year 2006 label 11
+29932 27917 0.0 0.0 ellipse paper_id 2037915805 title "gender differences in research productivity a bibliometric analysis of the italian academic system" year 2009 label 38
+29942 37211 0.0 0.0 ellipse paper_id 2035346118 title "improving recommendation quality by merging collaborative filtering and social relationships" year 2011 label 26
+29963 129154 0.0 0.0 ellipse paper_id 2950076269 title "on the achievable diversity multiplexing tradeoffs in half duplex cooperative channels" year 2005 label 28
+30362 11808 0.0 0.0 ellipse paper_id 2051624849 title "empirical evidence for the relevance of fractional scoring in the calculation of percentile rank scores" year 2013 label 38
+30363 100725 0.0 0.0 ellipse paper_id 2145833478 title "how much do different ways of calculating percentiles influence the derived performance indicators a case study" year 2013 label 38
+30427 37215 0.0 0.0 ellipse paper_id 2047583926 title "modularity clustering is force directed layout" year 2009 label 39
+30458 7354 0.0 0.0 ellipse paper_id 2951333387 title "open access scientometrics and the uk research assessment exercise" year 2007 label 31
+30459 167782 0.0 0.0 ellipse paper_id 2953106330 title "offloading cognition onto cognitive technology" year 2008 label 11
+30608 29310 0.0 0.0 ellipse paper_id 2170882204 title "impact vitality a measure for excellent scientists" year 2013 label 38
+30653 145339 0.0 0.0 ellipse paper_id 2953164310 title "evolutionary dynamics of scientific collaboration networks multi levels and cross time analysis" year 2011 label 26
+30792 83026 0.0 0.0 ellipse paper_id 2952088703 title "a new look at causal independence" year 2013 label 10
+30863 49291 0.0 0.0 ellipse paper_id 2059495357 title "a sensitivity analysis of research institutions productivity rankings to the time of citation observation" year 2012 label 38
+30929 111966 0.0 0.0 ellipse paper_id 2949582158 title "model reduction techniques for computing approximately optimal solutions for markov decision processes" year 2013 label 10
+30930 53974 0.0 0.0 ellipse paper_id 2949803984 title "abstracting probabilistic actions" year 2013 label 10
+30931 109428 0.0 0.0 ellipse paper_id 2951296370 title "structured reachability analysis for markov decision processes" year 2013 label 10
+30932 46061 0.0 0.0 ellipse paper_id 2951376647 title "exploiting the rule structure for decision making within the independent choice logic" year 2013 label 10
+31031 34575 0.0 0.0 ellipse paper_id 2099747601 title "i m sorry dave i m afraid i can t do that linguistics statistics and natural language processing circa 2001" year 2003 label 30
+31072 149361 0.0 0.0 ellipse paper_id 2952748141 title "solving pomdps by searching the space of finite policies" year 2013 label 10
+31073 144415 0.0 0.0 ellipse paper_id 2065562675 title "geometric journal impact factors correcting for individual highly cited articles" year 2015 label 38
+31076 106779 0.0 0.0 ellipse paper_id 2951364172 title "an indicator of research front activity measuring intellectual organization as uncertainty reduction in document sets" year 2009 label 38
+31179 90325 0.0 0.0 ellipse paper_id 2299553038 title "analyzing and modelling the as level internet topology" year 2003 label 8
+31180 146606 0.0 0.0 ellipse paper_id 2950811264 title "towards modelling the internet topology the interactive growth model" year 2003 label 8
+31250 103324 0.0 0.0 ellipse paper_id 2104865013 title "the revised snip indicator of elsevier s scopus" year 2013 label 38
+31965 54085 0.0 0.0 ellipse paper_id 2951516142 title "exponential inapproximability of selecting a maximum volume sub matrix" year 2010 label 9
+32001 4721 0.0 0.0 ellipse paper_id 2949560528 title "parallel implementation of the transims micro simulation" year 2001 label 7
+32216 144424 0.0 0.0 ellipse paper_id 2097583650 title "efficient route tracing from a single source" year 2006 label 8
+32247 3809 0.0 0.0 ellipse paper_id 2994505167 title "adaptive load balancing a study in multi agent learning" year 1995 label 10
+32317 135131 0.0 0.0 ellipse paper_id 2099303308 title "two proofs of the fisher information inequality via data processing arguments" year 2006 label 28
+32336 46146 0.0 0.0 ellipse paper_id 2952383377 title "bootstrapping lexical choice via multiple sequence alignment" year 2002 label 30
+32353 137688 0.0 0.0 ellipse paper_id 2099774288 title "personalizing image search results on flickr" year 2007 label 31
+32405 113963 0.0 0.0 ellipse paper_id 2100712190 title "world shares of publications of the usa eu 27 and china compared and predicted using the new interface of the web of science versus scopus" year 2011 label 38
+32406 96158 0.0 0.0 ellipse paper_id 2950050793 title "retrieval of very large numbers of items in the web of science an exercise to develop accurate search strategies" year 2009 label 38
+32659 9083 0.0 0.0 ellipse paper_id 1514560248 title "the danger of pseudo science in informetrics" year 2010 label 38
+32771 14126 0.0 0.0 ellipse paper_id 2952357841 title "what can heterogeneity add to the scientometric map steps towards algorithmic historiography" year 2010 label 38
+32796 28596 0.0 0.0 ellipse paper_id 2949227782 title "an algorithm for the construction of bayesian network structures from data" year 2013 label 10
+32842 148539 0.0 0.0 ellipse paper_id 2167236203 title "rounding algorithms for a geometric embedding of minimum multiway cut" year 2004 label 34
+33238 108014 0.0 0.0 ellipse paper_id 2949716643 title "weighing and integrating evidence for stochastic simulation in bayesian networks" year 2013 label 10
+33307 108078 0.0 0.0 ellipse paper_id 2950758307 title "separating nof communication complexity classes rp and np" year 2008 label 9
+33351 33270 0.0 0.0 ellipse paper_id 2149173175 title "quantitative analysis of the publishing landscape in high energy physics" year 2006 label 38
+33372 34109 0.0 0.0 ellipse paper_id 2952880976 title "causal independence for knowledge acquisition and inference" year 2013 label 10
+33565 50629 0.0 0.0 ellipse paper_id 2118259999 title "an invariance principle for polytopes" year 2012 label 9
+33655 43987 0.0 0.0 ellipse paper_id 2119717092 title "effective stiffness generalizing effective resistance sampling to finite element matrices" year 2011 label 0
+33722 44681 0.0 0.0 ellipse paper_id 2950724188 title "wrap up a trainable discourse module for information extraction" year 1994 label 10
+33861 101580 0.0 0.0 ellipse paper_id 2952978493 title "a comparison of on line computer science citation databases" year 2007 label 38
+33906 147866 0.0 0.0 ellipse paper_id 2950218338 title "disjointness is hard in the multi party number on the forehead model" year 2007 label 9
+33947 151046 0.0 0.0 ellipse paper_id 2115770258 title "wrapper maintenance a machine learning approach" year 2003 label 10
+33948 23371 0.0 0.0 ellipse paper_id 2949903761 title "design of automatically adaptable web wrappers" year 2011 label 10
+33960 4790 0.0 0.0 ellipse paper_id 2950650583 title "analysis of dynamic task allocation in multi robot systems" year 2006 label 27
+33963 105292 0.0 0.0 ellipse paper_id 2949364942 title "a construction of bayesian networks from databases based on an mdl principle" year 2013 label 10
+33997 6644 0.0 0.0 ellipse paper_id 2125236256 title "a review of the characteristics of 108 author level bibliometric indicators" year 2014 label 38
+34069 46630 0.0 0.0 ellipse paper_id 2047373031 title "v like formations in flocks of artificial birds" year 2008 label 13
+34211 92834 0.0 0.0 ellipse paper_id 2128590159 title "justifying the principle of interval constraints" year 2013 label 10
+34251 64685 0.0 0.0 ellipse paper_id 2952577233 title "refinement and coarsening of bayesian networks" year 2013 label 10
+34316 7231 0.0 0.0 ellipse paper_id 2949481258 title "mechanism design with execution uncertainty" year 2012 label 36
+34384 43996 0.0 0.0 ellipse paper_id 2131688413 title "deterministic sampling and range counting in geometric data streams" year 2007 label 20
+34468 141747 0.0 0.0 ellipse paper_id 2132725058 title "vertex unfoldings of simplicial polyhedra" year 2001 label 20
+34543 53313 0.0 0.0 ellipse paper_id 2133610360 title "the missing links in the bgp based as connectivity maps" year 2003 label 8
+34688 142612 0.0 0.0 ellipse paper_id 2952559209 title "are tensor decomposition solutions unique on the global convergence of hosvd and parafac algorithms" year 2009 label 16
+34791 6344 0.0 0.0 ellipse paper_id 2990718302 title "automated resolution of noisy bibliographic references" year 2004 label 38
+34798 154485 0.0 0.0 ellipse paper_id 2951998086 title "a sufficiently fast algorithm for finding close to optimal junction trees" year 2013 label 34
+34799 8726 0.0 0.0 ellipse paper_id 2952500605 title "context specific approximation in probabilistic inference" year 2013 label 10
+34885 27428 0.0 0.0 ellipse paper_id 2951710479 title "anytime coalition structure generation with worst case guarantees" year 1998 label 11
+34955 158537 0.0 0.0 ellipse paper_id 2952632222 title "detection understanding and prevention of traceroute measurement artifacts" year 2009 label 8
+35037 72538 0.0 0.0 ellipse paper_id 2951010302 title "on the scalability of cooperative time synchronization in pulse connected networks" year 2005 label 28
+35077 6129 0.0 0.0 ellipse paper_id 2952006522 title "community detection using a measure of global influence" year 2008 label 3
+35082 121801 0.0 0.0 ellipse paper_id 2142637246 title "national research impact indicators from mendeley readers" year 2015 label 38
+35083 21361 0.0 0.0 ellipse paper_id 2145535121 title "a comparison between two main academic literature collections web of science and scopus databases" year 2013 label 38
+35084 35994 0.0 0.0 ellipse paper_id 2227545164 title "cited half life of the journal literature" year 2015 label 38
+35085 88434 0.0 0.0 ellipse paper_id 2953318847 title "tweets as impact indicators examining the implications of automated bot accounts on twitter" year 2014 label 38
+35163 143840 0.0 0.0 ellipse paper_id 2950797327 title "a decision support system for public research organizations participating in national research assessment exercises" year 2018 label 38
+35210 35959 0.0 0.0 ellipse paper_id 2144630271 title "advances towards a general purpose societal scale human collective problem solving engine" year 2004 label 3
+35288 60666 0.0 0.0 ellipse paper_id 2951167469 title "ideal reformulation of belief networks" year 2013 label 10
+35322 47358 0.0 0.0 ellipse paper_id 2950668149 title "using the annotated bibliography as a resource for indicative summarization" year 2002 label 30
+35397 31480 0.0 0.0 ellipse paper_id 2953267559 title "attention sensitive alerting" year 2013 label 10
+35416 21368 0.0 0.0 ellipse paper_id 2153837623 title "intelligent self repairable web wrappers" year 2011 label 10
+35538 85510 0.0 0.0 ellipse paper_id 2949548957 title "new advances in inference by recursive conditioning" year 2012 label 10
+35539 96146 0.0 0.0 ellipse paper_id 2949835875 title "case factor diagrams for structured probabilistic modeling" year 2012 label 10
+35540 9979 0.0 0.0 ellipse paper_id 2951235487 title "value elimination bayesian inference via backtracking search" year 2012 label 10
+35678 153704 0.0 0.0 ellipse paper_id 2154109810 title "structure of heterogeneous networks" year 2009 label 3
+35769 126548 0.0 0.0 ellipse paper_id 2950622308 title "how opinions are received by online communities a case study on amazon com helpfulness votes" year 2009 label 30
+35897 134604 0.0 0.0 ellipse paper_id 2951372007 title "globalisation of science in kilometres" year 2011 label 38
+36027 2209 0.0 0.0 ellipse paper_id 2950708966 title "the computational complexity of truthfulness in combinatorial auctions" year 2012 label 36
+36077 111339 0.0 0.0 ellipse paper_id 2169770534 title "entropy and set cardinality inequalities for partition determined functions" year 2012 label 28
+36123 153707 0.0 0.0 ellipse paper_id 2161979923 title "a radar for the internet" year 2008 label 8
+36124 11319 0.0 0.0 ellipse paper_id 2952167458 title "fast dynamics in internet topology preliminary observations and explanations" year 2009 label 8
+36179 131183 0.0 0.0 ellipse paper_id 2163286025 title "an exploratory study of google scholar" year 2007 label 38
+36180 166900 0.0 0.0 ellipse paper_id 2115830123 title "exploring the academic invisible web" year 2006 label 38
+36353 86976 0.0 0.0 ellipse paper_id 2951387625 title "the knowledge based economy and the triple helix model" year 2012 label 21
+36634 48927 0.0 0.0 ellipse paper_id 2953343118 title "learning conventions in multiagent stochastic domains using likelihood estimates" year 2013 label 36
+37038 131190 0.0 0.0 ellipse paper_id 2179102784 title "national disciplinary and temporal variations in the extent to which articles with more authors have more impact evidence from a geometric field normalised citation indicator" year 2016 label 38
+37039 105475 0.0 0.0 ellipse paper_id 2952208446 title "more precise methods for national research citation impact comparisons" year 2015 label 38
+37280 36606 0.0 0.0 ellipse paper_id 2949545372 title "global maps of science based on the new web of science categories" year 2012 label 38
+37461 53346 0.0 0.0 ellipse paper_id 2193275474 title "the precision of the arithmetic mean geometric mean and percentiles for citation data an experimental simulation modelling approach" year 2016 label 38
+37462 157133 0.0 0.0 ellipse paper_id 2951500828 title "power laws in citation distributions evidence from scopus" year 2014 label 38
+37670 51298 0.0 0.0 ellipse paper_id 2949546220 title "methods for estimating the size of google scholar" year 2015 label 38
+38840 130661 0.0 0.0 ellipse paper_id 2952533362 title "a review of the literature on citation impact indicators" year 2015 label 38
+38917 8739 0.0 0.0 ellipse paper_id 2952841422 title "detecting the historical roots of research fields by reference publication year spectroscopy rpys" year 2013 label 38
+39482 55505 0.0 0.0 ellipse paper_id 2952472757 title "a fusion algorithm for solving bayesian decision problems" year 2013 label 10
+40398 21409 0.0 0.0 ellipse paper_id 2248369874 title "which type of citation analysis generates the most accurate taxonomy of scientific and technical knowledge" year 2017 label 38
+40399 97407 0.0 0.0 ellipse paper_id 2949355343 title "large scale analysis of the accuracy of the journal classification systems of web of science and scopus" year 2015 label 38
+43562 7315 0.0 0.0 ellipse paper_id 2950765961 title "pruning bayesian networks for efficient computation" year 2013 label 10
+44113 137112 0.0 0.0 ellipse paper_id 2950148221 title "the structure of the arts humanities citation index a mapping on the basis of aggregated citations among 1 157 journals" year 2011 label 38
+44241 35444 0.0 0.0 ellipse paper_id 2952464174 title "multi unit auctions beyond roberts" year 2010 label 36
+46023 126688 0.0 0.0 ellipse paper_id 2952828185 title "a simple approach to building ensembles of naive bayesian classifiers for word sense disambiguation" year 2000 label 30
+47778 23406 0.0 0.0 ellipse paper_id 2950368606 title "dial a ride from k forest" year 2007 label 34
+49010 27475 0.0 0.0 ellipse paper_id 2952397978 title "ordinal boltzmann machines for collaborative filtering" year 2012 label 31
+51525 62102 0.0 0.0 ellipse paper_id 2953383313 title "interactive overlays a new method for generating global journal maps from web of science data" year 2011 label 38
+53525 157200 0.0 0.0 ellipse paper_id 2952693111 title "information resources in high energy physics surveying the present landscape and charting the future course" year 2008 label 38
+55604 16996 0.0 0.0 ellipse paper_id 2953341361 title "measuring academic influence not all citations are equal" year 2015 label 38
+56197 133258 0.0 0.0 ellipse paper_id 2951082824 title "separable and transitive graphoids" year 2013 label 10
+57411 141208 0.0 0.0 ellipse paper_id 2951661710 title "an empirical analysis of the use of alphabetical authorship in scientific publishing" year 2012 label 38
+57569 84162 0.0 0.0 ellipse paper_id 2949490639 title "how have the eastern european countries of the former warsaw pact developed since 1990 a bibliometric study" year 2013 label 38
+58753 96346 0.0 0.0 ellipse paper_id 2953194982 title "brics countries and scientific excellence a bibliometric analysis of most frequently cited papers" year 2014 label 38
+58773 18606 0.0 0.0 ellipse paper_id 1590438054 title "approximations in bayesian belief universe for knowledge based systems" year 2013 label 10
+61245 48899 0.0 0.0 ellipse paper_id 2953000744 title "how are excellent highly cited papers defined in bibliometrics a quantitative analysis of the literature" year 2014 label 38
+61600 69912 0.0 0.0 ellipse paper_id 2950816624 title "evolution with drifting targets" year 2010 label 24
+61601 158421 0.0 0.0 ellipse paper_id 2950966051 title "distribution independent evolvability of linear threshold functions" year 2011 label 24
+64557 120107 0.0 0.0 ellipse paper_id 2953128868 title "computing upper and lower bounds on likelihoods in intractable networks" year 2013 label 10
+68816 60630 0.0 0.0 ellipse paper_id 2950591674 title "harnessing the deep web present and future" year 2009 label 37
+68869 146486 0.0 0.0 ellipse paper_id 2949297828 title "popular and or prestigious measures of scholarly esteem" year 2010 label 38
+70866 40797 0.0 0.0 ellipse paper_id 2952305088 title "robust and maxmin optimization under matroid and knapsack uncertainty sets" year 2010 label 34
+74628 73940 0.0 0.0 ellipse paper_id 2951430295 title "the structure of broad topics on the web" year 2002 label 31
+79494 82968 0.0 0.0 ellipse paper_id 2951132847 title "correlation robust stochastic optimization" year 2009 label 34
+80553 7298 0.0 0.0 ellipse paper_id 2950576204 title "time dependent utility and action under uncertainty" year 2013 label 10
+84898 6042 0.0 0.0 ellipse paper_id 2950582869 title "all maximal independent sets and dynamic dominance for sparse graphs" year 2004 label 34
+87409 16832 0.0 0.0 ellipse paper_id 2951107232 title "the effect of open access upon citation impact an analysis of arxiv s condensed matter section" year 2006 label 38
+91110 8665 0.0 0.0 ellipse paper_id 2951610588 title "a bayesian approach toward active learning for collaborative filtering" year 2012 label 24
+91738 70065 0.0 0.0 ellipse paper_id 2953210560 title "an alternative markov property for chain graphs" year 2013 label 10
+94798 11409 0.0 0.0 ellipse paper_id 2953373266 title "a local algorithm for finding dense subgraphs" year 2007 label 34
+102925 113434 0.0 0.0 ellipse paper_id 2952017184 title "the import and export of cognitive science" year 2009 label 38
+110291 24762 0.0 0.0 ellipse paper_id 2951147498 title "a decision based view of causality" year 2013 label 10
+113702 63292 0.0 0.0 ellipse paper_id 2951187028 title "optimal decomposition of belief networks" year 2013 label 10
+124923 65811 0.0 0.0 ellipse paper_id 2949085635 title "a probabilistic calculus of actions" year 2013 label 10
+124924 89783 0.0 0.0 ellipse paper_id 2952698191 title "argument calculus and networks" year 2013 label 10
+125034 105514 0.0 0.0 ellipse paper_id 2952771148 title "improved inapproximability for submodular maximization" year 2010 label 9
+125045 80504 0.0 0.0 ellipse paper_id 2953339160 title "a bayesian method for constructing bayesian belief networks from databases" year 2013 label 10
+125091 14020 0.0 0.0 ellipse paper_id 2950976837 title "any space probabilistic inference" year 2013 label 10
+125092 61888 0.0 0.0 ellipse paper_id 2949874547 title "query dags a practical paradigm for implementing belief network inference" year 2014 label 10
+125191 57854 0.0 0.0 ellipse paper_id 2949156273 title "integrated impact indicators i3 compared with impact factors ifs an alternative research design with policy implications" year 2011 label 38
+125251 80248 0.0 0.0 ellipse paper_id 2949167229 title "knowledge based decision model construction for hierarchical diagnosis a preliminary report" year 2013 label 10
+125367 63326 0.0 0.0 ellipse paper_id 2951804310 title "problem formulation as the reduction of a decision model" year 2013 label 10
+125390 69799 0.0 0.0 ellipse paper_id 2949195294 title "robust classification with context sensitive features" year 2002 label 24
+125409 103966 0.0 0.0 ellipse paper_id 2949685438 title "a learning approach to shallow parsing" year 2000 label 24
+125521 125314 0.0 0.0 ellipse paper_id 2952209933 title "a graph based inference method for conditional independence" year 2013 label 10
+125724 96209 0.0 0.0 ellipse paper_id 2950821578 title "optimized color gamuts for tiled displays" year 2002 label 20
+125834 143900 0.0 0.0 ellipse paper_id 2951829449 title "rate and power allocation under the pairwise distributed source coding constraint" year 2008 label 28
+126005 64760 0.0 0.0 ellipse paper_id 2958788635 title "directed reduction algorithms and decomposable graphs" year 2013 label 10
+126042 138615 0.0 0.0 ellipse paper_id 2952519470 title "using potential influence diagrams for probabilistic inference and decision making" year 2013 label 10
+126043 6213 0.0 0.0 ellipse paper_id 2953349603 title "value of evidence on influence diagrams" year 2013 label 10
+126059 139729 0.0 0.0 ellipse paper_id 2949799340 title "from relational databases to belief networks" year 2013 label 10
+126067 119890 0.0 0.0 ellipse paper_id 2950282333 title "journal maps interactive overlays and the measurement of interdisciplinarity on the basis of scopus data 1996 2012" year 2013 label 38
+126079 92130 0.0 0.0 ellipse paper_id 2949369842 title "efficient approximations for the marginal likelihood of incomplete data given a bayesian network" year 2013 label 24
+126095 39371 0.0 0.0 ellipse paper_id 2950681914 title "a method for planning given uncertain and incomplete information" year 2013 label 10
+126163 59905 0.0 0.0 ellipse paper_id 2106873602 title "temporal reasoning with probabilities" year 2013 label 10
+126314 143905 0.0 0.0 ellipse paper_id 2951887025 title "probabilistic causal reasoning" year 2013 label 10
+126336 41282 0.0 0.0 ellipse paper_id 2119567393 title "on heuristics for finding loop cutsets in multiply connected belief networks" year 2013 label 10
+126442 155851 0.0 0.0 ellipse paper_id 2952952637 title "indicators of structural change in the dynamics of science entropy statistics of the sci journal citation reports" year 2009 label 38
+126509 92327 0.0 0.0 ellipse paper_id 2952285503 title "reasoning with qualitative probabilities can be tractable" year 2013 label 10
+126603 108136 0.0 0.0 ellipse paper_id 2951764738 title "decision making with interval influence diagrams" year 2013 label 10
+126747 55431 0.0 0.0 ellipse paper_id 2951449634 title "nested junction trees" year 2013 label 10
+126757 16705 0.0 0.0 ellipse paper_id 2949546186 title "single strip triangulation of manifolds with arbitrary topology" year 2004 label 20
+127043 102666 0.0 0.0 ellipse paper_id 2949619200 title "differential privacy and the fat shattering dimension of linear queries" year 2010 label 34
+127073 21985 0.0 0.0 ellipse paper_id 2949620109 title "sensor validation using dynamic belief networks" year 2013 label 10
+127074 59386 0.0 0.0 ellipse paper_id 2951510497 title "model based influence diagrams for machine vision" year 2013 label 16
+127173 108010 0.0 0.0 ellipse paper_id 2949645714 title "using causal information and local measures to learn bayesian networks" year 2013 label 10
+127282 64497 0.0 0.0 ellipse paper_id 2949674273 title "topological parameters for time space tradeoff" year 2013 label 10
+127283 33969 0.0 0.0 ellipse paper_id 2950938561 title "a probabilistic approach to hierarchical model based diagnosis" year 2013 label 10
+127284 83062 0.0 0.0 ellipse paper_id 2952697623 title "an evaluation of structural parameters for probabilistic reasoning results on benchmark circuits" year 2013 label 10
+127398 90144 0.0 0.0 ellipse paper_id 1795584562 title "a note on the sign degree of formulas" year 2009 label 9
+127568 6113 0.0 0.0 ellipse paper_id 2951844204 title "dependency networks for collaborative filtering and data visualization" year 2013 label 10
+127604 34033 0.0 0.0 ellipse paper_id 2951800824 title "cryptographic randomized response techniques" year 2003 label 9
+127643 98854 0.0 0.0 ellipse paper_id 2951315610 title "electric routing and concurrent flow cutting" year 2009 label 39
+127737 23893 0.0 0.0 ellipse paper_id 1603679946 title "bayesian assessment of a connectionist model for fault detection" year 2013 label 10
+127892 21995 0.0 0.0 ellipse paper_id 2949728642 title "a definition and graphical representation for causality" year 2013 label 10
+128018 50146 0.0 0.0 ellipse paper_id 2952608481 title "bayesian networks for dependability analysis an application to digital control reliability" year 2013 label 10
+128487 94947 0.0 0.0 ellipse paper_id 2951697340 title "additive belief network models" year 2013 label 10
+128567 88207 0.0 0.0 ellipse paper_id 2950133467 title "the local emergence and global diffusion of research technologies an exploration of patterns of network formation" year 2010 label 38
+128659 109399 0.0 0.0 ellipse paper_id 2950884222 title "integrating model construction and evaluation" year 2013 label 10
+128662 84197 0.0 0.0 ellipse paper_id 2950040749 title "dynamic network updating techniques for diagnostic reasoning" year 2013 label 10
+128663 48806 0.0 0.0 ellipse paper_id 2951742101 title "a causal bayesian model for the diagnosis of appendicitis" year 2013 label 10
+128914 37961 0.0 0.0 ellipse paper_id 2950110105 title "tsallis q exponential describes the distribution of scientific citations a new characterization of the impact" year 2008 label 38
+128915 57199 0.0 0.0 ellipse paper_id 2002635954 title "evolving stochastic learning algorithm based on tsallis entropic index" year 2006 label 13
+129065 121312 0.0 0.0 ellipse paper_id 2952159457 title "local expression languages for probabilistic dependence a preliminary report" year 2013 label 10
+129066 124021 0.0 0.0 ellipse paper_id 2952863887 title "deriving a minimal i map of a belief network relative to a target ordering of its nodes" year 2013 label 10
+129580 96175 0.0 0.0 ellipse paper_id 2950372956 title "how to elicit many probabilities" year 2013 label 10
+129677 41974 0.0 0.0 ellipse paper_id 2950241399 title "parallel belief revision" year 2013 label 10
+129678 90926 0.0 0.0 ellipse paper_id 2950546778 title "non monotonic reasoning and the reversibility of belief change" year 2013 label 10
+129685 126537 0.0 0.0 ellipse paper_id 2950545580 title "learning mixtures of dag models" year 2013 label 24
+129737 122469 0.0 0.0 ellipse paper_id 2950354159 title "inferring informational goals from free text queries a bayesian approach" year 2013 label 31
+129900 42008 0.0 0.0 ellipse paper_id 2950684023 title "a rejoinder on energy versus impact indicators" year 2011 label 38
+130171 64679 0.0 0.0 ellipse paper_id 2952449375 title "innovation as a nonlinear process the scientometric perspective and the specification of an innovation opportunities explorer" year 2012 label 38
+130939 57956 0.0 0.0 ellipse paper_id 2950707715 title "some properties of plausible reasoning" year 2013 label 10
+130940 31452 0.0 0.0 ellipse paper_id 2952959279 title "deciding consistency of databases containing defeasible and strict information" year 2013 label 10
+131307 149365 0.0 0.0 ellipse paper_id 2952794796 title "tradeoffs in constructing and evaluating temporal influence diagrams" year 2013 label 10
+131477 48781 0.0 0.0 ellipse paper_id 2951417047 title "comprehensive indicator comparisons intelligible to non experts the case of two snip versions" year 2015 label 38
+131678 76651 0.0 0.0 ellipse paper_id 2953334266 title "deliberation scheduling for time critical sequential decision making" year 2013 label 10
+131707 150592 0.0 0.0 ellipse paper_id 2952412175 title "fraud uncollectible debt detection using a bayesian network based learning system a rare binary outcome with mixed data structures" year 2013 label 10
+132364 87063 0.0 0.0 ellipse paper_id 2952648241 title "epsilon safe planning" year 2013 label 10
+132713 8755 0.0 0.0 ellipse paper_id 2953044264 title "a decision tree of bigrams is an accurate predictor of word sense" year 2001 label 30
+132726 68479 0.0 0.0 ellipse paper_id 2950008657 title "on addressing efficiency concerns in privacy preserving data mining" year 2003 label 37
+132901 131939 0.0 0.0 ellipse paper_id 2951332437 title "greedy d approximation algorithm for covering with arbitrary constraints and submodular cost" year 2008 label 34
+132974 5411 0.0 0.0 ellipse paper_id 2170439023 title "unified theory of source coding part ii multiterminal problems" year 2005 label 28
+132975 162421 0.0 0.0 ellipse paper_id 2951608776 title "multiple description lattice vector quantization" year 2007 label 28
+132997 41148 0.0 0.0 ellipse paper_id 1557560514 title "distributed scientific communication in the european information society some cases of mode 2 fields of research" year 2010 label 31
+133218 104175 0.0 0.0 ellipse paper_id 2953195379 title "a combination of cutset conditioning with clique tree propagation in the pathfinder system" year 2013 label 10
+133285 63321 0.0 0.0 ellipse paper_id 2951772592 title "roberts theorem with neutrality a social welfare ordering approach" year 2010 label 36
+133370 142541 0.0 0.0 ellipse paper_id 2951482518 title "non monotone submodular maximization under matroid and knapsack constraints" year 2009 label 9
+133445 74369 0.0 0.0 ellipse paper_id 1598520519 title "the structure of bayes nets for vision recognition" year 2013 label 10
+133628 83532 0.0 0.0 ellipse paper_id 2128718641 title "online ad slotting with cancellations" year 2008 label 36
+133685 20837 0.0 0.0 ellipse paper_id 2951784571 title "process structure and modularity in reasoning with uncertainty" year 2013 label 10
+136039 16939 0.0 0.0 ellipse paper_id 2952585209 title "an entropy based learning algorithm of bayesian conditional trees" year 2013 label 24
+136340 51270 0.0 0.0 ellipse paper_id 2949243758 title "a backwards view for assessment" year 2013 label 10
+136990 125167 0.0 0.0 ellipse paper_id 2950095962 title "resources for evaluation of summarization techniques" year 1998 label 30
+137036 6176 0.0 0.0 ellipse paper_id 2952774135 title "a formal comparison of visual web wrapper generators" year 2003 label 37

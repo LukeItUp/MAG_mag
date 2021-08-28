@@ -1,9 +1,9 @@
 *vertices 5
-1 "s"
-2 "u"
-3 "v"
-4 "w"
-5 "t"
+1 "s" DOI "asdf1" fields ["a", "b"]
+2 "u" DOI "asdf2" fields ["a", "b"]
+3 "v" DOI "asdf3" fields ["a", "b"]
+4 "w" DOI "asdf4" fields ["a", "b"]
+5 "t" DOI "asdf5" fields ["a", "b"]
 *arcs
 1 2
 1 3

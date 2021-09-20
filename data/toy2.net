@@ -1,9 +1,9 @@
 *vertices 5
-1 "s" DOI "asdf1" fields ["a", "b"]
-2 "u" DOI "asdf2" fields ["a", "b"]
-3 "v" DOI "asdf3" fields ["a", "b"]
-4 "w" DOI "asdf4" fields ["a", "b"]
-5 "t" DOI "asdf5" fields ["a", "b"]
+1 "s" DOI "10.1016/J.JOI.2012.08.005"
+2 "u" DOI "10.1016/J.JOI.2013.01.013"
+3 "v" DOI "10.1007/S11192-014-1269-8"
+4 "w" DOI "10.1016/J.JOI.2012.03.005"
+5 "t" DOI "10.1145/2213977.2214088"
 *arcs
 1 2
 1 3
